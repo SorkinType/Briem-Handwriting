@@ -2,25 +2,31 @@
 
 Fontbakery version: 0.8.10
 
-<details><summary><b>[17] BriemHandwriting-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+<details><summary><b>[1] Family checks</b></summary><div><details><summary>🔥 <b>FAIL:</b> Each font in a family must have the same set of vertical metrics values. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/vertical_metrics">com.google.fonts/check/family/vertical_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
-But instead we have got:
-"Gunnlaugur SE Briem" [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking post.italicAngle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/italic_angle">com.google.fonts/check/italic_angle</a>)</summary><div>
+* 🔥 **FAIL** sTypoLineGap is not the same across the family:
+Briem Handwriting Regular: 53
+Briem Handwriting SemiBold: 29
+Briem Handwriting Thin: 75
+Briem Handwriting Black: 0
+Briem Handwriting UltraLight: 69
+Briem Handwriting Light: 63
+Briem Handwriting Medium: 44
+Briem Handwriting Bold: 14 [code: sTypoLineGap-mismatch]
+</div></details><br></div></details><details><summary><b>[15] BriemHandwriting-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking post.italicAngle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/italic_angle">com.google.fonts/check/italic_angle</a>)</summary><div>
 
 
 * 🔥 **FAIL** Font is not italic, so post.italicAngle should be equal to zero. [code: non-zero-normal]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.sTypoLineGap is "75" it should be 0 [code: bad-OS/2.sTypoLineGap]
+* 🔥 **FAIL** OS/2.sTypoLineGap is "53" it should be 0 [code: bad-OS/2.sTypoLineGap]
 * 🔥 **FAIL** The sum of hhea.ascender+abs(hhea.descender)+hhea.lineGap is 1000 when it should be at least 1200 [code: bad-hhea-range]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 Metrics match hhea Metrics. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/os2_metrics_match_hhea">com.google.fonts/check/os2_metrics_match_hhea</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2 sTypoLineGap (75) and hhea lineGap (0) must be equal. [code: lineGap]
+* 🔥 **FAIL** OS/2 sTypoLineGap (53) and hhea lineGap (0) must be equal. [code: lineGap]
 </div></details><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
 
 
@@ -30,56 +36,6 @@ But instead we have got:
 
 * ⚠ **WARN** OS/2 VendorID value 'NONE' is not yet recognized. If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
  [code: unknown]
-</div></details><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
-
-	- 0x01D7 (LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE)
-
-
-	- 0x01D9 (LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON)
-
-
-	- 0x01DB (LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE)
-
-
-	- 0x01D5 (LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON)
-
-
-	- 0x01D6 (LATIN SMALL LETTER U WITH DIAERESIS AND MACRON)
-
-
-	- 0x207F (SUPERSCRIPT LATIN SMALL LETTER N)
-
-
-	- 0x030D (COMBINING VERTICAL LINE ABOVE)
-
-
-	- 0x0358 (COMBINING DOT ABOVE RIGHT)
- 
-
-	- And 0x1D3A (MODIFIER LETTER CAPITAL N)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_TransLatin_Arabic is almost fulfilled. Missing codepoints:
-
-	- 0x1E21 (LATIN SMALL LETTER G WITH MACRON)
-
-
-	- 0x1E35 (LATIN SMALL LETTER K WITH LINE BELOW)
-
-
-	- 0x02BF (MODIFIER LETTER LEFT HALF RING)
-
-
-	- 0x02BE (MODIFIER LETTER RIGHT HALF RING)
-
-
-	- 0x1E96 (LATIN SMALL LETTER H WITH LINE BELOW)
- 
-
-	- And 0x02BD (MODIFIER LETTER REVERSED COMMA)
- [code: missing-codepoints]
 </div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
 
 
@@ -125,13 +81,13 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni0180	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni018E	Contours detected: 1	Expected: 2
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0228	Contours detected: 2	Expected: 1 
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1 
 
-	- And 44 more.
+	- And 80 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -200,28 +156,22 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 	* uni0157 (U+0157): B<<207.5,302.0>-<205.0,273.0>-<204.0,263.0>>/B<<204.0,263.0>-<235.0,356.0>-<268.0,414.0>> = 12.724355685422335 
 
-	* And 15 more.
+	* And 16 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[18] BriemHandwriting-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
-
-
-* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
-But instead we have got:
-"Gunnlaugur SE Briem" [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking post.italicAngle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/italic_angle">com.google.fonts/check/italic_angle</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[16] BriemHandwriting-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking post.italicAngle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/italic_angle">com.google.fonts/check/italic_angle</a>)</summary><div>
 
 
 * 🔥 **FAIL** Font is not italic, so post.italicAngle should be equal to zero. [code: non-zero-normal]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.sTypoLineGap is "75" it should be 0 [code: bad-OS/2.sTypoLineGap]
+* 🔥 **FAIL** OS/2.sTypoLineGap is "29" it should be 0 [code: bad-OS/2.sTypoLineGap]
 * 🔥 **FAIL** The sum of hhea.ascender+abs(hhea.descender)+hhea.lineGap is 1000 when it should be at least 1200 [code: bad-hhea-range]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 Metrics match hhea Metrics. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/os2_metrics_match_hhea">com.google.fonts/check/os2_metrics_match_hhea</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2 sTypoLineGap (75) and hhea lineGap (0) must be equal. [code: lineGap]
+* 🔥 **FAIL** OS/2 sTypoLineGap (29) and hhea lineGap (0) must be equal. [code: lineGap]
 </div></details><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
 
 
@@ -231,56 +181,6 @@ But instead we have got:
 
 * ⚠ **WARN** OS/2 VendorID value 'NONE' is not yet recognized. If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
  [code: unknown]
-</div></details><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
-
-	- 0x01D7 (LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE)
-
-
-	- 0x01D9 (LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON)
-
-
-	- 0x01DB (LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE)
-
-
-	- 0x01D5 (LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON)
-
-
-	- 0x01D6 (LATIN SMALL LETTER U WITH DIAERESIS AND MACRON)
-
-
-	- 0x207F (SUPERSCRIPT LATIN SMALL LETTER N)
-
-
-	- 0x030D (COMBINING VERTICAL LINE ABOVE)
-
-
-	- 0x0358 (COMBINING DOT ABOVE RIGHT)
- 
-
-	- And 0x1D3A (MODIFIER LETTER CAPITAL N)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_TransLatin_Arabic is almost fulfilled. Missing codepoints:
-
-	- 0x1E21 (LATIN SMALL LETTER G WITH MACRON)
-
-
-	- 0x1E35 (LATIN SMALL LETTER K WITH LINE BELOW)
-
-
-	- 0x02BF (MODIFIER LETTER LEFT HALF RING)
-
-
-	- 0x02BE (MODIFIER LETTER RIGHT HALF RING)
-
-
-	- 0x1E96 (LATIN SMALL LETTER H WITH LINE BELOW)
- 
-
-	- And 0x02BD (MODIFIER LETTER REVERSED COMMA)
- [code: missing-codepoints]
 </div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
 
 
@@ -333,13 +233,13 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni0180	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni018E	Contours detected: 1	Expected: 2
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0228	Contours detected: 2	Expected: 1 
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1 
 
-	- And 42 more.
+	- And 78 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -408,16 +308,10 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 	* rcaron (U+0159): B<<241.5,320.0>-<239.0,294.0>-<238.0,278.0>>/B<<238.0,278.0>-<278.0,402.0>-<324.5,463.0>> = 14.302362220843962 
 
-	* And 23 more.
+	* And 24 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[18] BriemHandwriting-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
-
-
-* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
-But instead we have got:
-"Gunnlaugur SE Briem" [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking post.italicAngle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/italic_angle">com.google.fonts/check/italic_angle</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[16] BriemHandwriting-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking post.italicAngle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/italic_angle">com.google.fonts/check/italic_angle</a>)</summary><div>
 
 
 * 🔥 **FAIL** Font is not italic, so post.italicAngle should be equal to zero. [code: non-zero-normal]
@@ -439,56 +333,6 @@ But instead we have got:
 
 * ⚠ **WARN** OS/2 VendorID value 'NONE' is not yet recognized. If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
  [code: unknown]
-</div></details><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
-
-	- 0x01D7 (LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE)
-
-
-	- 0x01D9 (LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON)
-
-
-	- 0x01DB (LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE)
-
-
-	- 0x01D5 (LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON)
-
-
-	- 0x01D6 (LATIN SMALL LETTER U WITH DIAERESIS AND MACRON)
-
-
-	- 0x207F (SUPERSCRIPT LATIN SMALL LETTER N)
-
-
-	- 0x030D (COMBINING VERTICAL LINE ABOVE)
-
-
-	- 0x0358 (COMBINING DOT ABOVE RIGHT)
- 
-
-	- And 0x1D3A (MODIFIER LETTER CAPITAL N)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_TransLatin_Arabic is almost fulfilled. Missing codepoints:
-
-	- 0x1E21 (LATIN SMALL LETTER G WITH MACRON)
-
-
-	- 0x1E35 (LATIN SMALL LETTER K WITH LINE BELOW)
-
-
-	- 0x02BF (MODIFIER LETTER LEFT HALF RING)
-
-
-	- 0x02BE (MODIFIER LETTER RIGHT HALF RING)
-
-
-	- 0x1E96 (LATIN SMALL LETTER H WITH LINE BELOW)
- 
-
-	- And 0x02BD (MODIFIER LETTER REVERSED COMMA)
- [code: missing-codepoints]
 </div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
 
 
@@ -541,13 +385,13 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni0180	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni018E	Contours detected: 1	Expected: 2
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0228	Contours detected: 2	Expected: 1 
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1 
 
-	- And 44 more.
+	- And 80 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -597,25 +441,10 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 * ⚠ **WARN** The following glyphs have jaggy segments:
 
 	* uni20B2 (U+20B2): L<<357.0,-13.0>--<361.0,-13.0>>/B<<361.0,-13.0>-<267.0,-8.0>-<200.5,34.0>> = 3.044778444193999 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[18] BriemHandwriting-Black.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[13] BriemHandwriting-Black.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
-But instead we have got:
-"Gunnlaugur SE Briem" [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking post.italicAngle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/italic_angle">com.google.fonts/check/italic_angle</a>)</summary><div>
-
-
-* 🔥 **FAIL** Font is not italic, so post.italicAngle should be equal to zero. [code: non-zero-normal]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.sTypoLineGap is "75" it should be 0 [code: bad-OS/2.sTypoLineGap]
 * 🔥 **FAIL** The sum of hhea.ascender+abs(hhea.descender)+hhea.lineGap is 1000 when it should be at least 1200 [code: bad-hhea-range]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 Metrics match hhea Metrics. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/os2_metrics_match_hhea">com.google.fonts/check/os2_metrics_match_hhea</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2 sTypoLineGap (75) and hhea lineGap (0) must be equal. [code: lineGap]
 </div></details><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
 
 
@@ -625,56 +454,6 @@ But instead we have got:
 
 * ⚠ **WARN** OS/2 VendorID value 'NONE' is not yet recognized. If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
  [code: unknown]
-</div></details><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
-
-	- 0x01D7 (LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE)
-
-
-	- 0x01D9 (LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON)
-
-
-	- 0x01DB (LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE)
-
-
-	- 0x01D5 (LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON)
-
-
-	- 0x01D6 (LATIN SMALL LETTER U WITH DIAERESIS AND MACRON)
-
-
-	- 0x207F (SUPERSCRIPT LATIN SMALL LETTER N)
-
-
-	- 0x030D (COMBINING VERTICAL LINE ABOVE)
-
-
-	- 0x0358 (COMBINING DOT ABOVE RIGHT)
- 
-
-	- And 0x1D3A (MODIFIER LETTER CAPITAL N)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_TransLatin_Arabic is almost fulfilled. Missing codepoints:
-
-	- 0x1E21 (LATIN SMALL LETTER G WITH MACRON)
-
-
-	- 0x1E35 (LATIN SMALL LETTER K WITH LINE BELOW)
-
-
-	- 0x02BF (MODIFIER LETTER LEFT HALF RING)
-
-
-	- 0x02BE (MODIFIER LETTER RIGHT HALF RING)
-
-
-	- 0x1E96 (LATIN SMALL LETTER H WITH LINE BELOW)
- 
-
-	- And 0x02BD (MODIFIER LETTER REVERSED COMMA)
- [code: missing-codepoints]
 </div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
 
 
@@ -727,13 +506,13 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni0180	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni018E	Contours detected: 1	Expected: 2
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0228	Contours detected: 2	Expected: 1 
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1 
 
-	- And 42 more.
+	- And 78 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -741,10 +520,6 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
-</div></details><details><summary>⚠ <b>WARN:</b> Checking Vertical Metric Linegaps. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/hhea.html#com.google.fonts/check/linegaps">com.google.fonts/check/linegaps</a>)</summary><div>
-
-
-* ⚠ **WARN** OS/2 sTypoLineGap is not equal to 0. [code: OS/2]
 </div></details><details><summary>⚠ <b>WARN:</b> Does GPOS table have kerning information? This check skips monospaced fonts as defined by post.isFixedPitch value (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gpos.html#com.google.fonts/check/gpos_kerning_info">com.google.fonts/check/gpos_kerning_info</a>)</summary><div>
 
 
@@ -802,19 +577,13 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 	* b (U+0062): B<<283.0,315.0>-<281.0,284.0>-<281.0,275.0>>/B<<281.0,275.0>-<283.0,295.0>-<300.5,325.5>> = 5.710593137499633 
 
-	* And 115 more.
+	* And 136 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[19] BriemHandwriting-UltraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWeightClass. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/usweightclass">com.google.fonts/check/usweightclass</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[17] BriemHandwriting-UltraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWeightClass. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/usweightclass">com.google.fonts/check/usweightclass</a>)</summary><div>
 
 
 * 🔥 **FAIL** OS/2 usWeightClass is '200' when it should be '300'. [code: bad-value]
-</div></details><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
-
-
-* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
-But instead we have got:
-"Gunnlaugur SE Briem" [code: bad-notice-format]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check font names are correct (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_names">com.google.fonts/check/font_names</a>)</summary><div>
 
 
@@ -832,12 +601,12 @@ But instead we have got:
 </div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.sTypoLineGap is "75" it should be 0 [code: bad-OS/2.sTypoLineGap]
+* 🔥 **FAIL** OS/2.sTypoLineGap is "69" it should be 0 [code: bad-OS/2.sTypoLineGap]
 * 🔥 **FAIL** The sum of hhea.ascender+abs(hhea.descender)+hhea.lineGap is 1000 when it should be at least 1200 [code: bad-hhea-range]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 Metrics match hhea Metrics. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/os2_metrics_match_hhea">com.google.fonts/check/os2_metrics_match_hhea</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2 sTypoLineGap (75) and hhea lineGap (0) must be equal. [code: lineGap]
+* 🔥 **FAIL** OS/2 sTypoLineGap (69) and hhea lineGap (0) must be equal. [code: lineGap]
 </div></details><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
 
 
@@ -847,56 +616,6 @@ But instead we have got:
 
 * ⚠ **WARN** OS/2 VendorID value 'NONE' is not yet recognized. If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
  [code: unknown]
-</div></details><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
-
-	- 0x01D7 (LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE)
-
-
-	- 0x01D9 (LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON)
-
-
-	- 0x01DB (LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE)
-
-
-	- 0x01D5 (LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON)
-
-
-	- 0x01D6 (LATIN SMALL LETTER U WITH DIAERESIS AND MACRON)
-
-
-	- 0x207F (SUPERSCRIPT LATIN SMALL LETTER N)
-
-
-	- 0x030D (COMBINING VERTICAL LINE ABOVE)
-
-
-	- 0x0358 (COMBINING DOT ABOVE RIGHT)
- 
-
-	- And 0x1D3A (MODIFIER LETTER CAPITAL N)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_TransLatin_Arabic is almost fulfilled. Missing codepoints:
-
-	- 0x1E21 (LATIN SMALL LETTER G WITH MACRON)
-
-
-	- 0x1E35 (LATIN SMALL LETTER K WITH LINE BELOW)
-
-
-	- 0x02BF (MODIFIER LETTER LEFT HALF RING)
-
-
-	- 0x02BE (MODIFIER LETTER RIGHT HALF RING)
-
-
-	- 0x1E96 (LATIN SMALL LETTER H WITH LINE BELOW)
- 
-
-	- And 0x02BD (MODIFIER LETTER REVERSED COMMA)
- [code: missing-codepoints]
 </div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
 
 
@@ -949,13 +668,13 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni0180	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni018E	Contours detected: 1	Expected: 2
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0228	Contours detected: 2	Expected: 1 
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1 
 
-	- And 44 more.
+	- And 80 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -1005,25 +724,19 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 * ⚠ **WARN** The following glyphs have jaggy segments:
 
 	* uni20B2 (U+20B2): L<<357.0,-13.0>--<361.0,-13.0>>/B<<361.0,-13.0>-<267.0,-8.0>-<200.5,34.0>> = 3.044778444193999 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[18] BriemHandwriting-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
-
-
-* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
-But instead we have got:
-"Gunnlaugur SE Briem" [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking post.italicAngle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/italic_angle">com.google.fonts/check/italic_angle</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[16] BriemHandwriting-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking post.italicAngle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/italic_angle">com.google.fonts/check/italic_angle</a>)</summary><div>
 
 
 * 🔥 **FAIL** Font is not italic, so post.italicAngle should be equal to zero. [code: non-zero-normal]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.sTypoLineGap is "75" it should be 0 [code: bad-OS/2.sTypoLineGap]
+* 🔥 **FAIL** OS/2.sTypoLineGap is "63" it should be 0 [code: bad-OS/2.sTypoLineGap]
 * 🔥 **FAIL** The sum of hhea.ascender+abs(hhea.descender)+hhea.lineGap is 1000 when it should be at least 1200 [code: bad-hhea-range]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 Metrics match hhea Metrics. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/os2_metrics_match_hhea">com.google.fonts/check/os2_metrics_match_hhea</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2 sTypoLineGap (75) and hhea lineGap (0) must be equal. [code: lineGap]
+* 🔥 **FAIL** OS/2 sTypoLineGap (63) and hhea lineGap (0) must be equal. [code: lineGap]
 </div></details><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
 
 
@@ -1033,56 +746,6 @@ But instead we have got:
 
 * ⚠ **WARN** OS/2 VendorID value 'NONE' is not yet recognized. If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
  [code: unknown]
-</div></details><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
-
-	- 0x01D7 (LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE)
-
-
-	- 0x01D9 (LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON)
-
-
-	- 0x01DB (LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE)
-
-
-	- 0x01D5 (LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON)
-
-
-	- 0x01D6 (LATIN SMALL LETTER U WITH DIAERESIS AND MACRON)
-
-
-	- 0x207F (SUPERSCRIPT LATIN SMALL LETTER N)
-
-
-	- 0x030D (COMBINING VERTICAL LINE ABOVE)
-
-
-	- 0x0358 (COMBINING DOT ABOVE RIGHT)
- 
-
-	- And 0x1D3A (MODIFIER LETTER CAPITAL N)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_TransLatin_Arabic is almost fulfilled. Missing codepoints:
-
-	- 0x1E21 (LATIN SMALL LETTER G WITH MACRON)
-
-
-	- 0x1E35 (LATIN SMALL LETTER K WITH LINE BELOW)
-
-
-	- 0x02BF (MODIFIER LETTER LEFT HALF RING)
-
-
-	- 0x02BE (MODIFIER LETTER RIGHT HALF RING)
-
-
-	- 0x1E96 (LATIN SMALL LETTER H WITH LINE BELOW)
- 
-
-	- And 0x02BD (MODIFIER LETTER REVERSED COMMA)
- [code: missing-codepoints]
 </div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
 
 
@@ -1135,13 +798,13 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni0180	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni018E	Contours detected: 1	Expected: 2
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0228	Contours detected: 2	Expected: 1 
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1 
 
-	- And 44 more.
+	- And 80 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -1210,28 +873,22 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 	* uni01CC (U+01CC): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618 
 
-	* And 11 more.
+	* And 12 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[18] BriemHandwriting-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
-
-
-* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
-But instead we have got:
-"Gunnlaugur SE Briem" [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking post.italicAngle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/italic_angle">com.google.fonts/check/italic_angle</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[16] BriemHandwriting-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking post.italicAngle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/italic_angle">com.google.fonts/check/italic_angle</a>)</summary><div>
 
 
 * 🔥 **FAIL** Font is not italic, so post.italicAngle should be equal to zero. [code: non-zero-normal]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.sTypoLineGap is "75" it should be 0 [code: bad-OS/2.sTypoLineGap]
+* 🔥 **FAIL** OS/2.sTypoLineGap is "44" it should be 0 [code: bad-OS/2.sTypoLineGap]
 * 🔥 **FAIL** The sum of hhea.ascender+abs(hhea.descender)+hhea.lineGap is 1000 when it should be at least 1200 [code: bad-hhea-range]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 Metrics match hhea Metrics. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/os2_metrics_match_hhea">com.google.fonts/check/os2_metrics_match_hhea</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2 sTypoLineGap (75) and hhea lineGap (0) must be equal. [code: lineGap]
+* 🔥 **FAIL** OS/2 sTypoLineGap (44) and hhea lineGap (0) must be equal. [code: lineGap]
 </div></details><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
 
 
@@ -1241,56 +898,6 @@ But instead we have got:
 
 * ⚠ **WARN** OS/2 VendorID value 'NONE' is not yet recognized. If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
  [code: unknown]
-</div></details><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
-
-	- 0x01D7 (LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE)
-
-
-	- 0x01D9 (LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON)
-
-
-	- 0x01DB (LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE)
-
-
-	- 0x01D5 (LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON)
-
-
-	- 0x01D6 (LATIN SMALL LETTER U WITH DIAERESIS AND MACRON)
-
-
-	- 0x207F (SUPERSCRIPT LATIN SMALL LETTER N)
-
-
-	- 0x030D (COMBINING VERTICAL LINE ABOVE)
-
-
-	- 0x0358 (COMBINING DOT ABOVE RIGHT)
- 
-
-	- And 0x1D3A (MODIFIER LETTER CAPITAL N)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_TransLatin_Arabic is almost fulfilled. Missing codepoints:
-
-	- 0x1E21 (LATIN SMALL LETTER G WITH MACRON)
-
-
-	- 0x1E35 (LATIN SMALL LETTER K WITH LINE BELOW)
-
-
-	- 0x02BF (MODIFIER LETTER LEFT HALF RING)
-
-
-	- 0x02BE (MODIFIER LETTER RIGHT HALF RING)
-
-
-	- 0x1E96 (LATIN SMALL LETTER H WITH LINE BELOW)
- 
-
-	- And 0x02BD (MODIFIER LETTER REVERSED COMMA)
- [code: missing-codepoints]
 </div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
 
 
@@ -1343,13 +950,13 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni0180	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni018E	Contours detected: 1	Expected: 2
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0228	Contours detected: 2	Expected: 1 
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1 
 
-	- And 44 more.
+	- And 80 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -1418,28 +1025,22 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 	* uni0146 (U+0146): B<<211.5,233.5>-<209.0,206.0>-<208.0,197.0>>/B<<208.0,197.0>-<220.0,230.0>-<245.0,273.0>> = 13.642914775990052 
 
-	* And 19 more.
+	* And 20 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[17] BriemHandwriting-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Copyright notices match canonical pattern in fonts (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_copyright">com.google.fonts/check/font_copyright</a>)</summary><div>
-
-
-* 🔥 **FAIL** Name Table entry: Copyright notices should match a pattern similar to: "Copyright 2019 The Familyname Project Authors (git url)"
-But instead we have got:
-"Gunnlaugur SE Briem" [code: bad-notice-format]
-</div></details><details><summary>🔥 <b>FAIL:</b> Checking post.italicAngle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/italic_angle">com.google.fonts/check/italic_angle</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[15] BriemHandwriting-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking post.italicAngle value. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/italic_angle">com.google.fonts/check/italic_angle</a>)</summary><div>
 
 
 * 🔥 **FAIL** Font is not italic, so post.italicAngle should be equal to zero. [code: non-zero-normal]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check font follows the Google Fonts vertical metric schema (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vertical_metrics">com.google.fonts/check/vertical_metrics</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.sTypoLineGap is "75" it should be 0 [code: bad-OS/2.sTypoLineGap]
+* 🔥 **FAIL** OS/2.sTypoLineGap is "14" it should be 0 [code: bad-OS/2.sTypoLineGap]
 * 🔥 **FAIL** The sum of hhea.ascender+abs(hhea.descender)+hhea.lineGap is 1000 when it should be at least 1200 [code: bad-hhea-range]
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 Metrics match hhea Metrics. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/os2_metrics_match_hhea">com.google.fonts/check/os2_metrics_match_hhea</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2 sTypoLineGap (75) and hhea lineGap (0) must be equal. [code: lineGap]
+* 🔥 **FAIL** OS/2 sTypoLineGap (14) and hhea lineGap (0) must be equal. [code: lineGap]
 </div></details><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
 
 
@@ -1449,56 +1050,6 @@ But instead we have got:
 
 * ⚠ **WARN** OS/2 VendorID value 'NONE' is not yet recognized. If you registered it recently, then it's safe to ignore this warning message. Otherwise, you should set it to your own unique 4 character code, and register it with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx
  [code: unknown]
-</div></details><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
-
-	- 0x01D7 (LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE)
-
-
-	- 0x01D9 (LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON)
-
-
-	- 0x01DB (LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE)
-
-
-	- 0x01D5 (LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON)
-
-
-	- 0x01D6 (LATIN SMALL LETTER U WITH DIAERESIS AND MACRON)
-
-
-	- 0x207F (SUPERSCRIPT LATIN SMALL LETTER N)
-
-
-	- 0x030D (COMBINING VERTICAL LINE ABOVE)
-
-
-	- 0x0358 (COMBINING DOT ABOVE RIGHT)
- 
-
-	- And 0x1D3A (MODIFIER LETTER CAPITAL N)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_TransLatin_Arabic is almost fulfilled. Missing codepoints:
-
-	- 0x1E21 (LATIN SMALL LETTER G WITH MACRON)
-
-
-	- 0x1E35 (LATIN SMALL LETTER K WITH LINE BELOW)
-
-
-	- 0x02BF (MODIFIER LETTER LEFT HALF RING)
-
-
-	- 0x02BE (MODIFIER LETTER RIGHT HALF RING)
-
-
-	- 0x1E96 (LATIN SMALL LETTER H WITH LINE BELOW)
- 
-
-	- And 0x02BD (MODIFIER LETTER REVERSED COMMA)
- [code: missing-codepoints]
 </div></details><details><summary>⚠ <b>WARN:</b> Are there caret positions declared for every ligature? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/ligature_carets">com.google.fonts/check/ligature_carets</a>)</summary><div>
 
 
@@ -1544,13 +1095,13 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni0180	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni018E	Contours detected: 1	Expected: 2
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
-	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0228	Contours detected: 2	Expected: 1 
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1 
 
-	- And 42 more.
+	- And 78 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -1619,7 +1170,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 	* gdotaccent (U+0121): B<<396.5,197.0>-<396.0,233.0>-<396.0,260.0>>/B<<396.0,260.0>-<390.0,235.0>-<370.0,200.5>> = 13.495733280795811 
 
-	* And 90 more.
+	* And 102 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
 </div></details><br></div></details>
@@ -1627,8 +1178,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 41 | 102 | 894 | 49 | 625 | 0 |
-| 0% | 2% | 6% | 52% | 3% | 37% | 0% |
+| 0 | 32 | 93 | 893 | 49 | 644 | 0 |
+| 0% | 2% | 5% | 52% | 3% | 38% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
