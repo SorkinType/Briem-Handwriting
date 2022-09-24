@@ -2,11 +2,104 @@
 
 Fontbakery version: 0.8.10
 
-<details><summary><b>[11] BriemHand-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
+<details><summary><b>[9] BriemHand-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
 
 
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/BriemHand-Regular.ttf', 'fonts/ttf/BriemHandMedium.ttf', 'fonts/ttf/BriemHandUltraLight.ttf', 'fonts/ttf/BriemHandThin.ttf', 'fonts/ttf/BriemHand-Bold.ttf', 'fonts/ttf/BriemHandBlack.ttf', 'fonts/ttf/BriemHandSmBd.ttf', 'fonts/ttf/BriemHandLight.ttf']. [code: missing-os2-fsselection-bit7]
-</div></details><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
+* 🔥 **FAIL** Space and non-breaking space have differing width: The space glyph named space is 275 font units wide, non-breaking space named (uni00A0) is 0 font units wide, and both should be positive and the same. GlyphsApp has "Sidebearing arithmetic" (https://glyphsapp.com/tutorials/spacing) which allows you to set the non-breaking space width to always equal the space width. [code: different-widths]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
+
+
+* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
+</div></details><details><summary>⚠ <b>WARN:</b> Font contains '.notdef' as its first glyph? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/mandatory_glyphs">com.google.fonts/check/mandatory_glyphs</a>)</summary><div>
+
+
+* ⚠ **WARN** Glyph '.notdef' should contain a drawing, but it is empty. [code: empty]
+</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
+
+	- IJ_acutecomb
+
+	- ibar 
+
+	- And uni0328.alt
+ [code: unreachable-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+
+
+* ⚠ **WARN** This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]
+* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
+
+The following glyphs do not have the recommended number of contours:
+
+	- Glyph name: onehalf	Contours detected: 2	Expected: 3
+
+	- Glyph name: dcroat	Contours detected: 3	Expected: 2
+
+	- Glyph name: hbar	Contours detected: 2	Expected: 1
+
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0180	Contours detected: 3	Expected: 2
+
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni018E	Contours detected: 1	Expected: 2 
+
+	- And 78 more.
+
+Use -F or --full-lists to disable shortening of long lists.
+ [code: contour-count]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
+
+
+* ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
+</div></details><details><summary>⚠ <b>WARN:</b> Does GPOS table have kerning information? This check skips monospaced fonts as defined by post.isFixedPitch value (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gpos.html#com.google.fonts/check/gpos_kerning_info">com.google.fonts/check/gpos_kerning_info</a>)</summary><div>
+
+
+* ⚠ **WARN** GPOS table lacks kerning information. [code: lacks-kern-info]
+</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have colinear vectors:
+
+	* uni0283 (U+0283): L<<140.0,40.0>--<135.0,499.0>> -> L<<135.0,499.0>--<135.0,504.0>>
+
+	* uni0283 (U+0283): L<<202.0,571.0>--<199.0,499.0>> -> L<<199.0,499.0>--<199.0,-28.0>>
+
+	* uni0324 (U+0324): L<<200.0,-120.0>--<200.0,-126.0>> -> L<<200.0,-126.0>--<200.0,-131.0>>
+
+	* uni0324 (U+0324): L<<204.0,-145.0>--<205.0,-147.0>> -> L<<205.0,-147.0>--<206.0,-149.0>>
+
+	* uni0324 (U+0324): L<<216.0,-83.0>--<214.0,-85.0>> -> L<<214.0,-85.0>--<212.0,-87.0>>
+
+	* uni0324 (U+0324): L<<218.0,-81.0>--<216.0,-83.0>> -> L<<216.0,-83.0>--<214.0,-85.0>>
+
+	* uni0324 (U+0324): L<<219.0,-80.0>--<218.0,-81.0>> -> L<<218.0,-81.0>--<216.0,-83.0>>
+
+	* uni0324 (U+0324): L<<221.0,-78.0>--<219.0,-80.0>> -> L<<219.0,-80.0>--<218.0,-81.0>>
+
+	* uni0324 (U+0324): L<<223.0,-76.0>--<221.0,-78.0>> -> L<<221.0,-78.0>--<219.0,-80.0>>
+
+	* uni0324 (U+0324): L<<227.0,-74.0>--<225.0,-75.0>> -> L<<225.0,-75.0>--<223.0,-76.0>> 
+
+	* And 58 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
+</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have jaggy segments:
+
+	* uni20B2 (U+20B2): L<<357.0,-13.0>--<361.0,-13.0>>/B<<361.0,-13.0>-<267.0,-8.0>-<200.5,34.0>> = 3.044778444193999 [code: found-jaggy-segments]
+</div></details><br></div></details><details><summary><b>[10] BriemHand-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
 
 
 * 🔥 **FAIL** Space and non-breaking space have differing width: The space glyph named space is 275 font units wide, non-breaking space named (uni00A0) is 80 font units wide, and both should be positive and the same. GlyphsApp has "Sidebearing arithmetic" (https://glyphsapp.com/tutorials/spacing) which allows you to set the non-breaking space width to always equal the space width. [code: different-widths]
@@ -137,15 +230,239 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 	* uni0283 (U+0283): L<<230.0,499.0>--<227.0,-1.0>> 
 
 	* And uni1E1F (U+1E1F): L<<230.0,442.0>--<227.0,-1.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[12] BriemHandMedium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking file is named canonically. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/canonical_filename">com.google.fonts/check/canonical_filename</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[10] BriemHand-SmBd.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking file is named canonically. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/canonical_filename">com.google.fonts/check/canonical_filename</a>)</summary><div>
 
 
-* 🔥 **FAIL** Expected "BriemHand-Medium.ttf. Got BriemHandMedium.ttf. [code: bad-filename]
-</div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/BriemHand-Regular.ttf', 'fonts/ttf/BriemHandMedium.ttf', 'fonts/ttf/BriemHandUltraLight.ttf', 'fonts/ttf/BriemHandThin.ttf', 'fonts/ttf/BriemHand-Bold.ttf', 'fonts/ttf/BriemHandBlack.ttf', 'fonts/ttf/BriemHandSmBd.ttf', 'fonts/ttf/BriemHandLight.ttf']. [code: missing-os2-fsselection-bit7]
+* 🔥 **FAIL** Expected "BriemHand-SemiBold.ttf. Got BriemHand-SmBd.ttf. [code: bad-filename]
 </div></details><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
+
+
+* 🔥 **FAIL** Space and non-breaking space have differing width: The space glyph named space is 275 font units wide, non-breaking space named (uni00A0) is 168 font units wide, and both should be positive and the same. GlyphsApp has "Sidebearing arithmetic" (https://glyphsapp.com/tutorials/spacing) which allows you to set the non-breaking space width to always equal the space width. [code: different-widths]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
+
+
+* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
+</div></details><details><summary>⚠ <b>WARN:</b> Font contains '.notdef' as its first glyph? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/mandatory_glyphs">com.google.fonts/check/mandatory_glyphs</a>)</summary><div>
+
+
+* ⚠ **WARN** Glyph '.notdef' should contain a drawing, but it is empty. [code: empty]
+</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
+
+	- IJ_acutecomb
+
+	- ibar 
+
+	- And uni0328.alt
+ [code: unreachable-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+
+
+* ⚠ **WARN** This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]
+* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
+
+The following glyphs do not have the recommended number of contours:
+
+	- Glyph name: onehalf	Contours detected: 2	Expected: 3
+
+	- Glyph name: dcroat	Contours detected: 3	Expected: 2
+
+	- Glyph name: hbar	Contours detected: 2	Expected: 1
+
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0180	Contours detected: 3	Expected: 2
+
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni018E	Contours detected: 1	Expected: 2 
+
+	- And 76 more.
+
+Use -F or --full-lists to disable shortening of long lists.
+ [code: contour-count]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
+
+
+* ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
+</div></details><details><summary>⚠ <b>WARN:</b> Does GPOS table have kerning information? This check skips monospaced fonts as defined by post.isFixedPitch value (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gpos.html#com.google.fonts/check/gpos_kerning_info">com.google.fonts/check/gpos_kerning_info</a>)</summary><div>
+
+
+* ⚠ **WARN** GPOS table lacks kerning information. [code: lacks-kern-info]
+</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have colinear vectors:
+
+	* Z (U+005A): L<<166.0,336.0>--<180.0,336.0>> -> L<<180.0,336.0>--<180.0,336.0>>
+
+	* Z (U+005A): L<<180.0,336.0>--<180.0,336.0>> -> L<<180.0,336.0>--<182.0,336.0>>
+
+	* Zacute (U+0179): L<<166.0,336.0>--<180.0,336.0>> -> L<<180.0,336.0>--<180.0,336.0>>
+
+	* Zacute (U+0179): L<<180.0,336.0>--<180.0,336.0>> -> L<<180.0,336.0>--<182.0,336.0>>
+
+	* Zcaron (U+017D): L<<166.0,336.0>--<180.0,336.0>> -> L<<180.0,336.0>--<180.0,336.0>>
+
+	* Zcaron (U+017D): L<<180.0,336.0>--<180.0,336.0>> -> L<<180.0,336.0>--<182.0,336.0>>
+
+	* Zdotaccent (U+017B): L<<166.0,336.0>--<180.0,336.0>> -> L<<180.0,336.0>--<180.0,336.0>>
+
+	* Zdotaccent (U+017B): L<<180.0,336.0>--<180.0,336.0>> -> L<<180.0,336.0>--<182.0,336.0>>
+
+	* uni01C4 (U+01C4): L<<934.0,336.0>--<948.0,336.0>> -> L<<948.0,336.0>--<948.0,336.0>>
+
+	* uni01C4 (U+01C4): L<<948.0,336.0>--<948.0,336.0>> -> L<<948.0,336.0>--<950.0,336.0>> 
+
+	* And 76 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
+</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have jaggy segments:
+
+	* Z (U+005A): B<<305.0,335.0>-<305.0,326.0>-<303.0,323.0>>/B<<303.0,323.0>-<311.0,332.0>-<309.5,329.0>> = 7.943471810590413
+
+	* Zacute (U+0179): B<<305.0,335.0>-<305.0,326.0>-<303.0,323.0>>/B<<303.0,323.0>-<311.0,332.0>-<309.5,329.0>> = 7.943471810590413
+
+	* Zcaron (U+017D): B<<305.0,335.0>-<305.0,326.0>-<303.0,323.0>>/B<<303.0,323.0>-<311.0,332.0>-<309.5,329.0>> = 7.943471810590413
+
+	* Zdotaccent (U+017B): B<<305.0,335.0>-<305.0,326.0>-<303.0,323.0>>/B<<303.0,323.0>-<311.0,332.0>-<309.5,329.0>> = 7.943471810590413
+
+	* b (U+0062): B<<241.5,288.0>-<239.0,250.0>-<238.0,233.0>>/B<<238.0,233.0>-<247.0,262.0>-<269.0,299.5>> = 13.874998735510172
+
+	* m (U+006D): B<<234.0,273.5>-<231.0,239.0>-<230.0,223.0>>/B<<230.0,223.0>-<238.0,252.0>-<260.5,291.0>> = 11.845826943741303
+
+	* m (U+006D): B<<569.5,264.5>-<567.0,236.0>-<566.0,224.0>>/B<<566.0,224.0>-<574.0,253.0>-<597.0,291.5>> = 10.658519628012485
+
+	* n (U+006E): B<<233.0,273.5>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303
+
+	* nacute (U+0144): B<<233.0,273.5>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303
+
+	* ncaron (U+0148): B<<233.0,273.5>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303 
+
+	* And 38 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
+</div></details><br></div></details><details><summary><b>[10] BriemHand-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
+
+
+* 🔥 **FAIL** Space and non-breaking space have differing width: The space glyph named space is 275 font units wide, non-breaking space named (uni00A0) is 46 font units wide, and both should be positive and the same. GlyphsApp has "Sidebearing arithmetic" (https://glyphsapp.com/tutorials/spacing) which allows you to set the non-breaking space width to always equal the space width. [code: different-widths]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
+
+
+* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
+</div></details><details><summary>⚠ <b>WARN:</b> Font contains '.notdef' as its first glyph? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/mandatory_glyphs">com.google.fonts/check/mandatory_glyphs</a>)</summary><div>
+
+
+* ⚠ **WARN** Glyph '.notdef' should contain a drawing, but it is empty. [code: empty]
+</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
+
+	- IJ_acutecomb
+
+	- ibar 
+
+	- And uni0328.alt
+ [code: unreachable-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+
+
+* ⚠ **WARN** This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]
+* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
+
+The following glyphs do not have the recommended number of contours:
+
+	- Glyph name: onehalf	Contours detected: 2	Expected: 3
+
+	- Glyph name: dcroat	Contours detected: 3	Expected: 2
+
+	- Glyph name: hbar	Contours detected: 2	Expected: 1
+
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0180	Contours detected: 3	Expected: 2
+
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni018E	Contours detected: 1	Expected: 2 
+
+	- And 78 more.
+
+Use -F or --full-lists to disable shortening of long lists.
+ [code: contour-count]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
+
+
+* ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
+</div></details><details><summary>⚠ <b>WARN:</b> Does GPOS table have kerning information? This check skips monospaced fonts as defined by post.isFixedPitch value (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gpos.html#com.google.fonts/check/gpos_kerning_info">com.google.fonts/check/gpos_kerning_info</a>)</summary><div>
+
+
+* ⚠ **WARN** GPOS table lacks kerning information. [code: lacks-kern-info]
+</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have colinear vectors:
+
+	* uni0283 (U+0283): L<<131.0,58.0>--<126.0,499.0>> -> L<<126.0,499.0>--<126.0,509.0>>
+
+	* uni0283 (U+0283): L<<219.0,565.0>--<217.0,499.0>> -> L<<217.0,499.0>--<215.0,-13.0>>
+
+	* uni0324 (U+0324): L<<200.0,-120.0>--<200.0,-126.0>> -> L<<200.0,-126.0>--<200.0,-131.0>>
+
+	* uni0324 (U+0324): L<<204.0,-145.0>--<205.0,-147.0>> -> L<<205.0,-147.0>--<206.0,-149.0>>
+
+	* uni0324 (U+0324): L<<216.0,-83.0>--<214.0,-85.0>> -> L<<214.0,-85.0>--<212.0,-87.0>>
+
+	* uni0324 (U+0324): L<<218.0,-81.0>--<216.0,-83.0>> -> L<<216.0,-83.0>--<214.0,-85.0>>
+
+	* uni0324 (U+0324): L<<219.0,-80.0>--<218.0,-81.0>> -> L<<218.0,-81.0>--<216.0,-83.0>>
+
+	* uni0324 (U+0324): L<<221.0,-78.0>--<219.0,-80.0>> -> L<<219.0,-80.0>--<218.0,-81.0>>
+
+	* uni0324 (U+0324): L<<223.0,-76.0>--<221.0,-78.0>> -> L<<221.0,-78.0>--<219.0,-80.0>>
+
+	* uni0324 (U+0324): L<<227.0,-74.0>--<225.0,-75.0>> -> L<<225.0,-75.0>--<223.0,-76.0>> 
+
+	* And 58 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
+</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have jaggy segments:
+
+	* uni20B2 (U+20B2): L<<357.0,-13.0>--<361.0,-13.0>>/B<<361.0,-13.0>-<267.0,-8.0>-<200.5,34.0>> = 3.044778444193999 [code: found-jaggy-segments]
+</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
+
+	* f (U+0066): L<<217.0,447.0>--<215.0,-13.0>>
+
+	* germandbls (U+00DF): L<<184.0,551.0>--<182.0,-12.0>>
+
+	* uni0283 (U+0283): L<<217.0,499.0>--<215.0,-13.0>> 
+
+	* And uni1E1F (U+1E1F): L<<217.0,447.0>--<215.0,-13.0>> [code: found-semi-vertical]
+</div></details><br></div></details><details><summary><b>[10] BriemHand-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
 
 
 * 🔥 **FAIL** Space and non-breaking space have differing width: The space glyph named space is 275 font units wide, non-breaking space named (uni00A0) is 114 font units wide, and both should be positive and the same. GlyphsApp has "Sidebearing arithmetic" (https://glyphsapp.com/tutorials/spacing) which allows you to set the non-breaking space width to always equal the space width. [code: different-widths]
@@ -272,10 +589,125 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 	* germandbls (U+00DF): L<<210.0,547.0>--<206.0,11.0>> 
 
 	* And uni0283 (U+0283): L<<243.0,499.0>--<239.0,11.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[13] BriemHandUltraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking file is named canonically. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/canonical_filename">com.google.fonts/check/canonical_filename</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] BriemHand-Black.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
 
 
-* 🔥 **FAIL** Expected "BriemHand-UltraLight.ttf. Got BriemHandUltraLight.ttf. [code: bad-filename]
+* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
+</div></details><details><summary>⚠ <b>WARN:</b> Font contains '.notdef' as its first glyph? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/mandatory_glyphs">com.google.fonts/check/mandatory_glyphs</a>)</summary><div>
+
+
+* ⚠ **WARN** Glyph '.notdef' should contain a drawing, but it is empty. [code: empty]
+</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
+
+	- IJ_acutecomb
+
+	- ibar 
+
+	- And uni0328.alt
+ [code: unreachable-glyphs]
+</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
+
+
+* ⚠ **WARN** This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]
+* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
+
+The following glyphs do not have the recommended number of contours:
+
+	- Glyph name: onehalf	Contours detected: 2	Expected: 3
+
+	- Glyph name: dcroat	Contours detected: 3	Expected: 2
+
+	- Glyph name: hbar	Contours detected: 2	Expected: 1
+
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: uogonek	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni0180	Contours detected: 3	Expected: 2
+
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni018E	Contours detected: 1	Expected: 2 
+
+	- And 76 more.
+
+Use -F or --full-lists to disable shortening of long lists.
+ [code: contour-count]
+</div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
+
+
+* ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
+</div></details><details><summary>⚠ <b>WARN:</b> Does GPOS table have kerning information? This check skips monospaced fonts as defined by post.isFixedPitch value (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gpos.html#com.google.fonts/check/gpos_kerning_info">com.google.fonts/check/gpos_kerning_info</a>)</summary><div>
+
+
+* ⚠ **WARN** GPOS table lacks kerning information. [code: lacks-kern-info]
+</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have colinear vectors:
+
+	* uni0283 (U+0283): L<<304.0,536.0>--<304.0,499.0>> -> L<<304.0,499.0>--<294.0,65.0>>
+
+	* uni0283 (U+0283): L<<86.0,146.0>--<81.0,499.0>> -> L<<81.0,499.0>--<81.0,534.0>>
+
+	* uni0324 (U+0324): L<<200.0,-120.0>--<200.0,-126.0>> -> L<<200.0,-126.0>--<200.0,-131.0>>
+
+	* uni0324 (U+0324): L<<204.0,-145.0>--<205.0,-147.0>> -> L<<205.0,-147.0>--<206.0,-149.0>>
+
+	* uni0324 (U+0324): L<<216.0,-83.0>--<214.0,-85.0>> -> L<<214.0,-85.0>--<212.0,-87.0>>
+
+	* uni0324 (U+0324): L<<218.0,-81.0>--<216.0,-83.0>> -> L<<216.0,-83.0>--<214.0,-85.0>>
+
+	* uni0324 (U+0324): L<<219.0,-80.0>--<218.0,-81.0>> -> L<<218.0,-81.0>--<216.0,-83.0>>
+
+	* uni0324 (U+0324): L<<221.0,-78.0>--<219.0,-80.0>> -> L<<219.0,-80.0>--<218.0,-81.0>>
+
+	* uni0324 (U+0324): L<<223.0,-76.0>--<221.0,-78.0>> -> L<<221.0,-78.0>--<219.0,-80.0>>
+
+	* uni0324 (U+0324): L<<227.0,-74.0>--<225.0,-75.0>> -> L<<225.0,-75.0>--<223.0,-76.0>> 
+
+	* And 58 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
+</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
+
+
+* ⚠ **WARN** The following glyphs have jaggy segments:
+
+	* a (U+0061): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* aacute (U+00E1): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* abreve (U+0103): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* adieresis (U+00E4): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* agrave (U+00E0): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* amacron (U+0101): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* aring (U+00E5): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* aringacute (U+01FB): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* atilde (U+00E3): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
+
+	* b (U+0062): B<<283.0,315.0>-<281.0,284.0>-<281.0,275.0>>/B<<281.0,275.0>-<283.0,295.0>-<300.5,325.5>> = 5.710593137499633 
+
+	* And 136 more.
+
+Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
+</div></details><br></div></details><details><summary><b>[12] BriemHand-UltraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWeightClass. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/usweightclass">com.google.fonts/check/usweightclass</a>)</summary><div>
+
+
+* 🔥 **FAIL** OS/2 usWeightClass is '200' when it should be '300'. [code: bad-value]
 </div></details><details><summary>🔥 <b>FAIL:</b> Check font names are correct (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/font_names">com.google.fonts/check/font_names</a>)</summary><div>
 
 
@@ -290,10 +722,6 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 | Typographic Family Name | BriemHand | N/A |
 | Typographic Subfamily Name | UltraLight | N/A | [code: bad-names]
 * ⚠ **WARN** Regular missing from full name [code: lacks-regular]
-</div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/BriemHand-Regular.ttf', 'fonts/ttf/BriemHandMedium.ttf', 'fonts/ttf/BriemHandUltraLight.ttf', 'fonts/ttf/BriemHandThin.ttf', 'fonts/ttf/BriemHand-Bold.ttf', 'fonts/ttf/BriemHandBlack.ttf', 'fonts/ttf/BriemHandSmBd.ttf', 'fonts/ttf/BriemHandLight.ttf']. [code: missing-os2-fsselection-bit7]
 </div></details><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
 
 
@@ -403,116 +831,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 	* uni0283 (U+0283): L<<207.0,499.0>--<206.0,-21.0>> 
 
 	* And uni1E1F (U+1E1F): L<<207.0,450.0>--<206.0,-21.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[11] BriemHandThin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking file is named canonically. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/canonical_filename">com.google.fonts/check/canonical_filename</a>)</summary><div>
-
-
-* 🔥 **FAIL** Expected "BriemHand-Thin.ttf. Got BriemHandThin.ttf. [code: bad-filename]
-</div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/BriemHand-Regular.ttf', 'fonts/ttf/BriemHandMedium.ttf', 'fonts/ttf/BriemHandUltraLight.ttf', 'fonts/ttf/BriemHandThin.ttf', 'fonts/ttf/BriemHand-Bold.ttf', 'fonts/ttf/BriemHandBlack.ttf', 'fonts/ttf/BriemHandSmBd.ttf', 'fonts/ttf/BriemHandLight.ttf']. [code: missing-os2-fsselection-bit7]
-</div></details><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
-
-
-* 🔥 **FAIL** Space and non-breaking space have differing width: The space glyph named space is 275 font units wide, non-breaking space named (uni00A0) is 0 font units wide, and both should be positive and the same. GlyphsApp has "Sidebearing arithmetic" (https://glyphsapp.com/tutorials/spacing) which allows you to set the non-breaking space width to always equal the space width. [code: different-widths]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
-
-
-* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Font contains '.notdef' as its first glyph? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/mandatory_glyphs">com.google.fonts/check/mandatory_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** Glyph '.notdef' should contain a drawing, but it is empty. [code: empty]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-
-	- IJ_acutecomb
-
-	- ibar 
-
-	- And uni0328.alt
- [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
-
-
-* ⚠ **WARN** This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]
-* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
-
-The following glyphs do not have the recommended number of contours:
-
-	- Glyph name: onehalf	Contours detected: 2	Expected: 3
-
-	- Glyph name: dcroat	Contours detected: 3	Expected: 2
-
-	- Glyph name: hbar	Contours detected: 2	Expected: 1
-
-	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni0180	Contours detected: 3	Expected: 2
-
-	- Glyph name: ohorn	Contours detected: 3	Expected: 2
-
-	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni018E	Contours detected: 1	Expected: 2 
-
-	- And 78 more.
-
-Use -F or --full-lists to disable shortening of long lists.
- [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
-
-
-* ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
-</div></details><details><summary>⚠ <b>WARN:</b> Does GPOS table have kerning information? This check skips monospaced fonts as defined by post.isFixedPitch value (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gpos.html#com.google.fonts/check/gpos_kerning_info">com.google.fonts/check/gpos_kerning_info</a>)</summary><div>
-
-
-* ⚠ **WARN** GPOS table lacks kerning information. [code: lacks-kern-info]
-</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have colinear vectors:
-
-	* uni0283 (U+0283): L<<140.0,40.0>--<135.0,499.0>> -> L<<135.0,499.0>--<135.0,504.0>>
-
-	* uni0283 (U+0283): L<<202.0,571.0>--<199.0,499.0>> -> L<<199.0,499.0>--<199.0,-28.0>>
-
-	* uni0324 (U+0324): L<<200.0,-120.0>--<200.0,-126.0>> -> L<<200.0,-126.0>--<200.0,-131.0>>
-
-	* uni0324 (U+0324): L<<204.0,-145.0>--<205.0,-147.0>> -> L<<205.0,-147.0>--<206.0,-149.0>>
-
-	* uni0324 (U+0324): L<<216.0,-83.0>--<214.0,-85.0>> -> L<<214.0,-85.0>--<212.0,-87.0>>
-
-	* uni0324 (U+0324): L<<218.0,-81.0>--<216.0,-83.0>> -> L<<216.0,-83.0>--<214.0,-85.0>>
-
-	* uni0324 (U+0324): L<<219.0,-80.0>--<218.0,-81.0>> -> L<<218.0,-81.0>--<216.0,-83.0>>
-
-	* uni0324 (U+0324): L<<221.0,-78.0>--<219.0,-80.0>> -> L<<219.0,-80.0>--<218.0,-81.0>>
-
-	* uni0324 (U+0324): L<<223.0,-76.0>--<221.0,-78.0>> -> L<<221.0,-78.0>--<219.0,-80.0>>
-
-	* uni0324 (U+0324): L<<227.0,-74.0>--<225.0,-75.0>> -> L<<225.0,-75.0>--<223.0,-76.0>> 
-
-	* And 58 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* uni20B2 (U+20B2): L<<357.0,-13.0>--<361.0,-13.0>>/B<<361.0,-13.0>-<267.0,-8.0>-<200.5,34.0>> = 3.044778444193999 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[10] BriemHand-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/BriemHand-Regular.ttf', 'fonts/ttf/BriemHandMedium.ttf', 'fonts/ttf/BriemHandUltraLight.ttf', 'fonts/ttf/BriemHandThin.ttf', 'fonts/ttf/BriemHand-Bold.ttf', 'fonts/ttf/BriemHandBlack.ttf', 'fonts/ttf/BriemHandSmBd.ttf', 'fonts/ttf/BriemHandLight.ttf']. [code: missing-os2-fsselection-bit7]
-</div></details><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] BriemHand-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
 
 
 * 🔥 **FAIL** Space and non-breaking space have differing width: The space glyph named space is 275 font units wide, non-breaking space named (uni00A0) is 222 font units wide, and both should be positive and the same. GlyphsApp has "Sidebearing arithmetic" (https://glyphsapp.com/tutorials/spacing) which allows you to set the non-breaking space width to always equal the space width. [code: different-widths]
@@ -631,380 +950,13 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 	* And 101 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[10] BriemHandBlack.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking file is named canonically. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/canonical_filename">com.google.fonts/check/canonical_filename</a>)</summary><div>
-
-
-* 🔥 **FAIL** Expected "BriemHand-Black.ttf. Got BriemHandBlack.ttf. [code: bad-filename]
-</div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/BriemHand-Regular.ttf', 'fonts/ttf/BriemHandMedium.ttf', 'fonts/ttf/BriemHandUltraLight.ttf', 'fonts/ttf/BriemHandThin.ttf', 'fonts/ttf/BriemHand-Bold.ttf', 'fonts/ttf/BriemHandBlack.ttf', 'fonts/ttf/BriemHandSmBd.ttf', 'fonts/ttf/BriemHandLight.ttf']. [code: missing-os2-fsselection-bit7]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
-
-
-* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Font contains '.notdef' as its first glyph? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/mandatory_glyphs">com.google.fonts/check/mandatory_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** Glyph '.notdef' should contain a drawing, but it is empty. [code: empty]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-
-	- IJ_acutecomb
-
-	- ibar 
-
-	- And uni0328.alt
- [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
-
-
-* ⚠ **WARN** This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]
-* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
-
-The following glyphs do not have the recommended number of contours:
-
-	- Glyph name: onehalf	Contours detected: 2	Expected: 3
-
-	- Glyph name: dcroat	Contours detected: 3	Expected: 2
-
-	- Glyph name: hbar	Contours detected: 2	Expected: 1
-
-	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni0180	Contours detected: 3	Expected: 2
-
-	- Glyph name: ohorn	Contours detected: 3	Expected: 2
-
-	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni018E	Contours detected: 1	Expected: 2 
-
-	- And 76 more.
-
-Use -F or --full-lists to disable shortening of long lists.
- [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
-
-
-* ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
-</div></details><details><summary>⚠ <b>WARN:</b> Does GPOS table have kerning information? This check skips monospaced fonts as defined by post.isFixedPitch value (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gpos.html#com.google.fonts/check/gpos_kerning_info">com.google.fonts/check/gpos_kerning_info</a>)</summary><div>
-
-
-* ⚠ **WARN** GPOS table lacks kerning information. [code: lacks-kern-info]
-</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have colinear vectors:
-
-	* uni0283 (U+0283): L<<304.0,536.0>--<304.0,499.0>> -> L<<304.0,499.0>--<294.0,65.0>>
-
-	* uni0283 (U+0283): L<<86.0,146.0>--<81.0,499.0>> -> L<<81.0,499.0>--<81.0,534.0>>
-
-	* uni0324 (U+0324): L<<200.0,-120.0>--<200.0,-126.0>> -> L<<200.0,-126.0>--<200.0,-131.0>>
-
-	* uni0324 (U+0324): L<<204.0,-145.0>--<205.0,-147.0>> -> L<<205.0,-147.0>--<206.0,-149.0>>
-
-	* uni0324 (U+0324): L<<216.0,-83.0>--<214.0,-85.0>> -> L<<214.0,-85.0>--<212.0,-87.0>>
-
-	* uni0324 (U+0324): L<<218.0,-81.0>--<216.0,-83.0>> -> L<<216.0,-83.0>--<214.0,-85.0>>
-
-	* uni0324 (U+0324): L<<219.0,-80.0>--<218.0,-81.0>> -> L<<218.0,-81.0>--<216.0,-83.0>>
-
-	* uni0324 (U+0324): L<<221.0,-78.0>--<219.0,-80.0>> -> L<<219.0,-80.0>--<218.0,-81.0>>
-
-	* uni0324 (U+0324): L<<223.0,-76.0>--<221.0,-78.0>> -> L<<221.0,-78.0>--<219.0,-80.0>>
-
-	* uni0324 (U+0324): L<<227.0,-74.0>--<225.0,-75.0>> -> L<<225.0,-75.0>--<223.0,-76.0>> 
-
-	* And 58 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* a (U+0061): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
-
-	* aacute (U+00E1): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
-
-	* abreve (U+0103): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
-
-	* adieresis (U+00E4): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
-
-	* agrave (U+00E0): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
-
-	* amacron (U+0101): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
-
-	* aring (U+00E5): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
-
-	* aringacute (U+01FB): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
-
-	* atilde (U+00E3): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504
-
-	* b (U+0062): B<<283.0,315.0>-<281.0,284.0>-<281.0,275.0>>/B<<281.0,275.0>-<283.0,295.0>-<300.5,325.5>> = 5.710593137499633 
-
-	* And 136 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[11] BriemHandSmBd.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking file is named canonically. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/canonical_filename">com.google.fonts/check/canonical_filename</a>)</summary><div>
-
-
-* 🔥 **FAIL** Expected "BriemHand-SemiBold.ttf. Got BriemHandSmBd.ttf. [code: bad-filename]
-</div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/BriemHand-Regular.ttf', 'fonts/ttf/BriemHandMedium.ttf', 'fonts/ttf/BriemHandUltraLight.ttf', 'fonts/ttf/BriemHandThin.ttf', 'fonts/ttf/BriemHand-Bold.ttf', 'fonts/ttf/BriemHandBlack.ttf', 'fonts/ttf/BriemHandSmBd.ttf', 'fonts/ttf/BriemHandLight.ttf']. [code: missing-os2-fsselection-bit7]
-</div></details><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
-
-
-* 🔥 **FAIL** Space and non-breaking space have differing width: The space glyph named space is 275 font units wide, non-breaking space named (uni00A0) is 168 font units wide, and both should be positive and the same. GlyphsApp has "Sidebearing arithmetic" (https://glyphsapp.com/tutorials/spacing) which allows you to set the non-breaking space width to always equal the space width. [code: different-widths]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
-
-
-* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Font contains '.notdef' as its first glyph? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/mandatory_glyphs">com.google.fonts/check/mandatory_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** Glyph '.notdef' should contain a drawing, but it is empty. [code: empty]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-
-	- IJ_acutecomb
-
-	- ibar 
-
-	- And uni0328.alt
- [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
-
-
-* ⚠ **WARN** This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]
-* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
-
-The following glyphs do not have the recommended number of contours:
-
-	- Glyph name: onehalf	Contours detected: 2	Expected: 3
-
-	- Glyph name: dcroat	Contours detected: 3	Expected: 2
-
-	- Glyph name: hbar	Contours detected: 2	Expected: 1
-
-	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni0180	Contours detected: 3	Expected: 2
-
-	- Glyph name: ohorn	Contours detected: 3	Expected: 2
-
-	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni018E	Contours detected: 1	Expected: 2 
-
-	- And 76 more.
-
-Use -F or --full-lists to disable shortening of long lists.
- [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
-
-
-* ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
-</div></details><details><summary>⚠ <b>WARN:</b> Does GPOS table have kerning information? This check skips monospaced fonts as defined by post.isFixedPitch value (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gpos.html#com.google.fonts/check/gpos_kerning_info">com.google.fonts/check/gpos_kerning_info</a>)</summary><div>
-
-
-* ⚠ **WARN** GPOS table lacks kerning information. [code: lacks-kern-info]
-</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have colinear vectors:
-
-	* Z (U+005A): L<<166.0,336.0>--<180.0,336.0>> -> L<<180.0,336.0>--<180.0,336.0>>
-
-	* Z (U+005A): L<<180.0,336.0>--<180.0,336.0>> -> L<<180.0,336.0>--<182.0,336.0>>
-
-	* Zacute (U+0179): L<<166.0,336.0>--<180.0,336.0>> -> L<<180.0,336.0>--<180.0,336.0>>
-
-	* Zacute (U+0179): L<<180.0,336.0>--<180.0,336.0>> -> L<<180.0,336.0>--<182.0,336.0>>
-
-	* Zcaron (U+017D): L<<166.0,336.0>--<180.0,336.0>> -> L<<180.0,336.0>--<180.0,336.0>>
-
-	* Zcaron (U+017D): L<<180.0,336.0>--<180.0,336.0>> -> L<<180.0,336.0>--<182.0,336.0>>
-
-	* Zdotaccent (U+017B): L<<166.0,336.0>--<180.0,336.0>> -> L<<180.0,336.0>--<180.0,336.0>>
-
-	* Zdotaccent (U+017B): L<<180.0,336.0>--<180.0,336.0>> -> L<<180.0,336.0>--<182.0,336.0>>
-
-	* uni01C4 (U+01C4): L<<934.0,336.0>--<948.0,336.0>> -> L<<948.0,336.0>--<948.0,336.0>>
-
-	* uni01C4 (U+01C4): L<<948.0,336.0>--<948.0,336.0>> -> L<<948.0,336.0>--<950.0,336.0>> 
-
-	* And 76 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* Z (U+005A): B<<305.0,335.0>-<305.0,326.0>-<303.0,323.0>>/B<<303.0,323.0>-<311.0,332.0>-<309.5,329.0>> = 7.943471810590413
-
-	* Zacute (U+0179): B<<305.0,335.0>-<305.0,326.0>-<303.0,323.0>>/B<<303.0,323.0>-<311.0,332.0>-<309.5,329.0>> = 7.943471810590413
-
-	* Zcaron (U+017D): B<<305.0,335.0>-<305.0,326.0>-<303.0,323.0>>/B<<303.0,323.0>-<311.0,332.0>-<309.5,329.0>> = 7.943471810590413
-
-	* Zdotaccent (U+017B): B<<305.0,335.0>-<305.0,326.0>-<303.0,323.0>>/B<<303.0,323.0>-<311.0,332.0>-<309.5,329.0>> = 7.943471810590413
-
-	* b (U+0062): B<<241.5,288.0>-<239.0,250.0>-<238.0,233.0>>/B<<238.0,233.0>-<247.0,262.0>-<269.0,299.5>> = 13.874998735510172
-
-	* m (U+006D): B<<234.0,273.5>-<231.0,239.0>-<230.0,223.0>>/B<<230.0,223.0>-<238.0,252.0>-<260.5,291.0>> = 11.845826943741303
-
-	* m (U+006D): B<<569.5,264.5>-<567.0,236.0>-<566.0,224.0>>/B<<566.0,224.0>-<574.0,253.0>-<597.0,291.5>> = 10.658519628012485
-
-	* n (U+006E): B<<233.0,273.5>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303
-
-	* nacute (U+0144): B<<233.0,273.5>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303
-
-	* ncaron (U+0148): B<<233.0,273.5>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303 
-
-	* And 38 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[12] BriemHandLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Checking file is named canonically. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/canonical_filename">com.google.fonts/check/canonical_filename</a>)</summary><div>
-
-
-* 🔥 **FAIL** Expected "BriemHand-Light.ttf. Got BriemHandLight.ttf. [code: bad-filename]
-</div></details><details><summary>🔥 <b>FAIL:</b> OS/2.fsSelection bit 7 (USE_TYPO_METRICS) is set in all fonts. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/os2/use_typo_metrics">com.google.fonts/check/os2/use_typo_metrics</a>)</summary><div>
-
-
-* 🔥 **FAIL** OS/2.fsSelection bit 7 (USE_TYPO_METRICS) wasNOT set in the following fonts: ['fonts/ttf/BriemHand-Regular.ttf', 'fonts/ttf/BriemHandMedium.ttf', 'fonts/ttf/BriemHandUltraLight.ttf', 'fonts/ttf/BriemHandThin.ttf', 'fonts/ttf/BriemHand-Bold.ttf', 'fonts/ttf/BriemHandBlack.ttf', 'fonts/ttf/BriemHandSmBd.ttf', 'fonts/ttf/BriemHandLight.ttf']. [code: missing-os2-fsselection-bit7]
-</div></details><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
-
-
-* 🔥 **FAIL** Space and non-breaking space have differing width: The space glyph named space is 275 font units wide, non-breaking space named (uni00A0) is 46 font units wide, and both should be positive and the same. GlyphsApp has "Sidebearing arithmetic" (https://glyphsapp.com/tutorials/spacing) which allows you to set the non-breaking space width to always equal the space width. [code: different-widths]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
-
-
-* ⚠ **WARN** This font file does not have a 'meta' table. [code: lacks-meta-table]
-</div></details><details><summary>⚠ <b>WARN:</b> Font contains '.notdef' as its first glyph? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/mandatory_glyphs">com.google.fonts/check/mandatory_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** Glyph '.notdef' should contain a drawing, but it is empty. [code: empty]
-</div></details><details><summary>⚠ <b>WARN:</b> Check font contains no unreachable glyphs (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs">com.google.fonts/check/unreachable_glyphs</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-
-	- IJ_acutecomb
-
-	- ibar 
-
-	- And uni0328.alt
- [code: unreachable-glyphs]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
-
-
-* ⚠ **WARN** This font has a 'Soft Hyphen' character (codepoint 0x00AD) which is supposed to be zero-width and invisible, and is used to mark a hyphenation possibility within a word in the absence of or overriding dictionary hyphenation. It is mostly an obsolete mechanism now, and the character is only included in fonts for legacy codepage coverage. [code: softhyphen]
-* ⚠ **WARN** This check inspects the glyph outlines and detects the total number of contours in each of them. The expected values are infered from the typical ammounts of contours observed in a large collection of reference font families. The divergences listed below may simply indicate a significantly different design on some of your glyphs. On the other hand, some of these may flag actual bugs in the font such as glyphs mapped to an incorrect codepoint. Please consider reviewing the design and codepoint assignment of these to make sure they are correct.
-
-The following glyphs do not have the recommended number of contours:
-
-	- Glyph name: onehalf	Contours detected: 2	Expected: 3
-
-	- Glyph name: dcroat	Contours detected: 3	Expected: 2
-
-	- Glyph name: hbar	Contours detected: 2	Expected: 1
-
-	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni0180	Contours detected: 3	Expected: 2
-
-	- Glyph name: ohorn	Contours detected: 3	Expected: 2
-
-	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: uhorn	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni018E	Contours detected: 1	Expected: 2 
-
-	- And 78 more.
-
-Use -F or --full-lists to disable shortening of long lists.
- [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
-
-
-* ⚠ **WARN** No dotted circle glyph present [code: missing-dotted-circle]
-</div></details><details><summary>⚠ <b>WARN:</b> Does GPOS table have kerning information? This check skips monospaced fonts as defined by post.isFixedPitch value (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gpos.html#com.google.fonts/check/gpos_kerning_info">com.google.fonts/check/gpos_kerning_info</a>)</summary><div>
-
-
-* ⚠ **WARN** GPOS table lacks kerning information. [code: lacks-kern-info]
-</div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have colinear vectors:
-
-	* uni0283 (U+0283): L<<131.0,58.0>--<126.0,499.0>> -> L<<126.0,499.0>--<126.0,509.0>>
-
-	* uni0283 (U+0283): L<<219.0,565.0>--<217.0,499.0>> -> L<<217.0,499.0>--<215.0,-13.0>>
-
-	* uni0324 (U+0324): L<<200.0,-120.0>--<200.0,-126.0>> -> L<<200.0,-126.0>--<200.0,-131.0>>
-
-	* uni0324 (U+0324): L<<204.0,-145.0>--<205.0,-147.0>> -> L<<205.0,-147.0>--<206.0,-149.0>>
-
-	* uni0324 (U+0324): L<<216.0,-83.0>--<214.0,-85.0>> -> L<<214.0,-85.0>--<212.0,-87.0>>
-
-	* uni0324 (U+0324): L<<218.0,-81.0>--<216.0,-83.0>> -> L<<216.0,-83.0>--<214.0,-85.0>>
-
-	* uni0324 (U+0324): L<<219.0,-80.0>--<218.0,-81.0>> -> L<<218.0,-81.0>--<216.0,-83.0>>
-
-	* uni0324 (U+0324): L<<221.0,-78.0>--<219.0,-80.0>> -> L<<219.0,-80.0>--<218.0,-81.0>>
-
-	* uni0324 (U+0324): L<<223.0,-76.0>--<221.0,-78.0>> -> L<<221.0,-78.0>--<219.0,-80.0>>
-
-	* uni0324 (U+0324): L<<227.0,-74.0>--<225.0,-75.0>> -> L<<225.0,-75.0>--<223.0,-76.0>> 
-
-	* And 58 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have jaggy segments:
-
-	* uni20B2 (U+20B2): L<<357.0,-13.0>--<361.0,-13.0>>/B<<361.0,-13.0>-<267.0,-8.0>-<200.5,34.0>> = 3.044778444193999 [code: found-jaggy-segments]
-</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
-
-
-* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
-
-	* f (U+0066): L<<217.0,447.0>--<215.0,-13.0>>
-
-	* germandbls (U+00DF): L<<184.0,551.0>--<182.0,-12.0>>
-
-	* uni0283 (U+0283): L<<217.0,499.0>--<215.0,-13.0>> 
-
-	* And uni1E1F (U+1E1F): L<<217.0,447.0>--<215.0,-13.0>> [code: found-semi-vertical]
 </div></details><br></div></details>
 ### Summary
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 22 | 68 | 912 | 49 | 660 | 0 |
-| 0% | 1% | 4% | 53% | 3% | 39% | 0% |
+| 0 | 10 | 68 | 890 | 49 | 694 | 0 |
+| 0% | 1% | 4% | 52% | 3% | 41% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
