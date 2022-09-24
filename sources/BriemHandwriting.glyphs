@@ -586,7 +586,11 @@ value = 460;
 },
 {
 name = hheaAscender;
-value = 1300;
+value = 1500;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = hheaDescender;
@@ -657,11 +661,15 @@ value = 460;
 },
 {
 name = hheaAscender;
-value = 1300;
+value = 1500;
 },
 {
 name = hheaDescender;
 value = -244;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = strikeoutPosition;
@@ -68635,16 +68643,8 @@ instances = (
 {
 customParameters = (
 {
-name = familyName;
-value = "Briem Handwriting";
-},
-{
-name = preferredFamilyName;
-value = "Briem Handwriting";
-},
-{
-name = preferredSubfamilyName;
-value = Thin;
+name = weightClass;
+value = 100;
 }
 );
 interpolationWeight = 217;
@@ -68657,16 +68657,8 @@ weightClass = Thin;
 {
 customParameters = (
 {
-name = familyName;
-value = "Briem Handwriting";
-},
-{
-name = preferredFamilyName;
-value = "Briem Handwriting";
-},
-{
-name = preferredSubfamilyName;
-value = UltraLight;
+name = weightClass;
+value = 200;
 }
 );
 interpolationWeight = 260;
@@ -68680,16 +68672,8 @@ weightClass = UltraLight;
 {
 customParameters = (
 {
-name = familyName;
-value = "Briem Handwriting";
-},
-{
-name = preferredFamilyName;
-value = "Briem Handwriting";
-},
-{
-name = preferredSubfamilyName;
-value = Light;
+name = weightClass;
+value = 300;
 }
 );
 interpolationWeight = 310;
@@ -68703,16 +68687,8 @@ weightClass = Light;
 {
 customParameters = (
 {
-name = familyName;
-value = "Briem Handwriting";
-},
-{
-name = preferredFamilyName;
-value = "Briem Handwriting";
-},
-{
-name = preferredSubfamilyName;
-value = Regular;
+name = weightClass;
+value = 400;
 }
 );
 interpolationWeight = 380;
@@ -68725,16 +68701,8 @@ name = Regular;
 {
 customParameters = (
 {
-name = familyName;
-value = "Briem Handwriting";
-},
-{
-name = preferredFamilyName;
-value = "Briem Handwriting";
-},
-{
-name = preferredSubfamilyName;
-value = Medium;
+name = weightClass;
+value = 500;
 }
 );
 interpolationWeight = 450;
@@ -68748,16 +68716,8 @@ weightClass = Medium;
 {
 customParameters = (
 {
-name = familyName;
-value = "Briem Handwriting";
-},
-{
-name = preferredFamilyName;
-value = "Briem Handwriting";
-},
-{
-name = preferredSubfamilyName;
-value = SemiBold;
+name = weightClass;
+value = 600;
 }
 );
 interpolationWeight = 560;
@@ -68771,16 +68731,8 @@ weightClass = SemiBold;
 {
 customParameters = (
 {
-name = familyName;
-value = "Briem Handwriting";
-},
-{
-name = preferredFamilyName;
-value = "Briem Handwriting";
-},
-{
-name = preferredSubfamilyName;
-value = Bold;
+name = weightClass;
+value = 700;
 }
 );
 interpolationWeight = 670;
@@ -68795,16 +68747,8 @@ weightClass = Bold;
 {
 customParameters = (
 {
-name = familyName;
-value = "Briem Handwriting";
-},
-{
-name = preferredFamilyName;
-value = "Briem Handwriting";
-},
-{
-name = preferredSubfamilyName;
-value = Black;
+name = weightClass;
+value = 900;
 }
 );
 interpolationWeight = 777;
