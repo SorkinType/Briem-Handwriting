@@ -125,7 +125,8 @@ T,
 "o/ohorn",
 "o/ohorn u/uhorn",
 "OO/Ohorn U/Uhorn/ohorn u/uhorn",
-"/fl"
+"/fl",
+"­"
 );
 classes = (
 {
@@ -558,7 +559,7 @@ custom = Thin;
 customParameters = (
 {
 name = typoAscender;
-value = 756;
+value = 1200;
 },
 {
 name = typoDescender;
@@ -633,7 +634,7 @@ custom = Black;
 customParameters = (
 {
 name = typoAscender;
-value = 756;
+value = 1200;
 },
 {
 name = typoDescender;
@@ -48206,25 +48207,15 @@ unicode = 002D;
 },
 {
 glyphname = softhyphen;
-lastChange = "2022-09-23 14:38:50 +0000";
+lastChange = "2022-09-24 05:58:37 +0000";
 layers = (
 {
-components = (
-{
-name = hyphen;
-}
-);
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
-width = 275;
+width = 0;
 },
 {
-components = (
-{
-name = hyphen;
-}
-);
 layerId = "63F4CE79-9D5F-46D3-B41C-385689F27F0A";
-width = 275;
+width = 0;
 }
 );
 unicode = 00AD;
@@ -49874,7 +49865,7 @@ unicode = 0020;
 },
 {
 glyphname = nbspace;
-lastChange = "2022-09-23 14:38:50 +0000";
+lastChange = "2022-09-24 05:57:33 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -49882,7 +49873,7 @@ width = 0;
 },
 {
 layerId = "63F4CE79-9D5F-46D3-B41C-385689F27F0A";
-width = 0;
+width = 275;
 }
 );
 note = uni00A0;
