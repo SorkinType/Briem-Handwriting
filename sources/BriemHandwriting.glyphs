@@ -177,15 +177,15 @@ value = 1;
 },
 {
 name = blueFuzz;
-value = 1;
+value = 0;
 },
 {
 name = blueScale;
-value = 0.03963;
+value = 0.037;
 },
 {
 name = blueShift;
-value = 7;
+value = 5;
 },
 {
 name = Axes;
@@ -222,6 +222,10 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 name = licenseURL;
 value = "https://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = STC;
 }
 );
 date = "2022-09-24 03:45:25 +0000";
@@ -570,7 +574,7 @@ value = -244;
 },
 {
 name = typoLineGap;
-value = 75;
+value = 0;
 },
 {
 name = winAscent;
@@ -582,7 +586,7 @@ value = 460;
 },
 {
 name = hheaAscender;
-value = 756;
+value = 1300;
 },
 {
 name = hheaDescender;
@@ -653,7 +657,7 @@ value = 460;
 },
 {
 name = hheaAscender;
-value = 756;
+value = 1300;
 },
 {
 name = hheaDescender;
@@ -68812,7 +68816,8 @@ name = Black;
 weightClass = Black;
 }
 );
-manufacturer = "Gunnlaugur SE Briem";
+manufacturer = "Sorkin Type";
+manufacturerURL = "http://sorkintype.com";
 unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 1;
