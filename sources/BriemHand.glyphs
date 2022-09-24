@@ -1,133 +1,5 @@
 {
 .appVersion = "1361";
-DisplayStrings = (
-"David/space Ross",
-G,
-H,
-L,
-M,
-N,
-"/OE",
-P,
-"Þ",
-Q,
-W,
-W,
-X,
-Y,
-Z,
-"Ø",
-j,
-"j/jdotless",
-k,
-"/kgreenlandic",
-d,
-"/esh",
-h,
-l,
-m,
-"H/Hbar f",
-"ñ",
-"ø",
-"/oe",
-p,
-"þ",
-q,
-"æ",
-b,
-"ß",
-t,
-u,
-v,
-w,
-"o/tturned oo",
-x,
-g,
-y,
-z,
-"y/ydieresis",
-"/ydotaccent",
-"uü",
-"/udieresisacute",
-"û",
-"/ucaron",
-"/ubar",
-"/istroke/ubar",
-"/dieresiscomb.case Ë",
-"Ë",
-"/Eng",
-"aä",
-"ä",
-"/acutecomb á",
-"ð",
-"/idotless `/gravecomb ì",
-"/tildecomb ã",
-"/bstroke",
-"/dzcaron",
-"/dzcaron",
-"/idotless",
-"/iota-latin",
-"o/dieresiscomb ö",
-"ö",
-"Ð/Dcroat/asc.cross_part. d/dcroat",
-bdh,
-"/dcroat",
-"b/bstroke/dcroat h/hbar",
-"|",
-"/divisionslash",
-"/peso",
-"/kip",
-"/naira",
-"/peso",
-"/hryvnia",
-"|",
-B,
-"/Aturned",
-"Ê",
-"/Hbar",
-C,
-U,
-"/Vturned",
-V,
-"/tturned",
-"/utildeacute",
-"uù",
-"ù",
-"oõ",
-"õ",
-"/Edotaccent",
-"/Ubar",
-"/Tbar/Ubar",
-"ò",
-"/circumflexcomb ô",
-"/ocaron",
-"ì",
-"/oslashacute",
-"/dong",
-"/kip/peseta",
-"/Lslash",
-"/schwa",
-"/umacrondieresis",
-"/istroke",
-"/Ereversed",
-"/Alpha-latin",
-r,
-"/tildebelowcomb/utildebelow",
-"/circumflexbelowcomb.case/Lcircumflexbelow",
-"/Rstroke/istroke",
-T,
-"/brevecomb/abreveacute",
-"/brevecomb/abrevegrave",
-"/brevecomb_tildecomb",
-"/circumflexcomb_tildecomb/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde",
-"/brevecomb_tildecomb/circumflexcomb_tildecomb",
-"/brevecomb/horncomb",
-"o/ohorn",
-"o/ohorn u/uhorn",
-"OO/Ohorn U/Uhorn/ohorn u/uhorn",
-"/fl",
-"­"
-);
 classes = (
 {
 automatic = 1;
@@ -97470,7 +97342,7 @@ value = 100;
 },
 {
 name = fileName;
-value = BriemHandThin;
+value = "BriemHand-Thin";
 },
 {
 name = familyName;
@@ -97495,6 +97367,10 @@ value = Thin;
 {
 name = "Has WWS Names";
 value = 1;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 interpolationWeight = 217;
@@ -97512,7 +97388,7 @@ value = 200;
 },
 {
 name = fileName;
-value = BriemHandUltraLight;
+value = "BriemHand-UltraLight";
 },
 {
 name = familyName;
@@ -97536,6 +97412,10 @@ value = UltraLight;
 },
 {
 name = "Has WWS Names";
+value = 1;
+},
+{
+name = "Use Typo Metrics";
 value = 1;
 }
 );
@@ -97555,7 +97435,7 @@ value = 300;
 },
 {
 name = fileName;
-value = BriemHandLight;
+value = "BriemHand-Light";
 },
 {
 name = familyName;
@@ -97579,6 +97459,10 @@ value = Light;
 },
 {
 name = "Has WWS Names";
+value = 1;
+},
+{
+name = "Use Typo Metrics";
 value = 1;
 }
 );
@@ -97623,6 +97507,10 @@ value = Regular;
 {
 name = "Has WWS Names";
 value = 1;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 interpolationWeight = 380;
@@ -97639,7 +97527,7 @@ value = 500;
 },
 {
 name = fileName;
-value = BriemHandMedium;
+value = "BriemHand-Medium";
 },
 {
 name = familyName;
@@ -97664,6 +97552,10 @@ value = Medium;
 {
 name = "Has WWS Names";
 value = 1;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 interpolationWeight = 450;
@@ -97682,7 +97574,7 @@ value = 600;
 },
 {
 name = fileName;
-value = BriemHandSmBd;
+value = "BriemHand-SmBd";
 },
 {
 name = familyName;
@@ -97706,6 +97598,10 @@ value = SemiBold;
 },
 {
 name = "Has WWS Names";
+value = 1;
+},
+{
+name = "Use Typo Metrics";
 value = 1;
 }
 );
@@ -97750,6 +97646,10 @@ value = Bold;
 {
 name = "Has WWS Names";
 value = 1;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 interpolationWeight = 670;
@@ -97769,7 +97669,7 @@ value = 900;
 },
 {
 name = fileName;
-value = BriemHandBlack;
+value = "BriemHand-Black";
 },
 {
 name = familyName;
@@ -97793,6 +97693,10 @@ value = Black;
 },
 {
 name = "Has WWS Names";
+value = 1;
+},
+{
+name = "Use Typo Metrics";
 value = 1;
 }
 );
