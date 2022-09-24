@@ -198,7 +198,7 @@ Tag = wght;
 },
 {
 name = "Variable Font Origin";
-value = "6BAFAE09-C5B8-4469-A8F8-E185939BEC5C";
+value = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
 },
 {
 name = "Axis Mappings";
@@ -558,6 +558,7 @@ alignmentZones = (
 );
 ascender = 756;
 capHeight = 652;
+custom = Thin;
 customParameters = (
 {
 name = typoAscender;
@@ -606,7 +607,6 @@ horizontalStems = (
 43
 );
 id = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
-italicAngle = 3;
 userData = {
 GSOffsetHorizontal = -5;
 GSOffsetVertical = -5;
@@ -2118,13 +2118,13 @@ unicode = 00C3;
 {
 color = 4;
 glyphname = Aturned;
-lastChange = "2022-09-24 04:27:14 +0000";
+lastChange = "2022-09-24 04:54:18 +0000";
 layers = (
 {
 components = (
 {
 name = A;
-transform = "{-1, 0, 0, -1, 609, 652}";
+transform = "{-1, 0, 0, -1, 602, 652}";
 }
 );
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -68629,6 +68629,20 @@ width = 600;
 );
 instances = (
 {
+customParameters = (
+{
+name = familyName;
+value = "Briem Handwriting";
+},
+{
+name = preferredFamilyName;
+value = "Briem Handwriting";
+},
+{
+name = preferredSubfamilyName;
+value = Thin;
+}
+);
 interpolationWeight = 217;
 instanceInterpolations = {
 "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14" = 1;
@@ -68637,6 +68651,20 @@ name = Thin;
 weightClass = Thin;
 },
 {
+customParameters = (
+{
+name = familyName;
+value = "Briem Handwriting";
+},
+{
+name = preferredFamilyName;
+value = "Briem Handwriting";
+},
+{
+name = preferredSubfamilyName;
+value = UltraLight;
+}
+);
 interpolationWeight = 260;
 instanceInterpolations = {
 "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14" = 0.92321;
@@ -68646,6 +68674,20 @@ name = UltraLight;
 weightClass = UltraLight;
 },
 {
+customParameters = (
+{
+name = familyName;
+value = "Briem Handwriting";
+},
+{
+name = preferredFamilyName;
+value = "Briem Handwriting";
+},
+{
+name = preferredSubfamilyName;
+value = Light;
+}
+);
 interpolationWeight = 310;
 instanceInterpolations = {
 "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14" = 0.83393;
@@ -68655,6 +68697,20 @@ name = Light;
 weightClass = Light;
 },
 {
+customParameters = (
+{
+name = familyName;
+value = "Briem Handwriting";
+},
+{
+name = preferredFamilyName;
+value = "Briem Handwriting";
+},
+{
+name = preferredSubfamilyName;
+value = Regular;
+}
+);
 interpolationWeight = 380;
 instanceInterpolations = {
 "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14" = 0.70893;
@@ -68663,6 +68719,20 @@ instanceInterpolations = {
 name = Regular;
 },
 {
+customParameters = (
+{
+name = familyName;
+value = "Briem Handwriting";
+},
+{
+name = preferredFamilyName;
+value = "Briem Handwriting";
+},
+{
+name = preferredSubfamilyName;
+value = Medium;
+}
+);
 interpolationWeight = 450;
 instanceInterpolations = {
 "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14" = 0.58393;
@@ -68672,6 +68742,20 @@ name = Medium;
 weightClass = Medium;
 },
 {
+customParameters = (
+{
+name = familyName;
+value = "Briem Handwriting";
+},
+{
+name = preferredFamilyName;
+value = "Briem Handwriting";
+},
+{
+name = preferredSubfamilyName;
+value = SemiBold;
+}
+);
 interpolationWeight = 560;
 instanceInterpolations = {
 "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14" = 0.3875;
@@ -68681,6 +68765,20 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
+customParameters = (
+{
+name = familyName;
+value = "Briem Handwriting";
+},
+{
+name = preferredFamilyName;
+value = "Briem Handwriting";
+},
+{
+name = preferredSubfamilyName;
+value = Bold;
+}
+);
 interpolationWeight = 670;
 instanceInterpolations = {
 "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14" = 0.19107;
@@ -68691,6 +68789,20 @@ name = Bold;
 weightClass = Bold;
 },
 {
+customParameters = (
+{
+name = familyName;
+value = "Briem Handwriting";
+},
+{
+name = preferredFamilyName;
+value = "Briem Handwriting";
+},
+{
+name = preferredSubfamilyName;
+value = Black;
+}
+);
 interpolationWeight = 777;
 interpolationWidth = 5;
 instanceInterpolations = {
