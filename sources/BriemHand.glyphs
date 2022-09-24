@@ -19,22 +19,6 @@ value = (
 );
 },
 {
-name = "Use Extension Kerning";
-value = 1;
-},
-{
-name = "Use Line Breaks";
-value = 1;
-},
-{
-name = "Enforce Compatibility Check";
-value = 1;
-},
-{
-name = "Use Typo Metrics";
-value = 1;
-},
-{
 name = blueFuzz;
 value = 0;
 },
@@ -85,6 +69,22 @@ value = "https://scripts.sil.org/OFL";
 {
 name = vendorID;
 value = STC;
+},
+{
+name = "Use Extension Kerning";
+value = 1;
+},
+{
+name = "Use Line Breaks";
+value = 1;
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2022-09-24 06:35:09 +0000";
@@ -69812,11 +69812,11 @@ unicode = 0020;
 },
 {
 glyphname = nbspace;
-lastChange = "2022-09-24 06:35:46 +0000";
+lastChange = "2022-09-24 06:59:56 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
-width = 0;
+width = 275;
 },
 {
 layerId = "63F4CE79-9D5F-46D3-B41C-385689F27F0A";
@@ -69824,7 +69824,7 @@ width = 275;
 },
 {
 layerId = "A73BA0EC-C624-42F4-8D39-B47BA8096141";
-width = 80;
+width = 275;
 }
 );
 note = uni00A0;
@@ -97357,18 +97357,6 @@ name = preferredSubfamilyName;
 value = Thin;
 },
 {
-name = WWSFamilyName;
-value = BriemHand;
-},
-{
-name = WWSSubfamilyName;
-value = Thin;
-},
-{
-name = "Has WWS Names";
-value = 1;
-},
-{
 name = "Use Typo Metrics";
 value = 1;
 }
@@ -97388,7 +97376,7 @@ value = 200;
 },
 {
 name = fileName;
-value = "BriemHand-UltraLight";
+value = "BriemHand-ExLight";
 },
 {
 name = familyName;
@@ -97400,19 +97388,7 @@ value = BriemHand;
 },
 {
 name = preferredSubfamilyName;
-value = UltraLight;
-},
-{
-name = WWSFamilyName;
-value = BriemHand;
-},
-{
-name = WWSSubfamilyName;
-value = UltraLight;
-},
-{
-name = "Has WWS Names";
-value = 1;
+value = ExLight;
 },
 {
 name = "Use Typo Metrics";
@@ -97424,8 +97400,8 @@ instanceInterpolations = {
 "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14" = 0.7362;
 "A73BA0EC-C624-42F4-8D39-B47BA8096141" = 0.2638;
 };
-name = UltraLight;
-weightClass = UltraLight;
+name = ExLight;
+weightClass = ExtraLight;
 },
 {
 customParameters = (
@@ -97450,18 +97426,6 @@ name = preferredSubfamilyName;
 value = Light;
 },
 {
-name = WWSFamilyName;
-value = BriemHand;
-},
-{
-name = WWSSubfamilyName;
-value = Light;
-},
-{
-name = "Has WWS Names";
-value = 1;
-},
-{
 name = "Use Typo Metrics";
 value = 1;
 }
@@ -97482,7 +97446,7 @@ value = 400;
 },
 {
 name = fileName;
-value = "BriemHand-Regular";
+value = BriemHand;
 },
 {
 name = familyName;
@@ -97495,18 +97459,6 @@ value = BriemHand;
 {
 name = preferredSubfamilyName;
 value = Regular;
-},
-{
-name = WWSFamilyName;
-value = BriemHand;
-},
-{
-name = WWSSubfamilyName;
-value = Regular;
-},
-{
-name = "Has WWS Names";
-value = 1;
 },
 {
 name = "Use Typo Metrics";
@@ -97542,18 +97494,6 @@ name = preferredSubfamilyName;
 value = Medium;
 },
 {
-name = WWSFamilyName;
-value = BriemHand;
-},
-{
-name = WWSSubfamilyName;
-value = Medium;
-},
-{
-name = "Has WWS Names";
-value = 1;
-},
-{
 name = "Use Typo Metrics";
 value = 1;
 }
@@ -97574,7 +97514,7 @@ value = 600;
 },
 {
 name = fileName;
-value = "BriemHand-SmBd";
+value = "BriemHand-SemiBold";
 },
 {
 name = familyName;
@@ -97587,18 +97527,6 @@ value = BriemHand;
 {
 name = preferredSubfamilyName;
 value = SemiBold;
-},
-{
-name = WWSFamilyName;
-value = BriemHand;
-},
-{
-name = WWSSubfamilyName;
-value = SemiBold;
-},
-{
-name = "Has WWS Names";
-value = 1;
 },
 {
 name = "Use Typo Metrics";
@@ -97634,18 +97562,6 @@ value = BriemHand;
 {
 name = preferredSubfamilyName;
 value = Bold;
-},
-{
-name = WWSFamilyName;
-value = BriemHand;
-},
-{
-name = WWSSubfamilyName;
-value = Bold;
-},
-{
-name = "Has WWS Names";
-value = 1;
 },
 {
 name = "Use Typo Metrics";
@@ -97684,20 +97600,12 @@ name = preferredSubfamilyName;
 value = Black;
 },
 {
-name = WWSFamilyName;
-value = BriemHand;
-},
-{
-name = WWSSubfamilyName;
-value = Black;
-},
-{
-name = "Has WWS Names";
-value = 1;
-},
-{
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "New Parameter";
+value = "New Value";
 }
 );
 interpolationWeight = 777;
