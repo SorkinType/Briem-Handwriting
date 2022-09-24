@@ -97345,6 +97345,18 @@ name = fileName;
 value = "BriemHand-Thin";
 },
 {
+name = familyName;
+value = BriemHand;
+},
+{
+name = preferredFamilyName;
+value = BriemHand;
+},
+{
+name = preferredSubfamilyName;
+value = Thin;
+},
+{
 name = "Use Typo Metrics";
 value = 1;
 }
@@ -97365,6 +97377,18 @@ value = 200;
 {
 name = fileName;
 value = "BriemHand-ExLight";
+},
+{
+name = familyName;
+value = BriemHand;
+},
+{
+name = preferredFamilyName;
+value = BriemHand;
+},
+{
+name = preferredSubfamilyName;
+value = ExLight;
 },
 {
 name = "Use Typo Metrics";
@@ -97390,6 +97414,18 @@ name = fileName;
 value = "BriemHand-Light";
 },
 {
+name = familyName;
+value = BriemHand;
+},
+{
+name = preferredFamilyName;
+value = BriemHand;
+},
+{
+name = preferredSubfamilyName;
+value = Light;
+},
+{
 name = "Use Typo Metrics";
 value = 1;
 }
@@ -97413,6 +97449,18 @@ name = fileName;
 value = "BriemHand-Regular";
 },
 {
+name = familyName;
+value = BriemHand;
+},
+{
+name = preferredFamilyName;
+value = BriemHand;
+},
+{
+name = preferredSubfamilyName;
+value = Regular;
+},
+{
 name = "Use Typo Metrics";
 value = 1;
 }
@@ -97432,6 +97480,18 @@ value = 500;
 {
 name = fileName;
 value = "BriemHand-Medium";
+},
+{
+name = familyName;
+value = BriemHand;
+},
+{
+name = preferredFamilyName;
+value = BriemHand;
+},
+{
+name = preferredSubfamilyName;
+value = Medium;
 },
 {
 name = "Use Typo Metrics";
@@ -97457,6 +97517,18 @@ name = fileName;
 value = "BriemHand-SemiBold";
 },
 {
+name = familyName;
+value = BriemHand;
+},
+{
+name = preferredFamilyName;
+value = BriemHand;
+},
+{
+name = preferredSubfamilyName;
+value = SemiBold;
+},
+{
 name = "Use Typo Metrics";
 value = 1;
 }
@@ -97478,6 +97550,18 @@ value = 700;
 {
 name = fileName;
 value = "BriemHand-Bold";
+},
+{
+name = familyName;
+value = BriemHand;
+},
+{
+name = preferredFamilyName;
+value = BriemHand;
+},
+{
+name = preferredSubfamilyName;
+value = Bold;
 },
 {
 name = "Use Typo Metrics";
@@ -97504,8 +97588,24 @@ name = fileName;
 value = "BriemHand-Black";
 },
 {
+name = familyName;
+value = BriemHand;
+},
+{
+name = preferredFamilyName;
+value = BriemHand;
+},
+{
+name = preferredSubfamilyName;
+value = Black;
+},
+{
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "New Parameter";
+value = "New Value";
 }
 );
 interpolationWeight = 777;
