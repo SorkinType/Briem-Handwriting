@@ -124,7 +124,8 @@ T,
 "/brevecomb/horncomb",
 "o/ohorn",
 "o/ohorn u/uhorn",
-"OO/Ohorn U/Uhorn/ohorn u/uhorn"
+"OO/Ohorn U/Uhorn/ohorn u/uhorn",
+"/fl"
 );
 classes = (
 {
@@ -230,7 +231,7 @@ value = STC;
 );
 date = "2022-09-24 03:45:25 +0000";
 designer = "Gunnlaugur SE Briem, Eben Sorkin";
-familyName = "Briem Handwriting";
+familyName = BriemHand;
 featurePrefixes = (
 {
 automatic = 1;
@@ -460,15 +461,6 @@ name = case;
 {
 automatic = 1;
 code = "lookupflag IgnoreMarks;
-sub d a by d_a;
-sub d x by d_x;
-sub x x by x_x;
-";
-name = dlig;
-},
-{
-automatic = 1;
-code = "lookupflag IgnoreMarks;
 sub f i by fi;
 sub f l by fl;
 ";
@@ -570,7 +562,7 @@ value = 756;
 },
 {
 name = typoDescender;
-value = -244;
+value = -300;
 },
 {
 name = typoLineGap;
@@ -586,15 +578,15 @@ value = 460;
 },
 {
 name = hheaAscender;
-value = 1500;
+value = 1200;
+},
+{
+name = hheaDescender;
+value = -300;
 },
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = hheaDescender;
-value = -244;
 },
 {
 name = strikeoutPosition;
@@ -645,7 +637,7 @@ value = 756;
 },
 {
 name = typoDescender;
-value = -244;
+value = -300;
 },
 {
 name = typoLineGap;
@@ -661,11 +653,11 @@ value = 460;
 },
 {
 name = hheaAscender;
-value = 1500;
+value = 1200;
 },
 {
 name = hheaDescender;
-value = -244;
+value = -300;
 },
 {
 name = hheaLineGap;
@@ -42091,9 +42083,15 @@ note = d_x;
 },
 {
 glyphname = fi;
-lastChange = "2022-09-23 14:50:00 +0000";
+lastChange = "2022-09-24 05:36:50 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{346, 0}";
+}
+);
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
 paths = (
 {
@@ -42231,6 +42229,12 @@ nodes = (
 width = 642;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{357, 0}";
+}
+);
 layerId = "63F4CE79-9D5F-46D3-B41C-385689F27F0A";
 paths = (
 {
@@ -42373,9 +42377,15 @@ unicode = FB01;
 },
 {
 glyphname = fl;
-lastChange = "2022-09-23 14:50:00 +0000";
+lastChange = "2022-09-24 05:36:57 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{348, 0}";
+}
+);
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
 paths = (
 {
@@ -42496,6 +42506,12 @@ nodes = (
 width = 642;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{348, 0}";
+}
+);
 layerId = "63F4CE79-9D5F-46D3-B41C-385689F27F0A";
 paths = (
 {
