@@ -13,7 +13,9 @@ Fontbakery version: 0.8.10
 
 	- IJ_acutecomb
 
-	- ibar 
+	- ibar
+
+	- ringacute 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -62,29 +64,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
-	* uni0283 (U+0283): L<<140.0,40.0>--<135.0,499.0>> -> L<<135.0,499.0>--<135.0,504.0>>
+	* uni0283 (U+0283): L<<140.0,40.0>--<135.0,499.0>> -> L<<135.0,499.0>--<135.0,504.0>> 
 
-	* uni0283 (U+0283): L<<202.0,571.0>--<199.0,499.0>> -> L<<199.0,499.0>--<199.0,-28.0>>
-
-	* uni1E72 (U+1E72): L<<407.0,-120.0>--<407.0,-126.0>> -> L<<407.0,-126.0>--<407.0,-131.0>>
-
-	* uni1E72 (U+1E72): L<<411.0,-145.0>--<412.0,-147.0>> -> L<<412.0,-147.0>--<413.0,-149.0>>
-
-	* uni1E72 (U+1E72): L<<423.0,-83.0>--<421.0,-85.0>> -> L<<421.0,-85.0>--<419.0,-87.0>>
-
-	* uni1E72 (U+1E72): L<<425.0,-81.0>--<423.0,-83.0>> -> L<<423.0,-83.0>--<421.0,-85.0>>
-
-	* uni1E72 (U+1E72): L<<426.0,-80.0>--<425.0,-81.0>> -> L<<425.0,-81.0>--<423.0,-83.0>>
-
-	* uni1E72 (U+1E72): L<<428.0,-78.0>--<426.0,-80.0>> -> L<<426.0,-80.0>--<425.0,-81.0>>
-
-	* uni1E72 (U+1E72): L<<430.0,-76.0>--<428.0,-78.0>> -> L<<428.0,-78.0>--<426.0,-80.0>>
-
-	* uni1E72 (U+1E72): L<<434.0,-74.0>--<432.0,-75.0>> -> L<<432.0,-75.0>--<430.0,-76.0>> 
-
-	* And 14 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
+	* And uni0283 (U+0283): L<<202.0,571.0>--<199.0,499.0>> -> L<<199.0,499.0>--<199.0,-28.0>> [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
@@ -102,7 +84,9 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 	- IJ_acutecomb
 
-	- ibar 
+	- ibar
+
+	- ringacute 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -151,29 +135,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
-	* uni0283 (U+0283): L<<304.0,536.0>--<304.0,499.0>> -> L<<304.0,499.0>--<294.0,65.0>>
+	* uni0283 (U+0283): L<<304.0,536.0>--<304.0,499.0>> -> L<<304.0,499.0>--<294.0,65.0>> 
 
-	* uni0283 (U+0283): L<<86.0,146.0>--<81.0,499.0>> -> L<<81.0,499.0>--<81.0,534.0>>
-
-	* uni1E72 (U+1E72): L<<437.0,-120.0>--<437.0,-126.0>> -> L<<437.0,-126.0>--<437.0,-131.0>>
-
-	* uni1E72 (U+1E72): L<<441.0,-145.0>--<442.0,-147.0>> -> L<<442.0,-147.0>--<443.0,-149.0>>
-
-	* uni1E72 (U+1E72): L<<453.0,-83.0>--<451.0,-85.0>> -> L<<451.0,-85.0>--<449.0,-87.0>>
-
-	* uni1E72 (U+1E72): L<<455.0,-81.0>--<453.0,-83.0>> -> L<<453.0,-83.0>--<451.0,-85.0>>
-
-	* uni1E72 (U+1E72): L<<456.0,-80.0>--<455.0,-81.0>> -> L<<455.0,-81.0>--<453.0,-83.0>>
-
-	* uni1E72 (U+1E72): L<<458.0,-78.0>--<456.0,-80.0>> -> L<<456.0,-80.0>--<455.0,-81.0>>
-
-	* uni1E72 (U+1E72): L<<460.0,-76.0>--<458.0,-78.0>> -> L<<458.0,-78.0>--<456.0,-80.0>>
-
-	* uni1E72 (U+1E72): L<<464.0,-74.0>--<462.0,-75.0>> -> L<<462.0,-75.0>--<460.0,-76.0>> 
-
-	* And 14 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
+	* And uni0283 (U+0283): L<<86.0,146.0>--<81.0,499.0>> -> L<<81.0,499.0>--<81.0,534.0>> [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
@@ -199,7 +163,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 	* aringacute (U+01FB): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504 
 
-	* And 139 more.
+	* And 140 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
 </div></details><br></div></details><details><summary><b>[8] BriemHand-Regular.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Ensure fonts have ScriptLangTags declared on the 'meta' table. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/meta/script_lang_tags">com.google.fonts/check/meta/script_lang_tags</a>)</summary><div>
@@ -213,7 +177,9 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
-	- ibar 
+	- ibar
+
+	- ringacute 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -245,7 +211,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: ccaron	Contours detected: 3	Expected: 2 
 
-	- And 181 more.
+	- And 189 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -262,29 +228,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
-	* uni0283 (U+0283): L<<124.0,71.0>--<119.0,499.0>> -> L<<119.0,499.0>--<119.0,513.0>>
+	* uni0283 (U+0283): L<<124.0,71.0>--<119.0,499.0>> -> L<<119.0,499.0>--<119.0,513.0>> 
 
-	* uni0283 (U+0283): L<<232.0,561.0>--<230.0,499.0>> -> L<<230.0,499.0>--<227.0,-1.0>>
-
-	* uni1E72 (U+1E72): L<<416.0,-120.0>--<416.0,-126.0>> -> L<<416.0,-126.0>--<416.0,-131.0>>
-
-	* uni1E72 (U+1E72): L<<420.0,-145.0>--<421.0,-147.0>> -> L<<421.0,-147.0>--<422.0,-149.0>>
-
-	* uni1E72 (U+1E72): L<<432.0,-83.0>--<430.0,-85.0>> -> L<<430.0,-85.0>--<428.0,-87.0>>
-
-	* uni1E72 (U+1E72): L<<434.0,-81.0>--<432.0,-83.0>> -> L<<432.0,-83.0>--<430.0,-85.0>>
-
-	* uni1E72 (U+1E72): L<<435.0,-80.0>--<434.0,-81.0>> -> L<<434.0,-81.0>--<432.0,-83.0>>
-
-	* uni1E72 (U+1E72): L<<437.0,-78.0>--<435.0,-80.0>> -> L<<435.0,-80.0>--<434.0,-81.0>>
-
-	* uni1E72 (U+1E72): L<<439.0,-76.0>--<437.0,-78.0>> -> L<<437.0,-78.0>--<435.0,-80.0>>
-
-	* uni1E72 (U+1E72): L<<443.0,-74.0>--<441.0,-75.0>> -> L<<441.0,-75.0>--<439.0,-76.0>> 
-
-	* And 14 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
+	* And uni0283 (U+0283): L<<232.0,561.0>--<230.0,499.0>> -> L<<230.0,499.0>--<227.0,-1.0>> [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
@@ -340,7 +286,9 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
-	- ibar 
+	- ibar
+
+	- ringacute 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -389,29 +337,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
-	* uni0283 (U+0283): L<<285.0,543.0>--<284.0,499.0>> -> L<<284.0,499.0>--<276.0,47.0>>
+	* uni0283 (U+0283): L<<285.0,543.0>--<284.0,499.0>> -> L<<284.0,499.0>--<276.0,47.0>> 
 
-	* uni0283 (U+0283): L<<96.0,126.0>--<91.0,499.0>> -> L<<91.0,499.0>--<91.0,528.0>>
-
-	* uni1E72 (U+1E72): L<<431.0,-120.0>--<431.0,-126.0>> -> L<<431.0,-126.0>--<431.0,-131.0>>
-
-	* uni1E72 (U+1E72): L<<435.0,-145.0>--<436.0,-147.0>> -> L<<436.0,-147.0>--<437.0,-149.0>>
-
-	* uni1E72 (U+1E72): L<<447.0,-83.0>--<445.0,-85.0>> -> L<<445.0,-85.0>--<443.0,-87.0>>
-
-	* uni1E72 (U+1E72): L<<449.0,-81.0>--<447.0,-83.0>> -> L<<447.0,-83.0>--<445.0,-85.0>>
-
-	* uni1E72 (U+1E72): L<<450.0,-80.0>--<449.0,-81.0>> -> L<<449.0,-81.0>--<447.0,-83.0>>
-
-	* uni1E72 (U+1E72): L<<452.0,-78.0>--<450.0,-80.0>> -> L<<450.0,-80.0>--<449.0,-81.0>>
-
-	* uni1E72 (U+1E72): L<<454.0,-76.0>--<452.0,-78.0>> -> L<<452.0,-78.0>--<450.0,-80.0>>
-
-	* uni1E72 (U+1E72): L<<458.0,-74.0>--<456.0,-75.0>> -> L<<456.0,-75.0>--<454.0,-76.0>> 
-
-	* And 14 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
+	* And uni0283 (U+0283): L<<96.0,126.0>--<91.0,499.0>> -> L<<91.0,499.0>--<91.0,528.0>> [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
@@ -451,7 +379,9 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
-	- ibar 
+	- ibar
+
+	- ringacute 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -483,7 +413,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: Ccaron	Contours detected: 3	Expected: 2 
 
-	- And 185 more.
+	- And 191 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -500,29 +430,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
-	* uni0283 (U+0283): L<<118.0,84.0>--<113.0,499.0>> -> L<<113.0,499.0>--<113.0,516.0>>
+	* uni0283 (U+0283): L<<118.0,84.0>--<113.0,499.0>> -> L<<113.0,499.0>--<113.0,516.0>> 
 
-	* uni0283 (U+0283): L<<244.0,556.0>--<243.0,499.0>> -> L<<243.0,499.0>--<239.0,11.0>>
-
-	* uni1E72 (U+1E72): L<<419.0,-120.0>--<419.0,-126.0>> -> L<<419.0,-126.0>--<419.0,-131.0>>
-
-	* uni1E72 (U+1E72): L<<423.0,-145.0>--<424.0,-147.0>> -> L<<424.0,-147.0>--<425.0,-149.0>>
-
-	* uni1E72 (U+1E72): L<<435.0,-83.0>--<433.0,-85.0>> -> L<<433.0,-85.0>--<431.0,-87.0>>
-
-	* uni1E72 (U+1E72): L<<437.0,-81.0>--<435.0,-83.0>> -> L<<435.0,-83.0>--<433.0,-85.0>>
-
-	* uni1E72 (U+1E72): L<<438.0,-80.0>--<437.0,-81.0>> -> L<<437.0,-81.0>--<435.0,-83.0>>
-
-	* uni1E72 (U+1E72): L<<440.0,-78.0>--<438.0,-80.0>> -> L<<438.0,-80.0>--<437.0,-81.0>>
-
-	* uni1E72 (U+1E72): L<<442.0,-76.0>--<440.0,-78.0>> -> L<<440.0,-78.0>--<438.0,-80.0>>
-
-	* uni1E72 (U+1E72): L<<446.0,-74.0>--<444.0,-75.0>> -> L<<444.0,-75.0>--<442.0,-76.0>> 
-
-	* And 14 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
+	* And uni0283 (U+0283): L<<244.0,556.0>--<243.0,499.0>> -> L<<243.0,499.0>--<239.0,11.0>> [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
@@ -548,7 +458,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 	* uni0146 (U+0146): B<<211.5,233.5>-<209.0,206.0>-<208.0,197.0>>/B<<208.0,197.0>-<220.0,230.0>-<245.0,273.0>> = 13.642914775990052 
 
-	* And 27 more.
+	* And 33 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
@@ -568,7 +478,9 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
-	- ibar 
+	- ibar
+
+	- ringacute 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -594,13 +506,13 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni0180	Contours detected: 3	Expected: 2
 
+	- Glyph name: uni0186	Contours detected: 2	Expected: 1
+
 	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
-	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1 
 
-	- Glyph name: uhorn	Contours detected: 2	Expected: 1 
-
-	- And 83 more.
+	- And 85 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -617,29 +529,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
-	* uni0283 (U+0283): L<<131.0,58.0>--<126.0,499.0>> -> L<<126.0,499.0>--<126.0,509.0>>
+	* uni0283 (U+0283): L<<131.0,58.0>--<126.0,499.0>> -> L<<126.0,499.0>--<126.0,509.0>> 
 
-	* uni0283 (U+0283): L<<219.0,565.0>--<216.0,499.0>> -> L<<216.0,499.0>--<215.0,-13.0>>
-
-	* uni1E72 (U+1E72): L<<412.0,-120.0>--<412.0,-126.0>> -> L<<412.0,-126.0>--<412.0,-131.0>>
-
-	* uni1E72 (U+1E72): L<<416.0,-145.0>--<417.0,-147.0>> -> L<<417.0,-147.0>--<418.0,-149.0>>
-
-	* uni1E72 (U+1E72): L<<428.0,-83.0>--<426.0,-85.0>> -> L<<426.0,-85.0>--<424.0,-87.0>>
-
-	* uni1E72 (U+1E72): L<<430.0,-81.0>--<428.0,-83.0>> -> L<<428.0,-83.0>--<426.0,-85.0>>
-
-	* uni1E72 (U+1E72): L<<431.0,-80.0>--<430.0,-81.0>> -> L<<430.0,-81.0>--<428.0,-83.0>>
-
-	* uni1E72 (U+1E72): L<<433.0,-78.0>--<431.0,-80.0>> -> L<<431.0,-80.0>--<430.0,-81.0>>
-
-	* uni1E72 (U+1E72): L<<435.0,-76.0>--<433.0,-78.0>> -> L<<433.0,-78.0>--<431.0,-80.0>>
-
-	* uni1E72 (U+1E72): L<<439.0,-74.0>--<437.0,-75.0>> -> L<<437.0,-75.0>--<435.0,-76.0>> 
-
-	* And 14 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
+	* And uni0283 (U+0283): L<<219.0,565.0>--<216.0,499.0>> -> L<<216.0,499.0>--<215.0,-13.0>> [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
@@ -697,7 +589,9 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
-	- ibar 
+	- ibar
+
+	- ringacute 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -766,7 +660,7 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	* uni01C4 (U+01C4): L<<948.0,336.0>--<948.0,336.0>> -> L<<948.0,336.0>--<950.0,336.0>> 
 
-	* And 32 more.
+	* And 10 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
@@ -822,7 +716,9 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
-	- ibar 
+	- ibar
+
+	- ringacute 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -871,29 +767,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs have colinear vectors:
 
-	* uni0283 (U+0283): L<<136.0,48.0>--<131.0,499.0>> -> L<<131.0,499.0>--<131.0,506.0>>
+	* uni0283 (U+0283): L<<136.0,48.0>--<131.0,499.0>> -> L<<131.0,499.0>--<131.0,506.0>> 
 
-	* uni0283 (U+0283): L<<210.0,568.0>--<207.0,499.0>> -> L<<207.0,499.0>--<206.0,-21.0>>
-
-	* uni1E72 (U+1E72): L<<409.0,-120.0>--<409.0,-126.0>> -> L<<409.0,-126.0>--<409.0,-131.0>>
-
-	* uni1E72 (U+1E72): L<<413.0,-145.0>--<414.0,-147.0>> -> L<<414.0,-147.0>--<415.0,-149.0>>
-
-	* uni1E72 (U+1E72): L<<425.0,-83.0>--<423.0,-85.0>> -> L<<423.0,-85.0>--<421.0,-87.0>>
-
-	* uni1E72 (U+1E72): L<<427.0,-81.0>--<425.0,-83.0>> -> L<<425.0,-83.0>--<423.0,-85.0>>
-
-	* uni1E72 (U+1E72): L<<428.0,-80.0>--<427.0,-81.0>> -> L<<427.0,-81.0>--<425.0,-83.0>>
-
-	* uni1E72 (U+1E72): L<<430.0,-78.0>--<428.0,-80.0>> -> L<<428.0,-80.0>--<427.0,-81.0>>
-
-	* uni1E72 (U+1E72): L<<432.0,-76.0>--<430.0,-78.0>> -> L<<430.0,-78.0>--<428.0,-80.0>>
-
-	* uni1E72 (U+1E72): L<<436.0,-74.0>--<434.0,-75.0>> -> L<<434.0,-75.0>--<432.0,-76.0>> 
-
-	* And 14 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: found-colinear-vectors]
+	* And uni0283 (U+0283): L<<210.0,568.0>--<207.0,499.0>> -> L<<207.0,499.0>--<206.0,-21.0>> [code: found-colinear-vectors]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any jaggy segments? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_jaggy_segments">com.google.fonts/check/outline_jaggy_segments</a>)</summary><div>
 
 
