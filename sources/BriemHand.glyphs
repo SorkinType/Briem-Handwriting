@@ -1124,6 +1124,31 @@ sub rdotbelowmacron' @v_left by rdotbelowmacron r.v;
 sub rinvertedbreve' @v_left by rinvertedbreve r.v;
 sub rlinebelow' @v_left by rlinebelow r.v;
 
+sub s' @v_left by s s.v;
+sub sacute' @v_left by sacute s.v;
+sub sacutedotaccent' @v_left by sacutedotaccent s.v;
+sub scaron' @v_left by scaron s.v;
+sub scarondotaccent' @v_left by scarondotaccent s.v;
+sub scedilla' @v_left by scedilla s.v;
+sub scircumflex' @v_left by scircumflex s.v;
+sub scommaaccent' @v_left by scommaaccent s.v;
+sub sdotaccent' @v_left by sdotaccent s.v;
+sub sdotbelow' @v_left by sdotbelow s.v;
+sub sdotbelowdotaccent' @v_left by sdotbelowdotaccent s.v;
+
+sub t' @v_left by t t.v;
+sub tbar' @v_left by tbar t.v;
+sub tcaron' @v_left by tcaron t.v;
+sub tcedilla' @v_left by tcedilla t.v;
+sub tcircumflexbelow' @v_left by tcircumflexbelow t.v;
+sub tcommaaccent' @v_left by tcommaaccent t.v;
+sub tdieresis' @v_left by tdieresis t.v;
+sub tdotaccent' @v_left by tdotaccent t.v;
+sub tdotbelow' @v_left by tdotbelow t.v;
+sub tlinebelow' @v_left by tlinebelow t.v;
+
+sub v' @v_left by v v.v;
+sub vtilde' @v_left by vtilde v.s;
 
 ";
 name = calt;
