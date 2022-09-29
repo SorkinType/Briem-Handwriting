@@ -5,7 +5,8 @@ DisplayStrings = (
 "s/s.c chool",
 "z/z.c c",
 "z/z.c c",
-"v/v.c c"
+"v/v.c c",
+ozoo
 );
 classes = (
 {
@@ -30453,7 +30454,7 @@ unicode = 00F1;
 {
 color = 1;
 glyphname = o;
-lastChange = "2022-09-29 01:43:11 +0000";
+lastChange = "2022-09-29 02:53:27 +0000";
 layers = (
 {
 anchors = (
@@ -38955,7 +38956,7 @@ unicode = 1EF9;
 {
 color = 4;
 glyphname = z;
-lastChange = "2022-09-29 01:43:14 +0000";
+lastChange = "2022-09-29 02:53:30 +0000";
 layers = (
 {
 anchors = (
@@ -71729,6 +71730,14 @@ weightClass = Black;
 );
 kerning = {
 "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14" = {
+o = {
+z = -10;
+};
+z = {
+o = -10;
+};
+};
+"63F4CE79-9D5F-46D3-B41C-385689F27F0A" = {
 o = {
 z = -10;
 };
