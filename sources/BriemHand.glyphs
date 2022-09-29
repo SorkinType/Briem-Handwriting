@@ -1186,7 +1186,10 @@ sub xdieresis' @x_left by xdieresis x.x;
 sub xdotaccent' @x_left by xdotaccent x.x;
 
 sub x' space by x x_exit;
-sub x' @LowercaseAsc by x x_asc; 
+sub xdieresis' space by xdieresis x_exit;
+sub xdotaccent' space by xdotaccent x_exit;
+
+sub x' @LowercaseAsc by x x_asc;
 ";
 name = calt;
 }
