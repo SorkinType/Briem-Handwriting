@@ -18,7 +18,7 @@ import argparse
 WIDTH, HEIGHT, MARGIN, FRAMES = 2048, 2048, 128, 1
 FONT_PATH = "ttf/BriemHand-Regular.ttf"
 FONT_LICENSE = "OFL v1.1"
-AUXILIARY_FONT = "Helvetica"
+AUXILIARY_FONT = "Merriweather"
 AUXILIARY_FONT_SIZE = 48
 BIG_TEXT = "Aa"
 BIG_TEXT_FONT_SIZE = 1024
