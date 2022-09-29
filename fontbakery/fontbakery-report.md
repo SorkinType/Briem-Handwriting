@@ -62,15 +62,15 @@ Fontbakery version: 0.8.10
 
 	- ringacute
 
-	- s.v
+	- uni0328.alt
 
-	- t.v
+	- x.x
 
-	- uni0328.alt 
+	- x_asc
 
-	- And 5 more.
+	- x_exit 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And z.v
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -176,15 +176,15 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- ringacute
 
-	- s.v
+	- uni0328.alt
 
-	- t.v
+	- x.x
 
-	- uni0328.alt 
+	- x_asc
 
-	- And 5 more.
+	- x_exit 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And z.v
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -338,15 +338,15 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- ringacute
 
-	- s.v
+	- uni0328.alt
 
-	- t.v
+	- x.x
 
-	- uni0328.alt 
+	- x_asc
 
-	- And 5 more.
+	- x_exit 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And z.v
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -502,15 +502,15 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- ringacute
 
-	- s.v
+	- uni0328.alt
 
-	- t.v
+	- x.x
 
-	- uni0328.alt 
+	- x_asc
 
-	- And 5 more.
+	- x_exit 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And z.v
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -654,15 +654,15 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- ringacute
 
-	- s.v
+	- uni0328.alt
 
-	- t.v
+	- x.x
 
-	- uni0328.alt 
+	- x_asc
 
-	- And 5 more.
+	- x_exit 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And z.v
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -822,15 +822,15 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- ringacute
 
-	- s.v
+	- uni0328.alt
 
-	- t.v
+	- x.x
 
-	- uni0328.alt 
+	- x_asc
 
-	- And 5 more.
+	- x_exit 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And z.v
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -956,15 +956,15 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- ringacute
 
-	- s.v
+	- uni0328.alt
 
-	- t.v
+	- x.x
 
-	- uni0328.alt 
+	- x_asc
 
-	- And 5 more.
+	- x_exit 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And z.v
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1098,15 +1098,15 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- ringacute
 
-	- s.v
+	- uni0328.alt
 
-	- t.v
+	- x.x
 
-	- uni0328.alt 
+	- x_asc
 
-	- And 5 more.
+	- x_exit 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And z.v
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
