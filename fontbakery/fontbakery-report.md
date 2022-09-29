@@ -27,15 +27,9 @@ Fontbakery version: 0.8.10
 
 
 	- 0x01EF (LATIN SMALL LETTER EZH WITH CARON)
-
-
-	- 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
-
-
-	- 0x02B9 (MODIFIER LETTER PRIME)
  
 
-	- And 0x02C8 (MODIFIER LETTER VERTICAL LINE)
+	- And 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
  [code: missing-codepoints]
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
@@ -56,15 +50,27 @@ Fontbakery version: 0.8.10
 
 	- IJ_acutecomb
 
+	- d.a
+
+	- d.x
+
 	- e.c
 
 	- ibar
 
 	- r.c
 
-	- ringacute 
+	- ringacute
 
-	- And uni0328.alt
+	- s.v
+
+	- t.v
+
+	- uni0328.alt 
+
+	- And 5 more.
+
+Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -135,15 +141,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 	- 0x01EF (LATIN SMALL LETTER EZH WITH CARON)
-
-
-	- 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
-
-
-	- 0x02B9 (MODIFIER LETTER PRIME)
  
 
-	- And 0x02C8 (MODIFIER LETTER VERTICAL LINE)
+	- And 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
  [code: missing-codepoints]
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
@@ -164,15 +164,27 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- IJ_acutecomb
 
+	- d.a
+
+	- d.x
+
 	- e.c
 
 	- ibar
 
 	- r.c
 
-	- ringacute 
+	- ringacute
 
-	- And uni0328.alt
+	- s.v
+
+	- t.v
+
+	- uni0328.alt 
+
+	- And 5 more.
+
+Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -291,15 +303,9 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 	- 0x01EF (LATIN SMALL LETTER EZH WITH CARON)
-
-
-	- 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
-
-
-	- 0x02B9 (MODIFIER LETTER PRIME)
  
 
-	- And 0x02C8 (MODIFIER LETTER VERTICAL LINE)
+	- And 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
  [code: missing-codepoints]
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
@@ -320,15 +326,27 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
+	- d.a
+
+	- d.x
+
 	- e.c
 
 	- ibar
 
 	- r.c
 
-	- ringacute 
+	- ringacute
 
-	- And uni0328.alt
+	- s.v
+
+	- t.v
+
+	- uni0328.alt 
+
+	- And 5 more.
+
+Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -449,15 +467,9 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 	- 0x01EF (LATIN SMALL LETTER EZH WITH CARON)
-
-
-	- 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
-
-
-	- 0x02B9 (MODIFIER LETTER PRIME)
  
 
-	- And 0x02C8 (MODIFIER LETTER VERTICAL LINE)
+	- And 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
  [code: missing-codepoints]
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
@@ -478,15 +490,27 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
+	- d.a
+
+	- d.x
+
 	- e.c
 
 	- ibar
 
 	- r.c
 
-	- ringacute 
+	- ringacute
 
-	- And uni0328.alt
+	- s.v
+
+	- t.v
+
+	- uni0328.alt 
+
+	- And 5 more.
+
+Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -595,15 +619,9 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 	- 0x01EF (LATIN SMALL LETTER EZH WITH CARON)
-
-
-	- 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
-
-
-	- 0x02B9 (MODIFIER LETTER PRIME)
  
 
-	- And 0x02C8 (MODIFIER LETTER VERTICAL LINE)
+	- And 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
  [code: missing-codepoints]
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
@@ -624,15 +642,27 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
+	- d.a
+
+	- d.x
+
 	- e.c
 
 	- ibar
 
 	- r.c
 
-	- ringacute 
+	- ringacute
 
-	- And uni0328.alt
+	- s.v
+
+	- t.v
+
+	- uni0328.alt 
+
+	- And 5 more.
+
+Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -757,15 +787,9 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 	- 0x01EF (LATIN SMALL LETTER EZH WITH CARON)
-
-
-	- 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
-
-
-	- 0x02B9 (MODIFIER LETTER PRIME)
  
 
-	- And 0x02C8 (MODIFIER LETTER VERTICAL LINE)
+	- And 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
  [code: missing-codepoints]
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
@@ -786,15 +810,27 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
+	- d.a
+
+	- d.x
+
 	- e.c
 
 	- ibar
 
 	- r.c
 
-	- ringacute 
+	- ringacute
 
-	- And uni0328.alt
+	- s.v
+
+	- t.v
+
+	- uni0328.alt 
+
+	- And 5 more.
+
+Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -885,15 +921,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 	- 0x01EF (LATIN SMALL LETTER EZH WITH CARON)
-
-
-	- 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
-
-
-	- 0x02B9 (MODIFIER LETTER PRIME)
  
 
-	- And 0x02C8 (MODIFIER LETTER VERTICAL LINE)
+	- And 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
  [code: missing-codepoints]
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
@@ -914,15 +944,27 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- IJ_acutecomb
 
+	- d.a
+
+	- d.x
+
 	- e.c
 
 	- ibar
 
 	- r.c
 
-	- ringacute 
+	- ringacute
 
-	- And uni0328.alt
+	- s.v
+
+	- t.v
+
+	- uni0328.alt 
+
+	- And 5 more.
+
+Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1021,15 +1063,9 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 
 	- 0x01EF (LATIN SMALL LETTER EZH WITH CARON)
-
-
-	- 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
-
-
-	- 0x02B9 (MODIFIER LETTER PRIME)
  
 
-	- And 0x02C8 (MODIFIER LETTER VERTICAL LINE)
+	- And 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
  [code: missing-codepoints]
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
@@ -1050,15 +1086,27 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
+	- d.a
+
+	- d.x
+
 	- e.c
 
 	- ibar
 
 	- r.c
 
-	- ringacute 
+	- ringacute
 
-	- And uni0328.alt
+	- s.v
+
+	- t.v
+
+	- uni0328.alt 
+
+	- And 5 more.
+
+Use -F or --full-lists to disable shortening of long lists.
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
