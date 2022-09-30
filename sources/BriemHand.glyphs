@@ -61,6 +61,10 @@ name = v_left;
 {
 code = "x xdieresis xdotaccent ";
 name = x_left;
+},
+{
+code = "mediumspace-math emquad emspace enquad enspace punctuationspace sixperemspace space nbspace threeperemspace";
+name = spaces_right;
 }
 );
 copyright = "Copyright 2019 The Familyname Project Authors (https://github.com/SorkinType/Briem-Handwriting)";
@@ -1097,9 +1101,6 @@ sub eogonek' @v_left by eogonek e.v;
 sub etilde' @v_left by etilde e.v;
 sub etildebelow' @v_left by etildebelow e.v;
 
-sub iacute j' by jacute;
-sub Iacute J' by Jacute;
-
 sub k' @v_left by k k.v;
 sub kacute' @v_left by kacute k.v;
 sub kcaron' @v_left by kcaron k.v;
@@ -1188,11 +1189,14 @@ sub x' @x_left by x x.x;
 sub xdieresis' @x_left by xdieresis x.x;
 sub xdotaccent' @x_left by xdotaccent x.x;
 
-sub x' space by x x.exit;
-sub xdieresis' space by xdieresis x.exit;
-sub xdotaccent' space by xdotaccent x.exit;
+sub x' @spaces_right by x x.exit;
+sub xdieresis' @spaces_right by xdieresis x.exit;
+sub xdotaccent' @spaces_right by xdotaccent x.exit;
 
 sub x' @LowercaseAsc by x x.asc;
+
+sub iacute j' by jacute;
+sub Iacute J' by Jacute;
 
 ";
 name = calt;
@@ -38422,81 +38426,6 @@ note = x;
 unicode = 0078;
 },
 {
-color = 0;
-glyphname = x_asc;
-lastChange = "2022-09-28 18:17:50 +0000";
-layers = (
-{
-layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
-paths = (
-{
-closed = 1;
-nodes = (
-"-100 97 OFFCURVE",
-"125 407 OFFCURVE",
-"141 476 CURVE SMOOTH",
-"149 509 OFFCURVE",
-"149 551 OFFCURVE",
-"144 582 CURVE",
-"141 506 OFFCURVE",
-"-77 195 OFFCURVE",
-"-148 100 CURVE SMOOTH",
-"-167 75 LINE",
-"-170 -4 LINE"
-);
-}
-);
-width = 0;
-},
-{
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"8 36 OFFCURVE",
-"43 87 OFFCURVE",
-"119 198 CURVE SMOOTH",
-"126 209 OFFCURVE",
-"120 228 OFFCURVE",
-"109 240 CURVE SMOOTH",
-"106 243 OFFCURVE",
-"103 245 OFFCURVE",
-"101 242 CURVE SMOOTH",
-"91 224 OFFCURVE",
-"19 123 OFFCURVE",
-"7 107 CURVE SMOOTH",
-"-26 63 LINE",
-"-19 -3 LINE"
-);
-}
-);
-};
-layerId = "63F4CE79-9D5F-46D3-B41C-385689F27F0A";
-paths = (
-{
-closed = 1;
-nodes = (
-"51 98 OFFCURVE",
-"276 408 OFFCURVE",
-"292 477 CURVE SMOOTH",
-"300 510 OFFCURVE",
-"300 552 OFFCURVE",
-"295 583 CURVE",
-"292 507 OFFCURVE",
-"75 195 OFFCURVE",
-"3 101 CURVE SMOOTH",
-"-26 63 LINE",
-"-19 -3 LINE"
-);
-}
-);
-width = 110;
-}
-);
-note = x_asc;
-},
-{
 color = 4;
 glyphname = xdieresis;
 lastChange = "2022-09-25 01:54:22 +0000";
@@ -40319,6 +40248,81 @@ width = 8;
 }
 );
 note = z.a;
+},
+{
+color = 0;
+glyphname = x.asc;
+lastChange = "2022-09-30 01:11:27 +0000";
+layers = (
+{
+layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
+paths = (
+{
+closed = 1;
+nodes = (
+"-100 97 OFFCURVE",
+"125 407 OFFCURVE",
+"141 476 CURVE SMOOTH",
+"149 509 OFFCURVE",
+"149 551 OFFCURVE",
+"144 582 CURVE",
+"141 506 OFFCURVE",
+"-77 195 OFFCURVE",
+"-148 100 CURVE SMOOTH",
+"-167 75 LINE",
+"-170 -4 LINE"
+);
+}
+);
+width = 0;
+},
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"8 36 OFFCURVE",
+"43 87 OFFCURVE",
+"119 198 CURVE SMOOTH",
+"126 209 OFFCURVE",
+"120 228 OFFCURVE",
+"109 240 CURVE SMOOTH",
+"106 243 OFFCURVE",
+"103 245 OFFCURVE",
+"101 242 CURVE SMOOTH",
+"91 224 OFFCURVE",
+"19 123 OFFCURVE",
+"7 107 CURVE SMOOTH",
+"-26 63 LINE",
+"-19 -3 LINE"
+);
+}
+);
+};
+layerId = "63F4CE79-9D5F-46D3-B41C-385689F27F0A";
+paths = (
+{
+closed = 1;
+nodes = (
+"51 98 OFFCURVE",
+"276 408 OFFCURVE",
+"292 477 CURVE SMOOTH",
+"300 510 OFFCURVE",
+"300 552 OFFCURVE",
+"295 583 CURVE",
+"292 507 OFFCURVE",
+"75 195 OFFCURVE",
+"3 101 CURVE SMOOTH",
+"-26 63 LINE",
+"-19 -3 LINE"
+);
+}
+);
+width = 110;
+}
+);
+note = x_asc;
 },
 {
 color = 1;
@@ -51357,8 +51361,9 @@ note = quotesingle;
 unicode = 0027;
 },
 {
+color = 4;
 glyphname = "mediumspace-math";
-lastChange = "2022-09-24 06:35:46 +0000";
+lastChange = "2022-09-30 01:15:08 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -51373,8 +51378,9 @@ widthMetricsKey = "=222";
 unicode = 205F;
 },
 {
+color = 4;
 glyphname = emquad;
-lastChange = "2022-09-24 06:35:46 +0000";
+lastChange = "2022-09-30 01:15:06 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -51389,8 +51395,9 @@ widthMetricsKey = "=1000";
 unicode = 2001;
 },
 {
+color = 4;
 glyphname = emspace;
-lastChange = "2022-09-24 06:35:46 +0000";
+lastChange = "2022-09-30 01:15:03 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -51405,8 +51412,9 @@ widthMetricsKey = "=1000";
 unicode = 2003;
 },
 {
+color = 4;
 glyphname = enquad;
-lastChange = "2022-09-24 06:35:46 +0000";
+lastChange = "2022-09-30 01:15:01 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -51421,8 +51429,9 @@ widthMetricsKey = "=500";
 unicode = 2000;
 },
 {
+color = 4;
 glyphname = enspace;
-lastChange = "2022-09-24 06:35:46 +0000";
+lastChange = "2022-09-30 01:14:58 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -51501,8 +51510,9 @@ widthMetricsKey = "=space*0.2";
 unicode = 202F;
 },
 {
+color = 4;
 glyphname = punctuationspace;
-lastChange = "2022-09-24 06:35:46 +0000";
+lastChange = "2022-09-30 01:15:29 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -51517,8 +51527,9 @@ widthMetricsKey = "=period";
 unicode = 2008;
 },
 {
+color = 4;
 glyphname = sixperemspace;
-lastChange = "2022-09-24 06:35:46 +0000";
+lastChange = "2022-09-30 01:15:35 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -51533,8 +51544,9 @@ widthMetricsKey = "=166";
 unicode = 2006;
 },
 {
+color = 4;
 glyphname = space;
-lastChange = "2022-09-24 06:35:46 +0000";
+lastChange = "2022-09-30 01:15:38 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -51549,8 +51561,9 @@ note = space;
 unicode = 0020;
 },
 {
+color = 4;
 glyphname = nbspace;
-lastChange = "2022-09-24 06:59:56 +0000";
+lastChange = "2022-09-30 01:15:40 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
@@ -51581,8 +51594,9 @@ widthMetricsKey = "=125";
 unicode = 2009;
 },
 {
+color = 4;
 glyphname = threeperemspace;
-lastChange = "2022-09-24 06:35:46 +0000";
+lastChange = "2022-09-30 01:15:50 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
