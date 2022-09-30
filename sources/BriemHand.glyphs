@@ -1050,6 +1050,28 @@ sub ccedillaacute' @v_left by ccedillaacute c.v;
 sub ccircumflex' @v_left by ccircumflex c.v;
 sub cdotaccent' @v_left by cdotaccent c.v;
 
+sub d' @a_left by d d.a;
+sub dcaron' @a_left by dcaron d.a;
+sub dcedilla' @a_left by dcedilla d.a;
+sub dcircumflexbelow' @a_left by dcircumflexbelow d.a;
+sub dcroat' @a_left by dcroat d.a;
+sub ddotaccent' @a_left by ddotaccent d.a;
+sub ddotbelow' @a_left by ddotbelow d.a;
+sub dlinebelow' @a_left by dlinebelow d.a;
+sub dz' @a_left by dz d.a;
+sub dzcaron' @a_left by dzcaron d.a;
+
+sub d' @x_left by d d.x;
+sub dcaron' @x_left by dcaron d.x;
+sub dcedilla' @x_left by dcedilla d.x;
+sub dcircumflexbelow' @x_left by dcircumflexbelow d.x;
+sub dcroat' @x_left by dcroat d.x;
+sub ddotaccent' @x_left by ddotaccent d.x;
+sub ddotbelow' @x_left by ddotbelow d.x;
+sub dlinebelow' @x_left by dlinebelow d.x;
+sub dz' @x_left by dz d.x;
+sub dzcaron' @x_left by dzcaron d.x;
+
 sub e' @v_left by e e.v;
 sub eacute' @v_left by eacute e.v;
 sub ebreve' @v_left by ebreve e.v;
