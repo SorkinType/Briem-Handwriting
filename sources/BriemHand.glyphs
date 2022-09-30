@@ -1147,6 +1147,14 @@ sub tdotaccent' @v_left by tdotaccent t.v;
 sub tdotbelow' @v_left by tdotbelow t.v;
 sub tlinebelow' @v_left by tlinebelow t.v;
 
+sub z' @v_left by z z.v;
+sub zacute' @v_left by zacute z.v;
+sub zcaron' @v_left by zcaron z.v;
+sub zcircumflex' @v_left by zcircumflex z.v;
+sub zdotaccent' @v_left by zdotaccent z.v;
+sub zdotbelow' @v_left by zdotbelow z.v;
+sub zlinebelow' @v_left by zlinebelow z.v;
+
 sub v' @v_left by v v.v;
 sub vtilde' @v_left by vtilde v.s;
 
