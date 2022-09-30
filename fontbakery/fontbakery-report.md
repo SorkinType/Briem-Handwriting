@@ -52,9 +52,7 @@ Fontbakery version: 0.8.10
 
 	- e.c
 
-	- r.c
-
-	- ringacute 
+	- r.c 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -68,15 +66,9 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: onehalf	Contours detected: 2	Expected: 3
 
-	- Glyph name: dcroat	Contours detected: 3	Expected: 2
-
-	- Glyph name: hbar	Contours detected: 2	Expected: 1
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni0180	Contours detected: 3	Expected: 2
 
 	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
@@ -84,9 +76,15 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uhorn	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni018E	Contours detected: 1	Expected: 2 
+	- Glyph name: uni018E	Contours detected: 1	Expected: 2
 
-	- And 61 more.
+	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni0204	Contours detected: 3	Expected: 4
+
+	- Glyph name: uni0210	Contours detected: 4	Expected: 3 
+
+	- And 56 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -152,9 +150,7 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- e.c
 
-	- r.c
-
-	- ringacute 
+	- r.c 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -186,7 +182,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: Dcaron	Contours detected: 4	Expected: 3 
 
-	- And 175 more.
+	- And 170 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -300,9 +296,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- e.c
 
-	- r.c
-
-	- ringacute 
+	- r.c 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -318,23 +312,23 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: multiply	Contours detected: 2	Expected: 1
 
-	- Glyph name: dcroat	Contours detected: 3	Expected: 2
-
-	- Glyph name: hbar	Contours detected: 2	Expected: 1
-
 	- Glyph name: lslash	Contours detected: 3	Expected: 1
 
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0180	Contours detected: 3	Expected: 2
-
 	- Glyph name: uni0186	Contours detected: 2	Expected: 1
 
-	- Glyph name: ohorn	Contours detected: 3	Expected: 2 
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
-	- And 67 more.
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni018E	Contours detected: 1	Expected: 2 
+
+	- And 62 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -450,9 +444,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- e.c
 
-	- r.c
-
-	- ringacute 
+	- r.c 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -484,7 +476,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: ccaron	Contours detected: 3	Expected: 2 
 
-	- And 177 more.
+	- And 172 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -588,9 +580,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- e.c
 
-	- r.c
-
-	- ringacute 
+	- r.c 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -622,7 +612,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: ccaron	Contours detected: 3	Expected: 2 
 
-	- And 161 more.
+	- And 156 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -683,7 +673,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 	* nacute (U+0144): B<<233.0,273.0>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303 
 
-	* And 29 more.
+	* And 30 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
@@ -742,9 +732,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- e.c
 
-	- r.c
-
-	- ringacute 
+	- r.c 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -758,15 +746,9 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: onehalf	Contours detected: 2	Expected: 3
 
-	- Glyph name: dcroat	Contours detected: 3	Expected: 2
-
-	- Glyph name: hbar	Contours detected: 2	Expected: 1
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni0180	Contours detected: 3	Expected: 2
 
 	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
@@ -774,9 +756,15 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uhorn	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni018E	Contours detected: 1	Expected: 2 
+	- Glyph name: uni018E	Contours detected: 1	Expected: 2
 
-	- And 61 more.
+	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni0204	Contours detected: 3	Expected: 4
+
+	- Glyph name: uni0210	Contours detected: 4	Expected: 3 
+
+	- And 56 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -862,9 +850,7 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- e.c
 
-	- r.c
-
-	- ringacute 
+	- r.c 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -878,15 +864,9 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: onehalf	Contours detected: 2	Expected: 3
 
-	- Glyph name: dcroat	Contours detected: 3	Expected: 2
-
-	- Glyph name: hbar	Contours detected: 2	Expected: 1
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
-
-	- Glyph name: uni0180	Contours detected: 3	Expected: 2
 
 	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
@@ -894,9 +874,15 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uhorn	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni018E	Contours detected: 1	Expected: 2 
+	- Glyph name: uni018E	Contours detected: 1	Expected: 2
 
-	- And 59 more.
+	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni0204	Contours detected: 3	Expected: 4
+
+	- Glyph name: uni0210	Contours detected: 4	Expected: 3 
+
+	- And 54 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -990,9 +976,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- e.c
 
-	- r.c
-
-	- ringacute 
+	- r.c 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -1010,21 +994,21 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: multiply	Contours detected: 3	Expected: 1
 
-	- Glyph name: dcroat	Contours detected: 3	Expected: 2
-
-	- Glyph name: hbar	Contours detected: 2	Expected: 1
-
 	- Glyph name: lslash	Contours detected: 5	Expected: 1
 
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0180	Contours detected: 3	Expected: 2
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
-	- Glyph name: ohorn	Contours detected: 3	Expected: 2 
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
 
-	- And 67 more.
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni018E	Contours detected: 1	Expected: 2 
+
+	- And 62 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -1065,7 +1049,7 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	* gcaron (U+01E7): B<<396.5,197.0>-<396.0,233.0>-<396.0,260.0>>/B<<396.0,260.0>-<390.0,235.0>-<370.0,200.5>> = 13.495733280795811 
 
-	* And 112 more.
+	* And 111 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
 </div></details><br></div></details>
