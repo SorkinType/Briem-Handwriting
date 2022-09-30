@@ -50,10 +50,6 @@ Fontbakery version: 0.8.10
 
 	- IJ_acutecomb
 
-	- d.a
-
-	- d.x
-
 	- e.c
 
 	- ibar
@@ -161,10 +157,6 @@ Use -F or --full-lists to disable shortening of long lists.
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
 	- IJ_acutecomb
-
-	- d.a
-
-	- d.x
 
 	- e.c
 
@@ -321,10 +313,6 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
 	- IJ_acutecomb
-
-	- d.a
-
-	- d.x
 
 	- e.c
 
@@ -484,10 +472,6 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
-	- d.a
-
-	- d.x
-
 	- e.c
 
 	- ibar
@@ -633,10 +617,6 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
 	- IJ_acutecomb
-
-	- d.a
-
-	- d.x
 
 	- e.c
 
@@ -800,10 +780,6 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
-	- d.a
-
-	- d.x
-
 	- e.c
 
 	- ibar
@@ -931,10 +907,6 @@ Use -F or --full-lists to disable shortening of long lists.
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
 	- IJ_acutecomb
-
-	- d.a
-
-	- d.x
 
 	- e.c
 
@@ -1071,10 +1043,6 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
 	- IJ_acutecomb
-
-	- d.a
-
-	- d.x
 
 	- e.c
 
