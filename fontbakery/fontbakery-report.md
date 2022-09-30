@@ -52,19 +52,11 @@ Fontbakery version: 0.8.10
 
 	- e.c
 
-	- ibar
-
 	- r.c
 
-	- ringacute
+	- ringacute 
 
-	- uni0328.alt
-
-	- x.x
-
-	- x_asc 
-
-	- And x_exit
+	- And uni0328.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -160,19 +152,11 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- e.c
 
-	- ibar
-
 	- r.c
 
-	- ringacute
+	- ringacute 
 
-	- uni0328.alt
-
-	- x.x
-
-	- x_asc 
-
-	- And x_exit
+	- And uni0328.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -316,19 +300,11 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- e.c
 
-	- ibar
-
 	- r.c
 
-	- ringacute
+	- ringacute 
 
-	- uni0328.alt
-
-	- x.x
-
-	- x_asc 
-
-	- And x_exit
+	- And uni0328.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -474,19 +450,11 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- e.c
 
-	- ibar
-
 	- r.c
 
-	- ringacute
+	- ringacute 
 
-	- uni0328.alt
-
-	- x.x
-
-	- x_asc 
-
-	- And x_exit
+	- And uni0328.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -620,19 +588,11 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- e.c
 
-	- ibar
-
 	- r.c
 
-	- ringacute
+	- ringacute 
 
-	- uni0328.alt
-
-	- x.x
-
-	- x_asc 
-
-	- And x_exit
+	- And uni0328.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -782,19 +742,11 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- e.c
 
-	- ibar
-
 	- r.c
 
-	- ringacute
+	- ringacute 
 
-	- uni0328.alt
-
-	- x.x
-
-	- x_asc 
-
-	- And x_exit
+	- And uni0328.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -910,19 +862,11 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- e.c
 
-	- ibar
-
 	- r.c
 
-	- ringacute
+	- ringacute 
 
-	- uni0328.alt
-
-	- x.x
-
-	- x_asc 
-
-	- And x_exit
+	- And uni0328.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1046,19 +990,11 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- e.c
 
-	- ibar
-
 	- r.c
 
-	- ringacute
+	- ringacute 
 
-	- uni0328.alt
-
-	- x.x
-
-	- x_asc 
-
-	- And x_exit
+	- And uni0328.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
