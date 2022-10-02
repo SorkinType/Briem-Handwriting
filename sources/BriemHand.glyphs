@@ -1,7 +1,7 @@
 {
 .appVersion = "1361";
 DisplayStrings = (
-"aa/space aá/space aà/space aâ/space aä/space aå/space aã/space ad/space ag/space aq/space aæ/space ab/space af/space ah/space ak/space al/space ataþ/space ai/space aí/space aì/space aî/space aï/space ab/space am/space an/space añ/space ap/space ar/space au/space aú/space aù/space aû/space au/dieresiscomb/space ajay/space ay/acutecomb/space a/ydieresis/space ac/space aç/space ae/space aé/space aè/space aê/space aë/space ao/space aò/space aó/space aô/space aö/space aõ/space aøaoe/space að/space as/space avax/space ax/space aw/space ax/space az/space áa/space áá/space áà/space áâ/space áä/space áå/space áã/space ád/space ágáq/space áæ/space áb/space áf/space áh/space ák/space ál/space át/space áþ/space ái/space áí/space áì/space áî/space áï/space ám/space án/space áñáp/space ár/space áu/space áú/space áù/space áû/space áu/dieresiscomb/space áj/space áy/space áy/acutecomb/space á/ydieresis/space ác/space áç/space áe/space áé/space áè/space áêáë/space áo/space áò/space áó/space áô/space áö/space áõ/space áø/space áoe/space áð/space ás/space áv/space áw/space áx/space áz/space àa/space àáàà/space àâ/space àä/space àå/space àã/space àd/space àg/space àq/space àæ/space àb/space àf/space àh/space àk/space àl/space àt/space àþ/space àiàí/space àì/space àî/space àï/space àm/space àn/space àñ/space àp/space àr/space àu/space àú/space àù/space àû/space àu/dieresiscomb/space àj/space ày/space ày/acutecomb à/ydieresis/space àc/space àç/space àe/space àé/space àè/space àê/space àë/space ào/space àò/space àó/space àô/space àö/space àõ/space àø/space àoe/space àðàs/space àv/space àw/space àx/space àz/space âa/space âá/space âà/space ââ/space âä/space âå/space âã/space âd/space âg/space âq/space âæâb/space âf/space âh/space âk/space âl/space ât/space âþ/space âi/space âí/space âì/space âî/space âï/space âm/space a/circumflexcomb n/space âñ/space âp/space âr/space âuâú/space âù/space âû/space âu/dieresiscomb/space âj/space ây/space ây/acutecomb/space â/ydieresis/space âc/space âç/space âe/space âé/space âè/space âê/space âë/space âo/space âòâó/space âô/space âö/space âõ/space âø/space âoe/space âð/space âs/space âv/space âw/space âx/space âz/space äa/space äá/space äà/space äâää/space äå/space äã/space äd/space äg/space äq/space äæ/space äb/space äf/space äh/space äk/space äl/space ät/space äþ/space äi/space äí/space äìäî/space äï/space äm/space än/space äñ/space äp/space är/space äu/space äú/space äù/space äû/space äu/dieresiscomb/space äj/space äy/space äy/acutecomb/space ä/ydieresis/space äcäç/space äe/space äé/space äè/space äê/space äë/space äo/space äò/space äó/space äô/space äö/space äõ/space äø/space äoe/space äð/space äs/space äväw/space äx/space äz/space åa/space åa/acutecomb/space åà/space åâ/space åä/space åå/space åã/space åd/space åg/space åq/space åæ/space åb/space åfåh/space åk/space ål/space åt/space åþ/space åi/space åí/space åì/space åî/space åï/space åm/space ån/space åñ/space åp/space år/space åu/space åúåù/space åû/space åu/dieresiscomb/space åj/space åy/space åy/acutecomb/space å/ydieresis/space åc/space åç/space åe/space åé/space åè/space åê/space åë/space åo/space åò/space åóåô/space åö/space åõ/space åø/space åoe/space åð/space ås/space åv/space åw/space åx/space åz/space ãa/space ãá/space ãà/space ãâ/space ãäãå/space ãã/space ãd/space ãg/space ãq/space ãæ/space ãb/space ãf/space ãh/space ãk/space ãl/space ãt/space ãþ/space ãi/space ãí/space ãì/space ãî/space ãïãm/space ãn/space ãñ/space ãp/space ãr/space ãu/space ãú/space ãù/space ãû/space ãu/dieresiscomb/space ãj/space ãy/space ãy/acutecomb/space ã/ydieresis/space ãc/space ãç/space ãeãé/space ãè/space ãê/space ãë/space ão/space ãò/space ãó/space ãô/space ãö/space ãõ/space ãø/space ãoe/space ãð/space ãs/space ãv/space ãw/space ãxãz/space da/space dá/space dà/space dâ/space dä/space då/space dã/space dd/space dg/space dq/space dæ/space db/space df/space dh/space dk/space dldt/space dþ/space di/space dí/space dì/space dî/space dï/space dm/space dn/space dñ/space dp/space dr/space du/space dú/space dù/space dû/space du/dieresiscomb dj/space dy/space dy/acutecomb/space d/ydieresis/space dc/space dç/space de/space dé/space dè/space dê/space dë/space do/space dò/space dó/space dô/space dö/space dõdø/space doe/space dð/space ds/space dv/space dw/space dx/space dz/space ha/space há/space hà/space hâ/space hä/space hå/space hã/space hdhg/space hq/space hæ/space hb/space hf/space hh/space hk/space hl/space ht/space hþ/space hi/space hí/space hì/space hî/space hï/space hm/space hnhñ/space hp/space hr/space hu/space hú/space hù/space hu/circumflexcomb/space hu/dieresiscomb/space hj/space hy/space hy/acutecomb/space h/ydieresis/space hc/space hç/space he/space hé/space hèhê/space hë/space ho/space hò/space hó/space hô/space hö/space hõ/space hø/space hoe/space hð/space hs/space hv/space hw/space hx/space hz/space iaiá/space ià/space iâ/space iä/space iå/space iã/space id/space ig/space iq/space iæ/space ib/space if/space ih/space ik/space il/space it/space iþ/space ii/space ií/space iì/space iî/space iïBriem/space Handwriting/space joins/space roman/space ·/space 2/space of/space 10im/space in/space iñ/space ip/space ir/space iu/space iú/space iù/space iû/space iu/dieresiscomb/space ij/space iy/space iy/acutecomb/space i/ydieresis/space ic/space iç/space ie/space ié/space iè/space iê/space ië/space ioiò/space ió/space iô/space iö/space iõ/space iø/space ioe/space ið/space is/space iv/space iw/space ix/space iz/space ía/space íá/space íà/space íâ/space íä/space íå/space íã/space ídíg/space íq/space íæ/space íb/space íf/space íh/space ík/space íl/space ít/space íþ/space íi/space íí/space íì/space íî/space íï/space ím/space ín/space íñ/space íp/space ír/space íu/space íú/space íùíû/space íu/dieresiscomb/space íj/space íy/space íy/acutecomb/space í/ydieresis/space íc/space íç/space íe/space íé/space íè/space íê/space íë/space ío/space íò/space íó/space íô/space íö/space íõ/space íø/space íoe/space íðís/space ív/space íw/space íx/space íz/space ìa/space ìá/space ìà/space ìâ/space ìä/space ìå/space ìã/space ìd/space ìg/space ìq/space ìæ/space ìb/space ìf/space ìh/space ìk/space ìl/space ìtìþ/space ìi/space ìí/space ìì/space ìî/space ìï/space ìm/space ìn/space ìñ/space ìp/space ìr/space ìu/space ìú/space ìù/space ìû/space ìu/dieresiscomb/space ìj/space ìy/space ìy/acutecomb/space ì/ydieresis/space ìc/space ìç/space ìeìé/space ìè/space ìê/space ìë/space ìo/space ìò/space ìó/space ìô/space ìö/space ìõ/space ìø/space ìoe/space ìð/space ìs/space ìv/space ìw/space ìx/space ìz/space îa/space îá/space îà/space îâîä/space îå/space îã/space îd/space îg/space îq/space îæ/space îb/space îf/space îh/space îk/space îl/space ît/space îþ/space îi/space îí/space îì/space îî/space îï/space îm/space în/space îñîp/space îr/space îu/space îú/space îù/space îû/space îu/dieresiscomb/space îj/space îy/space îy/acutecomb/space î/ydieresis/space îc/space îç/space îe/space îé/space îè/space îê/space îë/space îo/space îò/space îó/space îôîö/space îõ/space îø/space îoe/space îð/space îs/space îv/space îw/space îx/space îz/space ïa/space ïá/space ïà/space ïâ/space ïä/space ïå/space ïã/space ïd/space ïg/space ïq/space ïæïb/space ïf/space ïh/space ïk/space ïl/space ït/space ïþ/space ïi/space ïí/space ïì/space ïî/space ïï/space ïm/space ïn/space ïñ/space ïp/space ïr/space ïu/space ïú/space ïù/space ïû/space ïu/dieresiscomb/space ïjïy/space ïy/acutecomb/space ï/ydieresis/space ïc/space ïç/space ïe/space ïé/space ïè/space ïê/space ïë/space ïo/space ïò/space ïó/space ïô/space ïö/space ïõ/space ïø/space ïoe/space ïð/space ïs/space ïv/space ïwïx/space ïz/space la/space lá/space là/space lâ/space lä/space lå/space lã/space ld/space lg/space lq/space læ/space lb/space lf/space lh/space lk/space ll/space lt/space lþ/space li/space lílì/space lî/space lï/space lm/space ln/space lñ/space lp/space lr/space lu/space lú/space lù/space lû/space lu/dieresiscomb/space lj/space ly/space ly/acutecomb/space l/ydieresis/space lc/space lç/space le/space lé/space lèlê/space lë/space lo/space lò/space ló/space lô/space lö/space lõ/space lø/space loe/space lð/space ls/space lv/space lw/space lx/space lz/space ma/space má/space màmâ/space mä/space må/space mã/space md/space mg/space mq/space mæ/space mb/space mf/space mh/space mk/space ml/space mtmþ/space mi/space mí/space mì/space mî/space mï/space mm/space mn/space mñ/space mp/space mr/space mu/space mú/space mùmû/space mu/dieresiscomb/space mj/space my/space my/acutecomb/space m/ydieresis/space mc/space mç/space me/space mé/space mè/space mê/space më/space momò/space mó/space mô/space mö/space mõ/space mø/space moe/space mð/space ms/space mv/space mw/space mx/space mz/space naná/space nà/space nâ/space nä/space nå/space nã/space nd/space ng/space nq/space næ/space nb/space nf/space nh/space nk/space nl/space nt/space nþni/space ní/space nì/space nî/space nï/space nm/space nn/space nñ/space np/space nr/space nu/space nú/space nù/space nû/space nu/dieresiscomb/space nj/space nyny/acutecomb/space n/ydieresis/space nc/space nç/space ne/space né/space nè/space nê/space në/space no/space nò/space nó/space nô/space nö/space nõ/space nø/space noenð/space ns/space nv/space nw/space nx/space nz/space ña/space ñá/space ñà/space ñâ/space ñä/space ñå/space ñã/space ñd/space ñg/space ñqñæ/space ñb/space ñf/space ñh/space ñk/space ñl/space ñt/space ñþ/space ñi/space ñí/space ñì/space ñî/space ñï/space ñm/space ñn/space n/tildecomb ñ/space ñp/space ñrñu/space ñú/space ñù/space ñû/space ñu/dieresiscomb/space ñj/space ñy/space ñy/acutecomb/space ñ/ydieresis/space ñc/space ñç/space ñe/space ñé/space ñè/space ñê/space ñë/space ñoñò/space ñó/space ñô/space ñö/space ñõ/space ñø/space ñoe/space ñð/space ñs/space ñv/space ñw/space ñx/space ñz/space ua/space uá/space uàuâ/space uä/space uå/space uã/space ud/space ug/space uq/space uæ/space ub/space uf/space uh/space uk/space ul/space ut/space uþ/space ui/space uíuì/space uî/space uï/space um/space un/space uñ/space up/space ur/space uu/space uú/space uù/space uû/space uu/dieresiscomb/space uj/space uy/space uy/acutecomb/space u/ydieresis uc/space uç/space ue/space ué/space uè/space uê/space uë/space uo/space uò/space uó/space uô/space uö/space uõ/space uø/space uoe/space uð/space usuv/space uw/space ux/space uz/space úa/space úá/space úà/space úâ/space úä/space úå/space úã/space úd/space úg/space úq/space úæ/space úbúf/space u/acutecomb h/space úk/space úl/space út/space úþ/space úi/space úí/space úì/space úî/space úï/space úm/space ún/space úñ/space úp/space úr/space úu/space úúúù/space úû/space úu/dieresiscomb/space új/space úy/space úy/acutecomb/space ú/ydieresis/space úc/space úç/space úe/space úé/space úè/space úê/space úë/space úo/space úò/space úóBriem/space Handwriting/space joins/space roman/space ·/space 3/space of/space 10úô/space úö/space úõ/space úø/space úoe/space úð/space ús/space úv/space úw/space úx/space úz/space ùa/space ùá/space ùà/space ùâ/space ùäùå/space ùã/space ùd/space ùg/space ùq/space ùæ/space ùb/space ùf/space ùh/space ùk/space ùl/space ùt/space ùþ/space ùi/space ùí/space ùì/space ùî/space ùïùm/space ùn/space ùñ/space ùp/space ùr/space ùu/space ùú/space ùù/space ùû/space ùu/dieresiscomb/space ùj/space ùy/space ùy/acutecomb/space ù/ydieresis/space ùc/space ùç/space ùeùé/space ùè/space ùê/space ùë/space ùo/space ùò/space ùó/space ùô/space u/gravecomb ö/space ùõ/space ùø/space ùoe/space ùð/space ùs/space ùv/space ùw/space ùxùz/space ûa/space ûá/space ûà/space ûâ/space ûä/space ûå/space ûã/space ûd/space ûg/space ûq/space ûæ/space ûb/space ûf/space ûh/space ûk/space ûlût/space ûþ/space ûi/space ûí/space ûì/space ûî/space ûï/space ûm/space ûn/space ûñ/space ûp/space ûr/space ûu/space ûú/space ûù/space ûû/space ûu/dieresiscomb ûj/space ûy/space ûy/acutecomb/space û/ydieresis/space ûc/space ûç/space ûe/space ûé/space ûè/space ûê/space ûë/space ûo/space ûò/space ûó/space ûô/space ûö/space ûõûø/space ûoe/space ûð/space ûs/space ûv/space ûw/space ûx/space ûz/space u/dieresiscomb a/space u/dieresiscomb á/space u/dieresiscomb à/space u/dieresiscomb â/space u/dieresiscomb ä/space u/dieresiscomb å/space u/dieresiscomb ã/space u/dieresiscomb du/dieresiscomb g/space u/dieresiscomb q/space u/dieresiscomb æ/space u/dieresiscomb b/space u/dieresiscomb f/space u/dieresiscomb h/space u/dieresiscomb k/space u/dieresiscomb l/space u/dieresiscomb t/space u/dieresiscomb þ/space u/dieresiscomb i/space u/dieresiscomb í/space u/dieresiscomb ì/space u/dieresiscomb î/space u/dieresiscomb ï/space u/dieresiscomb m/space u/dieresiscomb nu/dieresiscomb ñ/space u/dieresiscomb p/space u/dieresiscomb r/space u/dieresiscomb u/space u/dieresiscomb ú/space u/dieresiscomb ù/space u/dieresiscomb û/space u/dieresiscomb u/dieresiscomb/space u/dieresiscomb j/space u/dieresiscomb y/space u/dieresiscomb y/acutecomb/space u/dieresiscomb/ydieresis/space u/dieresiscomb c/space u/dieresiscomb ç/space u/dieresiscomb e/space u/dieresiscomb é/space u/dieresiscomb èu/dieresiscomb ê/space u/dieresiscomb ë/space u/dieresiscomb o/space u/dieresiscomb ò/space u/dieresiscomb ó/space u/dieresiscomb ô/space u/dieresiscomb ö/space u/dieresiscomb õ/space u/dieresiscomb ø/space u/dieresiscomb oe/space u/dieresiscomb ð/space u/dieresiscomb s/space u/dieresiscomb v/space u/dieresiscomb w/space u/dieresiscomb x/space u/dieresiscomb z/space babá/space bà/space bâ/space bä/space bå/space bã/space bd/space bg/space bq/space bæ/space bb/space bf/space bh/space bk/space bl/space bt/space bþbi/space bí/space bì/space bî/space bï/space bm/space bn/space bñ/space bp/space br/space bu/space bú/space bù/space bû/space bu/dieresiscomb/space bj/space byby/acutecomb/space b/ydieresis/space bc/space bç/space be/space bé/space bè/space bê/space bë/space bo/space bò/space bó/space bô/space bö/space bõ/space bø/space boebð/space bs/space bv/space bw/space bx/space bz/space pa/space pá/space pà/space pâ/space pä/space på/space pã/space pd/space pg/space pq/space pæpb/space pf/space ph/space pk/space pl/space pt/space pþ/space pi/space pí/space pì/space pî/space pï/space pm/space pn/space pñ/space pp/space pr/space pupú/space pù/space pû/space pu/dieresiscomb/space pj/space py/space py/acutecomb/space p/ydieresis/space pc/space pç/space pe/space pé/space pè/space pê/space pë/space po/space pòpó/space pô/space pö/space põ/space pø/space poe/space pð/space ps/space pv/space pw/space px/space pz/space þa/space þá/space þà/space þâ/space þäþå/space þã/space þd/space þg/space þq/space þæ/space þb/space þf/space þh/space þk/space þl/space þt/space þþ/space þi/space þí/space þì/space þî/space þïþm/space þn/space þñ/space þp/space þr/space þu/space þú/space þù/space þû/space þu/dieresiscomb/space þj/space þy/space þy/acutecomb/space þ/ydieresis/space þc/space þç/space þeþé/space þè/space þê/space þë/space þo/space þò/space þó/space þô/space þö/space þõ/space þø/space þoe/space þð/space þs/space þv/space þw/space þxþz/space ca/space cá/space cà/space câ/space cä/space cå/space cã/space cd/space cg/space cq/space cæ/space cb/space cf/space ch/space ck/space cl/space ct/space cþci/space cí/space cì/space cî/space cï/space cm/space cn/space cñ/space cp/space cr/space cu/space cú/space cù/space cû/space cu/dieresiscomb/space cj/space cy/space cy/acutecomb/space c/ydieresis/space cccç/space ce/space cé/space cè/space cê/space cë/space co/space cò/space có/space cô/space cö/space cõ/space cø/space coe/space cð/space cs/space cv/space cw/space cx/space czça/space çá/space çà/space çâ/space çä/space çå/space çã/space çd/space çg/space çq/space çæ/space çb/space çf/space çh/space çk/space çl/space çt/space çþ/space çi/space çíçì/space çî/space çï/space çm/space çn/space çñ/space çp/space çr/space çu/space çú/space çù/space çû/space çu/dieresiscomb/space çj/space çy/space çy/acutecomb/space ç/ydieresis/space çc/space çç/space çeçé/space çè/space çê/space çë/space ço/space çò/space çó/space çô/space çö/space çõ/space çø/space çoe/space çð/space çs/space çv/space çw/space çx/space çz/space eaeá/space eà/space eâ/space eä/space eå/space eã/space ed/space eg/space eq/space eæ/space eb/space ef/space eh/space ek/space el/space et/space eþ/space ei/space eí/space eìeî/space eï/space em/space en/space eñ/space ep/space er/space eu/space eú/space eù/space eû/space eu/dieresiscomb/space ej/space ey/space ey/acutecomb/space e/ydieresis/space ec/space eç/space eeeé/space eè/space eê/space eë/space eo/space eò/space eó/space eô/space eö/space eõ/space eø/space eoe/space eð/space es/space ev/space ew/space ex/space ez/space éaéá/space éà/space éâ/space éä/space éå/space éã/space éd/space ég/space éq/space éæ/space éb/space éf/space éh/space ék/space él/space ét/space éþ/space éi/space éí/space éìéî/space éï/space ém/space én/space éñ/space ép/space ér/space éu/space éú/space éù/space éû/space éu/dieresiscomb/space éj/space éy/space éy/acutecomb/space é/ydieresis/space éc/space éç/space éeBriem/space Handwriting/space joins/space roman/space ·/space 4/space of/space 10éé/space éè/space éê/space éë/space éo/space éò/space éó/space éo/circumflexcomb/space éö/space éõ/space éø/space éoe/space éð/space és/space év/space éw/space éx/space éz/space èaèá/space èà/space èâ/space èä/space èå/space èã/space èd/space èg/space èq/space èæ/space èb/space èf/space èh/space èk/space èl/space èt/space èþ/space èi/space èí/space èìèî/space èï/space èm/space èn/space èñ/space èp/space èr/space èu/space èú/space èù/space èû/space èu/dieresiscomb/space èj/space èy/space èy/acutecomb/space è/ydieresis/space èc/space èç/space èeèé/space èè/space èê/space èë/space èo/space èò/space èó/space èô/space èö/space èõ/space èø/space èoe/space èð/space ès/space èv/space èw/space èx/space èz/space êaêá/space êà/space êâ/space êä/space êå/space êã/space êd/space êg/space êq/space êæ/space êb/space êf/space êh/space êk/space êl/space êt/space êþ/space êi/space êí/space êìêî/space êï/space êm/space ên/space êñ/space êp/space êr/space êu/space êú/space êù/space êû/space êu/dieresiscomb/space êj/space êy/space êy/acutecomb/space ê/ydieresis/space êc/space êç/space êeêé/space êè/space êê/space êë/space êo/space êò/space êó/space êô/space êö/space êõ/space êø/space êoe/space êð/space ês/space êv/space êw/space êx/space êz/space ëaëá/space ëà/space ëâ/space ëä/space ëå/space ëã/space ëd/space ëg/space ëq/space ëæ/space ëb/space ëf/space ëh/space ëk/space ël/space ët/space ëþ/space ëi/space ëí/space ëìëî/space ëï/space ëm/space ën/space ëñ/space ëp/space ër/space ëu/space ëú/space ëù/space ëû/space ëu/dieresiscomb/space ëj/space ëy/space ëy/acutecomb/space ë/ydieresis/space ëc/space ëç/space ëeëé/space ëè/space ëê/space ëë/space ëo/space ëò/space ëó/space ëô/space ëö/space ëõ/space ëø/space ëoe/space ëð/space ës/space ëv/space ëw/space ëx/space ëz/space æaæá/space æà/space æâ/space æä/space æå/space æã/space æd/space æg/space æq/space ææ/space æb/space æf/space æh/space æk/space ælæt/space æþ/space æi/space æí/space æì/space æî/space æï/space æm/space æn/space æñ/space æp/space ær/space æu/space æú/space æù/space æûæu/dieresiscomb/space æj/space æy/space æy/acutecomb/space æ/ydieresis/space æc/space æç/space æe/space æé/space æè/space æê/space æë/space æo/space æò/space æó/space æôæö/space æõ/space æø/space æoe/space æð/space æs/space æv/space æw/space æx/space æz/space oea/space oeá/space oeà/space oeâ/space oeäoeå/space oeã/space oed/space oeg/space oeq/space oeæ/space oeb/space oef/space oeh/space oek/space oel/space oet/space oeþ/space oei/space oeíoeì/space oeî/space oeï/space oem/space oen/space oeñ/space oep/space oer/space oeu/space oeú/space oeù/space oeû/space oeu/dieresiscomb/space oej/space oeyoey/acutecomb/space oe/ydieresis/space oec/space oeç/space oee/space oeé/space oeè/space oeê/space oeë/space oeo/space oeò/space oeó/space oeô/space oeö/space oeõoeø/space oeoe/space oeð/space oes/space oev/space oew/space oex/space oez/space fa/space fá/space fa/gravecomb/space fâ/space fä/space få/space fã/space fd/space fgfq/space fæ/space fb/space ff/space fh/space fk/space fl/space ft/space fþ/space fi/space fí/space fì/space fî/space fï/space fm/space fn/space fñ/space fp/space fr/space fu/space fú/space fùfû/space fu/dieresiscomb/space fj/space fy/space fy/acutecomb/space f/ydieresis/space fc/space fç/space fe/space fé/space fè/space fê/space fë/space fo/space fò/space fó/space fô/space fö/space fõ/space fø/space foe/space fðfs/space ta/space tá/space tà/space tâ/space tä/space tå/space tã/space td/space tg/space tq/space tæ/space tb/space tf/space th/space tk/space tl/space tt/space tþ/space ti/space títì/space tî/space tï/space tm/space tn/space tñ/space tp/space tr/space tu/space tú/space tù/space tû/space tu/dieresiscomb/space tj/space ty/space ty/acutecomb/space t/ydieresis/space tc/space tç/space te/space tétè/space tê/space të/space to/space tò/space tó/space tô/space tö/space tõ/space tø/space toe/space tð/space ts/space ka/space ká/space kà/space kâ/space kä/space kåkã/space kd/space kg/space kq/space kæ/space kb/space kf/space kh/space kk/space kl/space kt/space kþ/space ki/space kí/space kì/space kî/space kï/space kmkn/space kñ/space kp/space kr/space ku/space kú/space kù/space kû/space ku/dieresiscomb/space kj/space ky/space ky/acutecomb/space k/ydieresis/space kc/space kç/space ke/space ké/space kèkê/space kë/space ko/space kò/space kó/space kô/space kö/space kõ/space kø/space koe/space kð/space ks/space kv/space kw/space kx/space kz/space oaoá/space oà/space oâ/space oä/space oå/space oã/space od/space og/space oq/space oæ/space ob/space of/space oh/space ok/space ol/space ot/space oþ/space oioí/space oì/space oî/space oï/space om/space on/space oñ/space op/space or/space ou/space oú/space où/space oû/space ou/dieresiscomb/space oj/space oy/space oy/acutecomb/space o/ydieresis oc/space oç/space oe/space oé/space oè/space oê/space oë/space oo/space oò/space oó/space oô/space oö/space oõ/space oø/space ooe/space oð/space os/space ovow/space ox/space oz/space òa/space òá/space òà/space òâ/space òä/space òå/space òã/space òd/space òg/space òq/space òæ/space òb/space òf/space òhòk/space òl/space òt/space òþ/space òi/space òí/space òì/space òî/space òï/space òm/space òn/space òñ/space òp/space òr/space òu/space òú/space òù/space òûòu/dieresiscomb/space òj/space òy/space òy/acutecomb/space ò/ydieresis/space òc/space òç/space òe/space òé/space òè/space òê/space òë/space òo/space òò/space òó/space òô/space òö/space òõBriem/space Handwriting/space joins/space roman/space ·/space 5/space of/space 10òø/space òoe/space òð/space òs/space òv/space òw/space òx/space òz/space óa/space óá/space óà/space óâ/space óä/space óå/space óã/space ód/space ógóq/space óæ/space ób/space óf/space óh/space ók/space ól/space ót/space óþ/space ói/space óí/space óì/space óî/space óï/space óm/space ón/space óñ/space ópór/space óu/space óú/space óù/space óû/space óu/dieresiscomb/space ój/space óy/space óy/acutecomb/space ó/ydieresis/space óc/space óç/space óe/space óé/space óè/space óê/space óë/space óoóò/space óó/space óô/space óö/space óõ/space óø/space óoe/space óð/space ós/space óv/space ów/space óx/space óz/space ôa/space ôá/space ôà/space ôâôä/space ôå/space ôã/space ôd/space ôg/space ôq/space ôæ/space ôb/space ôf/space ôh/space ôk/space ôl/space ôt/space ôþ/space ôi/space ôí/space ôì/space ôî/space ôïôm/space ôn/space ôñ/space ôp/space ôr/space ôu/space ôú/space ôù/space ôû/space ôu/dieresiscomb/space ôj/space ôy/space ôy/acutecomb/space ô/ydieresis/space ôc/space ôç/space ôe/space ôéôè/space ôê/space ôë/space ôo/space ôò/space ôó/space ôô/space ôö/space ôõ/space ôø/space ôoe/space ôð/space ôs/space ôv/space ôw/space ôx/space ôz/space öaöá/space öà/space öâ/space öä/space öå/space öã/space öd/space ög/space öq/space öæ/space öb/space öf/space öh/space ök/space öl/space öt/space öþ/space öiöí/space öì/space öî/space öï/space öm/space ön/space öñ/space öp/space ör/space öu/space öú/space öù/space öû/space öu/dieresiscomb/space öj/space öy/space öy/acutecomb/space ö/ydieresis öc/space öç/space öe/space öé/space öè/space öê/space öë/space öo/space öò/space öó/space öô/space öö/space öõ/space öø/space öoe/space öð/space ös/space övöw/space öx/space öz/space õa/space õá/space õà/space õâ/space õä/space õå/space õã/space õd/space õg/space õq/space õæ/space õb/space õf/space õhõk/space õl/space õt/space õþ/space õi/space õí/space õì/space õî/space õï/space õm/space õn/space õñ/space õp/space õr/space õu/space õú/space õù/space õûõu/dieresiscomb/space õj/space õy/space õy/acutecomb/space õ/ydieresis/space õc/space õç/space õe/space õé/space õè/space õê/space õë/space õo/space õò/space õó/space õô/space õö/space õõõø/space õoe/space õð/space õs/space õv/space õw/space õx/space õz/space øa/space øá/space øà/space øâ/space øä/space øå/space øã/space ød/space øgøq/space øæ/space øb/space øf/space øh/space øk/space øl/space øt/space øþ/space øi/space øí/space øì/space øî/space øï/space øm/space øn/space øñ/space øpør/space øu/space øú/space øù/space øû/space øu/dieresiscomb/space øj/space øy/space øy/acutecomb/space ø/ydieresis/space øc/space øç/space øe/space øé/space øè/space øê/space øë/space øoøò/space øó/space øô/space øö/space øõ/space øø/space øoe/space øð/space øs/space øv/space øw/space øx/space øz/space ra/space rá/space rà/space râ/space rärå/space rã/space rd/space rg/space rq/space ræ/space rb/space rf"
+"aa/space aá/space aà/space aâ/space aä/space aå/space aã/space ad/space ag/space aq/space aæ/space ab/space af/space ah/space ak/space al/space ataþ/space ai/space aí/space aì/space aî/space aï/space ab/space am/space an/space añ/space ap/space ar/space au/space aú/space aù/space aû/space au/dieresiscomb/space ajay/space ay/acutecomb/space a/ydieresis/space ac/space aç/space ae/space aé/space aè/space aê/space aë/space ao/space aò/space aó/space aô/space aö/space aõ/space aøaoe/space að/space as/space avax/space ax/space aw/space ax/space az/space áa/space áá/space áà/space áâ/space áä/space áå/space áã/space ád/space ágáq/space áæ/space áb/space áf/space áh/space ák/space ál/space át/space áþ/space ái/space áí/space áì/space áî/space áï/space ám/space án/space áñáp/space ár/space áu/space áú/space áù/space áû/space áu/dieresiscomb/space áj/space áy/space áy/acutecomb/space á/ydieresis/space ác/space áç/space áe/space áé/space áè/space áêáë/space áo/space áò/space áó/space áô/space áö/space áõ/space áø/space áoe/space áð/space ás/space áv/space áw/space áx/space áz/space àa/space àáàà/space àâ/space àä/space àå/space àã/space àd/space àg/space àq/space àæ/space àb/space àf/space àh/space àk/space àl/space àt/space àþ/space àiàí/space àì/space àî/space àï/space àm/space àn/space àñ/space àp/space àr/space àu/space àú/space àù/space àû/space àu/dieresiscomb/space àj/space ày/space ày/acutecomb à/ydieresis/space àc/space àç/space àe/space àé/space àè/space àê/space àë/space ào/space àò/space àó/space àô/space àö/space àõ/space àø/space àoe/space àðàs/space àv/space àw/space àx/space àz/space âa/space âá/space âà/space ââ/space âä/space âå/space âã/space âd/space âg/space âq/space âæâb/space âf/space âh/space âk/space âl/space ât/space âþ/space âi/space âí/space âì/space âî/space âï/space âm/space a/circumflexcomb n/space âñ/space âp/space âr/space âuâú/space âù/space âû/space âu/dieresiscomb/space âj/space ây/space ây/acutecomb/space â/ydieresis/space âc/space âç/space âe/space âé/space âè/space âê/space âë/space âo/space âòâó/space âô/space âö/space âõ/space âø/space âoe/space âð/space âs/space âv/space âw/space âx/space âz/space äa/space äá/space äà/space äâää/space äå/space äã/space äd/space äg/space äq/space äæ/space äb/space äf/space äh/space äk/space äl/space ät/space äþ/space äi/space äí/space äìäî/space äï/space äm/space än/space äñ/space äp/space är/space äu/space äú/space äù/space äû/space äu/dieresiscomb/space äj/space äy/space äy/acutecomb/space ä/ydieresis/space äcäç/space äe/space äé/space äè/space äê/space äë/space äo/space äò/space äó/space äô/space äö/space äõ/space äø/space äoe/space äð/space äs/space äväw/space äx/space äz/space åa/space åa/acutecomb/space åà/space åâ/space åä/space åå/space åã/space åd/space åg/space åq/space åæ/space åb/space åfåh/space åk/space ål/space åt/space åþ/space åi/space åí/space åì/space åî/space åï/space åm/space ån/space åñ/space åp/space år/space åu/space åúåù/space åû/space åu/dieresiscomb/space åj/space åy/space åy/acutecomb/space å/ydieresis/space åc/space åç/space åe/space åé/space åè/space åê/space åë/space åo/space åò/space åóåô/space åö/space åõ/space åø/space åoe/space åð/space ås/space åv/space åw/space åx/space åz/space ãa/space ãá/space ãà/space ãâ/space ãäãå/space ãã/space ãd/space ãg/space ãq/space ãæ/space ãb/space ãf/space ãh/space ãk/space ãl/space ãt/space ãþ/space ãi/space ãí/space ãì/space ãî/space ãïãm/space ãn/space ãñ/space ãp/space ãr/space ãu/space ãú/space ãù/space ãû/space ãu/dieresiscomb/space ãj/space ãy/space ãy/acutecomb/space ã/ydieresis/space ãc/space ãç/space ãeãé/space ãè/space ãê/space ãë/space ão/space ãò/space ãó/space ãô/space ãö/space ãõ/space ãø/space ãoe/space ãð/space ãs/space ãv/space ãw/space ãxãz/space da/space dá/space dà/space dâ/space dä/space då/space dã/space dd/space dg/space dq/space dæ/space db/space df/space dh/space dk/space dldt/space dþ/space di/space dí/space dì/space dî/space dï/space dm/space dn/space dñ/space dp/space dr/space du/space dú/space dù/space dû/space du/dieresiscomb dj/space dy/space dy/acutecomb/space d/ydieresis/space dc/space dç/space de/space dé/space dè/space dê/space dë/space do/space dò/space dó/space dô/space dö/space dõdø/space doe/space dð/space ds/space dv/space dw/space dx/space dz/space ha/space há/space hà/space hâ/space hä/space hå/space hã/space hdhg/space hq/space hæ/space hb/space hf/space hh/space hk/space hl/space ht/space hþ/space hi/space hí/space hì/space hî/space hï/space hm/space hnhñ/space hp/space hr/space hu/space hú/space hù/space hu/circumflexcomb/space hu/dieresiscomb/space hj/space hy/space hy/acutecomb/space h/ydieresis/space hc/space hç/space he/space hé/space hèhê/space hë/space ho/space hò/space hó/space hô/space hö/space hõ/space hø/space hoe/space hð/space hs/space hv/space hw/space hx/space hz/space iaiá/space ià/space iâ/space iä/space iå/space iã/space id/space ig/space iq/space iæ/space ib/space if/space ih/space ik/space il/space it/space iþ/space ii/space ií/space iì/space iî/space iïBriem/space Handwriting/space joins/space roman/space ·/space 2/space of/space 10im/space in/space iñ/space ip/space ir/space iu/space iú/space iù/space iû/space iu/dieresiscomb/space ij/space iy/space iy/acutecomb/space i/ydieresis/space ic/space iç/space ie/space ié/space iè/space iê/space ië/space ioiò/space ió/space iô/space iö/space iõ/space iø/space ioe/space ið/space is/space iv/space iw/space ix/space iz/space ía/space íá/space íà/space íâ/space íä/space íå/space íã/space ídíg/space íq/space íæ/space íb/space íf/space íh/space ík/space íl/space ít/space íþ/space íi/space íí/space íì/space íî/space íï/space ím/space ín/space íñ/space íp/space ír/space íu/space íú/space íùíû/space íu/dieresiscomb/space íj/space íy/space íy/acutecomb/space í/ydieresis/space íc/space íç/space íe/space íé/space íè/space íê/space íë/space ío/space íò/space íó/space íô/space íö/space íõ/space íø/space íoe/space íðís/space ív/space íw/space íx/space íz/space ìa/space ìá/space ìà/space ìâ/space ìä/space ìå/space ìã/space ìd/space ìg/space ìq/space ìæ/space ìb/space ìf/space ìh/space ìk/space ìl/space ìtìþ/space ìi/space ìí/space ìì/space ìî/space ìï/space ìm/space ìn/space ìñ/space ìp/space ìr/space ìu/space ìú/space ìù/space ìû/space ìu/dieresiscomb/space ìj/space ìy/space ìy/acutecomb/space ì/ydieresis/space ìc/space ìç/space ìeìé/space ìè/space ìê/space ìë/space ìo/space ìò/space ìó/space ìô/space ìö/space ìõ/space ìø/space ìoe/space ìð/space ìs/space ìv/space ìw/space ìx/space ìz/space îa/space îá/space îà/space îâîä/space îå/space îã/space îd/space îg/space îq/space îæ/space îb/space îf/space îh/space îk/space îl/space ît/space îþ/space îi/space îí/space îì/space îî/space îï/space îm/space în/space îñîp/space îr/space îu/space îú/space îù/space îû/space îu/dieresiscomb/space îj/space îy/space îy/acutecomb/space î/ydieresis/space îc/space îç/space îe/space îé/space îè/space îê/space îë/space îo/space îò/space îó/space îô/space/space îö/space îõ/space îø/space îoe/space îð/space îs/space îv/space îw/space îx/space îz/space ïa/space ïá/space ïà/space ïâ/space ïä/space ïå/space ïã/space ïd/space ïg/space ïq/space ïæïb/space ïf/space ïh/space ïk/space ïl/space ït/space ïþ/space ïi/space ïí/space ïì/space ïî/space ïï/space ïm/space ïn/space ïñ/space ïp/space ïr/space ïu/space ïú/space ïù/space ïû/space ïu/dieresiscomb/space ïjïy/space ïy/acutecomb/space ï/ydieresis/space ïc/space ïç/space ïe/space ïé/space ïè/space ïê/space ïë/space ïo/space ïò/space ïó/space ïô/space ïö/space ïõ/space ïø/space ïoe/space ïð/space ïs/space ïv/space ïwïx/space ïz/space la/space lá/space là/space lâ/space lä/space lå/space lã/space ld/space lg/space lq/space læ/space lb/space lf/space lh/space lk/space ll/space lt/space lþ/space li/space lílì/space lî/space lï/space lm/space ln/space lñ/space lp/space lr/space lu/space lú/space lù/space lû/space lu/dieresiscomb/space lj/space ly/space ly/acutecomb/space l/ydieresis/space lc/space lç/space le/space lé/space lèlê/space lë/space lo/space lò/space ló/space lô/space lö/space lõ/space lø/space loe/space lð/space ls/space lv/space lw/space lx/space lz/space ma/space má/space màmâ/space mä/space må/space mã/space md/space mg/space mq/space mæ/space mb/space mf/space mh/space mk/space ml/space mtmþ/space mi/space mí/space mì/space mî/space mï/space mm/space mn/space mñ/space mp/space mr/space mu/space mú/space mùmû/space mu/dieresiscomb/space mj/space my/space my/acutecomb/space m/ydieresis/space mc/space mç/space me/space mé/space mè/space mê/space më/space momò/space mó/space mô/space mö/space mõ/space mø/space moe/space mð/space ms/space mv/space mw/space mx/space mz/space naná/space nà/space nâ/space nä/space nå/space nã/space nd/space ng/space nq/space næ/space nb/space nf/space nh/space nk/space nl/space nt/space nþni/space ní/space nì/space nî/space nï/space nm/space nn/space nñ/space np/space nr/space nu/space nú/space nù/space nû/space nu/dieresiscomb/space nj/space nyny/acutecomb/space n/ydieresis/space nc/space nç/space ne/space né/space nè/space nê/space në/space no/space nò/space nó/space nô/space nö/space nõ/space nø/space noenð/space ns/space nv/space nw/space nx/space nz/space ña/space ñá/space ñà/space ñâ/space ñä/space ñå/space ñã/space ñd/space ñg/space ñqñæ/space ñb/space ñf/space ñh/space ñk/space ñl/space ñt/space ñþ/space ñi/space ñí/space ñì/space ñî/space ñï/space ñm/space ñn/space n/tildecomb ñ/space ñp/space ñrñu/space ñú/space ñù/space ñû/space ñu/dieresiscomb/space ñj/space ñy/space ñy/acutecomb/space ñ/ydieresis/space ñc/space ñç/space ñe/space ñé/space ñè/space ñê/space ñë/space ñoñò/space ñó/space ñô/space ñö/space ñõ/space ñø/space ñoe/space ñð/space ñs/space ñv/space ñw/space ñx/space ñz/space ua/space uá/space uàuâ/space uä/space uå/space uã/space ud/space ug/space uq/space uæ/space ub/space uf/space uh/space uk/space ul/space ut/space uþ/space ui/space uíuì/space uî/space uï/space um/space un/space uñ/space up/space ur/space uu/space uú/space uù/space uû/space uu/dieresiscomb/space uj/space uy/space uy/acutecomb/space u/ydieresis uc/space uç/space ue/space ué/space uè/space uê/space uë/space uo/space uò/space uó/space uô/space uö/space uõ/space uø/space uoe/space uð/space usuv/space uw/space ux/space uz/space úa/space úá/space úà/space úâ/space úä/space úå/space úã/space úd/space úg/space úq/space úæ/space úbúf/space u/acutecomb h/space úk/space úl/space út/space úþ/space úi/space úí/space úì/space úî/space úï/space úm/space ún/space úñ/space úp/space úr/space úu/space úúúù/space úû/space úu/dieresiscomb/space új/space úy/space úy/acutecomb/space ú/ydieresis/space úc/space úç/space úe/space úé/space úè/space úê/space úë/space úo/space úò/space úóBriem/space Handwriting/space joins/space roaman/space ·/space 3/space of/space 10úô/space úö/space úõ/space úø/space úoe/space úð/space ús/space úv/space úw/space úx/space úz/space ùa/space ùá/space ùà/space ùâ/space ùäùå/space ùã/space ùd/space ùg/space ùq/space ùæ/space ùb/space ùf/space ùh/space ùk/space ùl/space ùt/space ùþ/space ùi/space ùí/space ùì/space ùî/space ùïùm/space ùn/space ùñ/space ùp/space ùr/space ùu/space ùú/space ùù/space ùû/space ùu/dieresiscomb/space ùj/space ùy/space ùy/acutecomb/space ù/ydieresis/space ùc/space ùç/space ùeùé/space ùè/space ùê/space ùë/space ùo/space ùò/space ùó/space ùô/space u/gravecomb ö/space ùõ/space ùø/space ùoe/space ùð/space ùs/space ùv/space ùw/space ùxùz/space ûa/space ûá/space ûà/space ûâ/space ûä/space ûå/space ûã/space ûd/space ûg/space ûq/space ûæ/space ûb/space ûf/space ûh/space ûk/space ûlût/space ûþ/space ûi/space ûí/space ûì/space ûî/space ûï/space ûm/space ûn/space ûñ/space ûp/space ûr/space ûu/space ûú/space ûù/space ûû/space ûu/dieresiscomb ûj/space ûy/space ûy/acutecomb/space û/ydieresis/space ûc/space ûç/space ûe/space ûé/space ûè/space ûê/space ûë/space ûo/space ûò/space ûó/space ûô/space ûö/space ûõûø/space ûoe/space ûð/space ûs/space ûv/space ûw/space ûx/space ûz/space u/dieresiscomb a/space u/dieresiscomb á/space u/dieresiscomb à/space u/dieresiscomb â/space u/dieresiscomb ä/space u/dieresiscomb å/space u/dieresiscomb ã/space u/dieresiscomb du/dieresiscomb g/space u/dieresiscomb q/space u/dieresiscomb æ/space u/dieresiscomb b/space u/dieresiscomb f/space u/dieresiscomb h/space u/dieresiscomb k/space u/dieresiscomb l/space u/dieresiscomb t/space u/dieresiscomb þ/space u/dieresiscomb i/space u/dieresiscomb í/space u/dieresiscomb ì/space u/dieresiscomb î/space u/dieresiscomb ï/space u/dieresiscomb m/space u/dieresiscomb nu/dieresiscomb ñ/space u/dieresiscomb p/space u/dieresiscomb r/space u/dieresiscomb u/space u/dieresiscomb ú/space u/dieresiscomb ù/space u/dieresiscomb û/space u/dieresiscomb u/dieresiscomb/space u/dieresiscomb j/space u/dieresiscomb y/space u/dieresiscomb y/acutecomb/space u/dieresiscomb/ydieresis/space u/dieresiscomb c/space u/dieresiscomb ç/space u/dieresiscomb e/space u/dieresiscomb é/space u/dieresiscomb èu/dieresiscomb ê/space u/dieresiscomb ë/space u/dieresiscomb o/space u/dieresiscomb ò/space u/dieresiscomb ó/space u/dieresiscomb ô/space u/dieresiscomb ö/space u/dieresiscomb õ/space u/dieresiscomb ø/space u/dieresiscomb oe/space u/dieresiscomb ð/space u/dieresiscomb s/space u/dieresiscomb v/space u/dieresiscomb w/space u/dieresiscomb x/space u/dieresiscomb z/space babá/space bà/space bâ/space bä/space bå/space bã/space bd/space bg/space bq/space bæ/space bb/space bf/space bh/space bk/space bl/space bt/space bþbi/space bí/space bì/space bî/space bï/space bm/space bn/space bñ/space bp/space br/space bu/space bú/space bù/space bû/space bu/dieresiscomb/space bj/space byby/acutecomb/space b/ydieresis/space bc/space bç/space be/space bé/space bè/space bê/space bë/space bo/space bò/space bó/space bô/space bö/space bõ/space bø/space boebð/space bs/space bv/space bw/space bx/space bz/space pa/space pá/space pà/space pâ/space pä/space på/space pã/space pd/space pg/space pq/space pæpb/space pf/space ph/space pk/space pl/space pt/space pþ/space pi/space pí/space pì/space pî/space pï/space pm/space pn/space pñ/space pp/space pr/space pupú/space pù/space pû/space pu/dieresiscomb/space pj/space py/space py/acutecomb/space p/ydieresis/space pc/space pç/space pe/space pé/space pè/space pê/space pë/space po/space pòpó/space pô/space pö/space põ/space pø/space poe/space pð/space ps/space pv/space pw/space px/space pz/space þa/space þá/space þà/space þâ/space þäþå/space þã/space þd/space þg/space þq/space þæ/space þb/space þf/space þh/space þk/space þl/space þt/space þþ/space þi/space þí/space þì/space þî/space þïþm/space þn/space þñ/space þp/space þr/space þu/space þú/space þù/space þû/space þu/dieresiscomb/space þj/space þy/space þy/acutecomb/space þ/ydieresis/space þc/space þç/space þeþé/space þè/space þê/space þë/space þo/space þò/space þó/space þô/space þö/space þõ/space þø/space þoe/space þð/space þs/space þv/space þw/space þxþz/space ca/space cá/space cà/space câ/space cä/space cå/space cã/space cd/space cg/space cq/space cæ/space cb/space cf/space ch/space ck/space cl/space ct/space cþci/space cí/space cì/space cî/space cï/space cm/space cn/space cñ/space cp/space cr/space cu/space cú/space cù/space cû/space cu/dieresiscomb/space cj/space cy/space cy/acutecomb/space c/ydieresis/space cccç/space ce/space cé/space cè/space cê/space cë/space co/space cò/space có/space cô/space cö/space cõ/space cø/space coe/space cð/space cs/space cv/space cw/space cx/space czça/space çá/space çà/space çâ/space çä/space çå/space çã/space çd/space çg/space çq/space çæ/space çb/space çf/space çh/space çk/space çl/space çt/space çþ/space çi/space çíçì/space çî/space çï/space çm/space çn/space çñ/space çp/space çr/space çu/space çú/space çù/space çû/space çu/dieresiscomb/space çj/space çy/space çy/acutecomb/space ç/ydieresis/space çc/space çç/space çeçé/space çè/space çê/space çë/space ço/space çò/space çó/space çô/space çö/space çõ/space çø/space çoe/space çð/space çs/space çv/space çw/space çx/space çz/space eaeá/space eà/space eâ/space eä/space eå/space eã/space ed/space eg/space eq/space eæ/space eb/space ef/space eh/space ek/space el/space et/space eþ/space ei/space eí/space eìeî/space eï/space em/space en/space eñ/space ep/space er/space eu/space eú/space eù/space eû/space eu/dieresiscomb/space ej/space ey/space ey/acutecomb/space e/ydieresis/space ec/space eç/space eeeé/space eè/space eê/space eë/space eo/space eò/space eó/space eô/space eö/space eõ/space eø/space eoe/space eð/space es/space ev/space ew/space ex/space ez/space éaéá/space éà/space éâ/space éä/space éå/space éã/space éd/space ég/space éq/space éæ/space éb/space éf/space éh/space ék/space él/space ét/space éþ/space éi/space éí/space éìéî/space éï/space ém/space én/space éñ/space ép/space ér/space éu/space éú/space éù/space éû/space éu/dieresiscomb/space éj/space éy/space éy/acutecomb/space é/ydieresis/space éc/space éç/space éeBriem/space Handwriting/space joins/space roman/space ·/space 4/space of/space 10éé/space éè/space éê/space éë/space éo/space éò/space éó/space éo/circumflexcomb/space éö/space éõ/space éø/space éoe/space éð/space és/space év/space éw/space éx/space éz/space èaèá/space èà/space èâ/space èä/space èå/space èã/space èd/space èg/space èq/space èæ/space èb/space èf/space èh/space èk/space èl/space èt/space èþ/space èi/space èí/space èìèî/space èï/space èm/space èn/space èñ/space èp/space èr/space èu/space èú/space èù/space èû/space èu/dieresiscomb/space èj/space èy/space èy/acutecomb/space è/ydieresis/space èc/space èç/space èeèé/space èè/space èê/space èë/space èo/space èò/space èó/space èô/space èö/space èõ/space èø/space èoe/space èð/space ès/space èv/space èw/space èx/space èz/space êaêá/space êà/space êâ/space êä/space êå/space êã/space êd/space êg/space êq/space êæ/space êb/space êf/space êh/space êk/space êl/space êt/space êþ/space êi/space êí/space êìêî/space êï/space êm/space ên/space êñ/space êp/space êr/space êu/space êú/space êù/space êû/space êu/dieresiscomb/space êj/space êy/space êy/acutecomb/space ê/ydieresis/space êc/space êç/space êeêé/space êè/space êê/space êë/space êo/space êò/space êó/space êô/space êö/space êõ/space êø/space êoe/space êð/space ês/space êv/space êw/space êx/space êz/space ëaëá/space ëà/space ëâ/space ëä/space ëå/space ëã/space ëd/space ëg/space ëq/space ëæ/space ëb/space ëf/space ëh/space ëk/space ël/space ët/space ëþ/space ëi/space ëí/space ëìëî/space ëï/space ëm/space ën/space ëñ/space ëp/space ër/space ëu/space ëú/space ëù/space ëû/space ëu/dieresiscomb/space ëj/space ëy/space ëy/acutecomb/space ë/ydieresis/space ëc/space ëç/space ëeëé/space ëè/space ëê/space ëë/space ëo/space ëò/space ëó/space ëô/space ëö/space ëõ/space ëø/space ëoe/space ëð/space ës/space ëv/space ëw/space ëx/space ëz/space æaæá/space æà/space æâ/space æä/space æå/space æã/space æd/space æg/space æq/space ææ/space æb/space æf/space æh/space æk/space ælæt/space æþ/space æi/space æí/space æì/space æî/space æï/space æm/space æn/space æñ/space æp/space ær/space æu/space æú/space æù/space æûæu/dieresiscomb/space æj/space æy/space æy/acutecomb/space æ/ydieresis/space æc/space æç/space æe/space æé/space æè/space æê/space æë/space æo/space æò/space æó/space æôæö/space æõ/space æø/space æoe/space æð/space æs/space æv/space æw/space æx/space æz/space oea/space oeá/space oeà/space oeâ/space oeäoeå/space oeã/space oed/space oeg/space oeq/space oeæ/space oeb/space oef/space oeh/space oek/space oel/space oet/space oeþ/space oei/space oeíoeì/space oeî/space oeï/space oem/space oen/space oeñ/space oep/space oer/space oeu/space oeú/space oeù/space oeû/space oeu/dieresiscomb/space oej/space oeyoey/acutecomb/space oe/ydieresis/space oec/space oeç/space oee/space oeé/space oeè/space oeê/space oeë/space oeo/space oeò/space oeó/space oeô/space oeö/space oeõoeø/space oeoe/space oeð/space oes/space oev/space oew/space oex/space oez/space fa/space fá/space fa/gravecomb/space fâ/space fä/space få/space fã/space fd/space fgfq/space fæ/space fb/space ff/space fh/space fk/space fl/space ft/space fþ/space fi/space fí/space fì/space fî/space fï/space fm/space fn/space fñ/space fp/space fr/space fu/space fú/space fùfû/space fu/dieresiscomb/space fj/space fy/space fy/acutecomb/space f/ydieresis/space fc/space fç/space fe/space fé/space fè/space fê/space fë/space fo/space fò/space fó/space fô/space fö/space fõ/space fø/space foe/space fðfs/space ta/space tá/space tà/space tâ/space tä/space tå/space tã/space td/space tg/space tq/space tæ/space tb/space tf/space th/space tk/space tl/space tt/space tþ/space ti/space títì/space tî/space tï/space tm/space tn/space tñ/space tp/space tr/space tu/space tú/space tù/space tû/space tu/dieresiscomb/space tj/space ty/space ty/acutecomb/space t/ydieresis/space tc/space tç/space te/space tétè/space tê/space të/space to/space tò/space tó/space tô/space tö/space tõ/space tø/space toe/space tð/space ts/space ka/space ká/space kà/space kâ/space kä/space kåkã/space kd/space kg/space kq/space kæ/space kb/space kf/space kh/space kk/space kl/space kt/space kþ/space ki/space kí/space kì/space kî/space kï/space kmkn/space kñ/space kp/space kr/space ku/space kú/space kù/space kû/space ku/dieresiscomb/space kj/space ky/space ky/acutecomb/space k/ydieresis/space kc/space kç/space ke/space ké/space kèkê/space kë/space ko/space kò/space kó/space kô/space kö/space kõ/space kø/space koe/space kð/space ks/space kv/space kw/space kx/space kz/space oaoá/space oà/space oâ/space oä/space oå/space oã/space od/space og/space oq/space oæ/space ob/space of/space oh/space ok/space ol/space ot/space oþ/space oioí/space oì/space oî/space oï/space om/space on/space oñ/space op/space or/space ou/space oú/space où/space oû/space ou/dieresiscomb/space oj/space oy/space oy/acutecomb/space o/ydieresis oc/space oç/space oe/space oé/space oè/space oê/space oë/space oo/space oò/space oó/space oô/space oö/space oõ/space oø/space ooe/space oð/space os/space ovow/space ox/space oz/space òa/space òá/space òà/space òâ/space òä/space òå/space òã/space òd/space òg/space òq/space òæ/space òb/space òf/space òhòk/space òl/space òt/space òþ/space òi/space òí/space òì/space òî/space òï/space òm/space òn/space òñ/space òp/space òr/space òu/space òú/space òù/space òûòu/dieresiscomb/space òj/space òy/space òy/acutecomb/space ò/ydieresis/space òc/space òç/space òe/space òé/space òè/space òê/space òë/space òo/space òò/space òó/space òô/space òö/space òõBriem/space Handwriting/space joins/space roman/space ·/space 5/space of/space 10òø/space òoe/space òð/space òs/space òv/space òw/space òx/space òz/space óa/space óá/space óà/space óâ/space óä/space óå/space óã/space ód/space ógóq/space óæ/space ób/space óf/space óh/space ók/space ól/space ót/space óþ/space ói/space óí/space óì/space óî/space óï/space óm/space ón/space óñ/space ópór/space óu/space óú/space óù/space óû/space óu/dieresiscomb/space ój/space óy/space óy/acutecomb/space ó/ydieresis/space óc/space óç/space óe/space óé/space óè/space óê/space óë/space óoóò/space óó/space óô/space óö/space óõ/space óø/space óoe/space óð/space ós/space óv/space ów/space óx/space óz/space ôa/space ôá/space ôà/space ôâôä/space ôå/space ôã/space ôd/space ôg/space ôq/space ôæ/space ôb/space ôf/space ôh/space ôk/space ôl/space ôt/space ôþ/space ôi/space ôí/space ôì/space ôî/space ôïôm/space ôn/space ôñ/space ôp/space ôr/space ôu/space ôú/space ôù/space ôû/space ôu/dieresiscomb/space ôj/space ôy/space ôy/acutecomb/space ô/ydieresis/space ôc/space ôç/space ôe/space ôéôè/space ôê/space ôë/space ôo/space ôò/space ôó/space ôô/space ôö/space ôõ/space ôø/space ôoe/space ôð/space ôs/space ôv/space ôw/space ôx/space ôz/space öaöá/space öà/space öâ/space öä/space öå/space öã/space öd/space ög/space öq/space öæ/space öb/space öf/space öh/space ök/space öl/space öt/space öþ/space öiöí/space öì/space öî/space öï/space öm/space ön/space öñ/space öp/space ör/space öu/space öú/space öù/space öû/space öu/dieresiscomb/space öj/space öy/space öy/acutecomb/space ö/ydieresis öc/space öç/space öe/space öé/space öè/space öê/space öë/space öo/space öò/space öó/space öô/space öö/space öõ/space öø/space öoe/space öð/space ös/space övöw/space öx/space öz/space õa/space õá/space õà/space õâ/space õä/space õå/space õã/space õd/space õg/space õq/space õæ/space õb/space õf/space õhõk/space õl/space õt/space õþ/space õi/space õí/space õì/space õî/space õï/space õm/space õn/space õñ/space õp/space õr/space õu/space õú/space õù/space õûõu/dieresiscomb/space õj/space õy/space õy/acutecomb/space õ/ydieresis/space õc/space õç/space õe/space õé/space õè/space õê/space õë/space õo/space õò/space õó/space õô/space õö/space õõõø/space õoe/space õð/space õs/space õv/space õw/space õx/space õz/space øa/space øá/space øà/space øâ/space øä/space øå/space øã/space ød/space øgøq/space øæ/space øb/space øf/space øh/space øk/space øl/space øt/space øþ/space øi/space øí/space øì/space øî/space øï/space øm/space øn/space øñ/space øpør/space øu/space øú/space øù/space øû/space øu/dieresiscomb/space øj/space øy/space øy/acutecomb/space ø/ydieresis/space øc/space øç/space øe/space øé/space øè/space øê/space øë/space øoøò/space øó/space øô/space øö/space øõ/space øø/space øoe/space øð/space øs/space øv/space øw/space øx/space øz/space ra/space rá/space rà/space râ/space rärå/space rã/space rd/space rg/space rq/space ræ/space rb/space rf"
 );
 classes = (
 {
@@ -18,7 +18,7 @@ code = "a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove a
 name = a_left;
 },
 {
-code = "b bdotaccent bdotbelow blinebelow bstroke n nacute ncaron ncircumflexbelow ncommaaccent ndotaccent ndotbelow ngrave eng nj nlinebelow ntilde m macute mdotaccent mdotbelow h hbar hbrevebelow hcaron hcedilla hcircumflex hdieresis hdotaccent hdotbelow hlinebelow p pacute pdotaccent thorn i idotless iacute ibreve icaron icircumflex idieresis idieresisacute idotaccent idotbelow igrave ihookabove iinvertedbreve ij imacron iogonek iota-latin istroke itilde itildebelow iogonek.loclNAV k kacute kcaron kcommaaccent kdotbelow kgreenlandic klinebelow r racute rcaron rcommaaccent rdotaccent rdotbelow rdotbelowmacron rinvertedbreve rlinebelow u uacute ubar ubreve ucaron ucircumflex ucircumflexbelow udieresis udieresisacute udieresisbelow udieresiscaron udieresisgrave udieresismacron udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut uinvertedbreve umacron umacrondieresis uogonek uring utilde utildeacute utildebelow uogonek.loclNAV y yacute ycircumflex ydieresis ydotaccent ydotbelow ygrave yhookabove ymacron yring ytilde f j l t
+code = "b bdotaccent bdotbelow blinebelow bstroke h hbar hbrevebelow hcaron hcedilla hcircumflex hdieresis hdotaccent hdotbelow hlinebelow p pacute pdotaccent thorn k kacute kcaron kcommaaccent kdotbelow kgreenlandic klinebelow l
 ";
 name = b_left;
 },
@@ -27,7 +27,7 @@ code = "c cacute ccaron ccedilla ccedillaacute ccircumflex cdotaccent o eth o oa
 name = c_left;
 },
 {
-code = "i idotless iacute ibreve icaron icircumflex idieresis idieresisacute idotaccent idotbelow igrave ihookabove iinvertedbreve ij imacron iogonek iota-latin istroke itilde itildebelow";
+code = "i idotless iacute ibreve icaron icircumflex idieresis idieresisacute idotaccent idotbelow igrave ihookabove iinvertedbreve ij imacron iogonek iota-latin istroke itilde itildebelow r racute rcaron rcommaaccent rdotaccent rdotbelow rdotbelowmacron rinvertedbreve rlinebelow n nacute ncaron ncircumflexbelow ncommaaccent ndotaccent ndotbelow ngrave eng nj nlinebelow ntilde m macute mdotaccent mdotbelow u uacute ubar ubreve ucaron ucircumflex ucircumflexbelow udieresis udieresisacute udieresisbelow udieresiscaron udieresisgrave udieresismacron udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut uinvertedbreve umacron umacrondieresis uogonek uring utilde utildeacute utildebelow uogonek.loclNAV y yacute ycircumflex ydieresis ydotaccent ydotbelow ygrave yhookabove ymacron yring ytilde";
 name = i_left;
 },
 {
@@ -45,6 +45,14 @@ name = x_left;
 {
 code = "mediumspace-math emquad emspace enquad enspace punctuationspace sixperemspace space nbspace threeperemspace";
 name = spaces_right;
+},
+{
+code = "a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acaron acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adblgrave adieresis adieresismacron adotaccent adotbelow agrave ahookabove ainvertedbreve alpha-latin amacron aogonek aring aringacute aringbelow atilde d dcaron dcedilla dcircumflexbelow dcroat ddotaccent ddotbelow dlinebelow h hbar hbrevebelow hcaron hcedilla hcircumflex hdieresis hdotaccent hdotbelow hlinebelow i idotless iacute ibreve icaron icircumflex idieresis idieresisacute idotaccent idotbelow igrave ihookabove iinvertedbreve imacron iogonek iota-latin istroke itilde itildebelow l lacute lcaron lcircumflexbelow lcommaaccent ldot ldotbelow lslash m macute mdotaccent mdotbelow n nacute ncaron ncircumflexbelow ncommaaccent ndotaccent ndotbelow ngrave nhookleft nlinebelow ntilde u uacute ubar ubreve ucaron ucircumflex ucircumflexbelow udieresis udieresisacute udieresisbelow udieresiscaron udieresisgrave udieresismacron udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut uinvertedbreve umacron umacrondieresis uogonek uring utilde utildeacute utildebelow iogonek.loclNAV uogonek.loclNAV ";
+name = a_right;
+},
+{
+code = "f fdotaccent t tbar tcaron tcedilla tcircumflexbelow tcommaaccent tdieresis tdotaccent tdotbelow tlinebelow ";
+name = f_left;
 }
 );
 copyright = "Copyright 2019 The Familyname Project Authors (https://github.com/SorkinType/Briem-Handwriting)";
@@ -479,6 +487,25 @@ sub hdotaccent' @a_left by hdotaccent a.a;
 sub hdotbelow' @a_left by hdotbelow a.a;
 sub hlinebelow' @a_left by hlinebelow a.a;
 
+sub i' @a_left by i a.a;
+sub idotless' @a_left by idotless a.a;
+sub iacute' @a_left by iacute a.a;
+sub ibreve' @a_left by ibreve a.a;
+sub icaron' @a_left by icaron a.a;
+sub icircumflex' @a_left by icircumflex a.a;
+sub idieresis' @a_left by idieresis a.a;
+sub idieresisacute' @a_left by idieresisacute a.a;
+sub idotaccent' @a_left by idotaccent a.a;
+sub idotbelow' @a_left by idotbelow a.a;
+sub igrave' @a_left by igrave a.a;
+sub ihookabove' @a_left by ihookabove a.a;
+sub iinvertedbreve' @a_left by iinvertedbreve a.a;
+sub imacron' @a_left by imacron a.a;
+sub iogonek' @a_left by iogonek a.a;
+sub iota-latin' @a_left by iota-latin a.a;
+sub istroke' @a_left by istroke a.a;
+sub itilde' @a_left by itilde a.a;
+sub itildebelow' @a_left by itildebelow a.a;
 
 sub k' @a_left by k k.a;
 sub kacute' @a_left by kacute k.a;
@@ -486,6 +513,32 @@ sub kcaron' @a_left by kcaron k.a;
 sub kcommaaccent' @a_left by kcommaaccent k.a;
 sub kdotbelow' @a_left by kdotbelow k.a;
 sub klinebelow' @a_left by klinebelow k.a;
+
+sub l' @a_left by l d.a;
+sub lacute' @a_left by lacute d.a;
+sub lcaron' @a_left by lcaron d.a;
+sub lcircumflexbelow' @a_left by lcircumflexbelow d.a;
+sub lcommaaccent' @a_left by lcommaaccent d.a;
+sub ldot' @a_left by ldot d.a;
+sub ldotbelow' @a_left by ldotbelow d.a;
+sub lslash' @a_left by lslash d.a;
+
+sub m' @a_left by m d.a;
+sub macute' @a_left by macute d.a;
+sub mdotaccent' @a_left by mdotaccent d.a;
+sub mdotbelow' @a_left by mdotbelow d.a;
+
+sub n' @a_left by n d.a;
+sub nacute' @a_left by nacute d.a;
+sub ncaron' @a_left by ncaron d.a;
+sub ncircumflexbelow' @a_left by ncircumflexbelow d.a;
+sub ncommaaccent' @a_left by ncommaaccent d.a;
+sub ndotaccent' @a_left by ndotaccent d.a;
+sub ndotbelow' @a_left by ndotbelow d.a;
+sub ngrave' @a_left by ngrave d.a;
+sub nhookleft' @a_left by nhookleft d.a;
+sub nlinebelow' @a_left by nlinebelow d.a;
+sub ntilde' @a_left by ntilde d.a;
 
 sub o' @a_left by o o.a;
 sub oacute' @a_left by oacute o.a;
@@ -541,6 +594,52 @@ sub scommaaccent' @a_left by scommaaccent s.a;
 sub sdotaccent' @a_left by sdotaccent s.a;
 sub sdotbelow' @a_left by sdotbelow s.a;
 sub sdotbelowdotaccent' @a_left by sdotbelowdotaccent s.a;
+
+sub u' @a_left by u a.a;
+sub uacute' @a_left by uacute a.a;
+sub ubar' @a_left by ubar a.a;
+sub ubreve' @a_left by ubreve a.a;
+sub ucaron' @a_left by ucaron a.a;
+sub ucircumflex' @a_left by ucircumflex a.a;
+sub ucircumflexbelow' @a_left by ucircumflexbelow a.a;
+sub udieresis' @a_left by u a.a;
+sub udieresisacute' @a_left by udieresisacute a.a;
+sub udieresisbelow' @a_left by udieresisbelow a.a;
+sub udieresiscaron' @a_left by udieresiscaron a.a;
+sub udieresisgrave' @a_left by udieresisgrave a.a;
+sub udieresismacron' @a_left by udieresismacron a.a;
+sub udotbelow' @a_left by udotbelow a.a;
+sub ugrave' @a_left by ugrave a.a;
+sub uhookabove' @a_left by uhookabove a.a;
+sub uhorn' @a_left by uhorn a.a;
+sub uhornacute' @a_left by uhornacute a.a;
+sub uhorndotbelow' @a_left by uhorndotbelow a.a;
+sub uhorngrave' @a_left by uhorngrave a.a;
+sub uhornhookabove' @a_left by uhornhookabove a.a;
+sub uhorntilde' @a_left by uhorntilde a.a;
+sub uhungarumlaut' @a_left by uhungarumlaut a.a;
+sub uinvertedbreve' @a_left by uinvertedbreve a.a;
+sub umacron' @a_left by umacron a.a;
+sub umacrondieresis' @a_left by umacrondieresis a.a;
+sub uogonek' @a_left by uogonek a.a;
+sub uring' @a_left by uring a.a;
+sub utilde' @a_left by utilde a.a;
+sub utildeacute' @a_left by utildeacute a.a;
+sub utildebelow' @a_left by utildebelow a.a;
+
+sub f' @a_left by f f.a;
+sub fdotaccent' @a_left by fdotaccent f.a;
+
+sub t' @a_left by t f.a;
+sub tbar' @a_left by tbar f.a;
+sub tcaron' @a_left by tcaron f.a;
+sub tcedilla' @a_left by tcedilla f.a;
+sub tcircumflexbelow' @a_left by tcircumflexbelow f.a;
+sub tcommaaccent' @a_left by  tcommaaccent f.a;
+sub tdieresis' @a_left by tdieresis f.a;
+sub tdotaccent' @a_left by tdotaccent f.a;
+sub tdotbelow' @a_left by tdotbelow f.a;
+sub tlinebelow' @a_left by tlinebelow f.a;
 
 sub v' @a_left by v v.a;
 sub vtilde' @a_left by vtilde v.a;
@@ -644,12 +743,90 @@ sub hdotaccent' @b_left by hdotaccent a.b;
 sub hdotbelow' @b_left by hdotbelow a.b;
 sub hlinebelow' @b_left by hlinebelow a.b;
 
+sub i' @b_left by i a.a;
+sub idotless' @b_left by idotless a.b;
+sub iacute' @b_left by iacute a.b;
+sub ibreve' @b_left by ibreve a.b;
+sub icaron' @b_left by icaron a.b;
+sub icircumflex' @b_left by icircumflex a.b;
+sub idieresis' @b_left by idieresis a.b;
+sub idieresisacute' @b_left by idieresisacute a.b;
+sub idotaccent' @b_left by idotaccent a.b;
+sub idotbelow' @b_left by idotbelow a.b;
+sub igrave' @b_left by igrave a.b;
+sub ihookabove' @b_left by ihookabove a.b;
+sub iinvertedbreve' @b_left by iinvertedbreve a.b;
+sub imacron' @b_left by imacron a.b;
+sub iogonek' @b_left by iogonek a.b;
+sub iota-latin' @b_left by iota-latin a.b;
+sub istroke' @b_left by istroke a.b;
+sub itilde' @b_left by itilde a.b;
+sub itildebelow' @b_left by itildebelow a.b;
+
 sub k' @b_left by k k.b;
 sub kacute' @b_left by kacute k.b;
 sub kcaron' @b_left by kcaron k.b;
 sub kcommaaccent' @b_left by kcommaaccent k.b;
 sub kdotbelow' @b_left by kdotbelow k.b;
 sub klinebelow' @b_left by klinebelow k.b;
+
+sub l' @b_left by l a.b;
+sub lacute' @b_left by lacute a.b;
+sub lcaron' @b_left by lcaron a.b;
+sub lcircumflexbelow' @b_left by lcircumflexbelow a.b;
+sub lcommaaccent' @b_left by lcommaaccent a.b;
+sub ldot' @b_left by ldot a.b;
+sub ldotbelow' @b_left by ldotbelow a.b;
+sub lslash' @b_left by lslash a.b;
+
+sub m' @b_left by m a.b;
+sub macute' @b_left by macute a.b;
+sub mdotaccent' @b_left by mdotaccent a.b;
+sub mdotbelow' @b_left by mdotbelow a.b;
+
+sub n' @b_left by n a.b;
+sub nacute' @b_left by nacute a.b;
+sub ncaron' @b_left by ncaron a.b;
+sub ncircumflexbelow' @b_left by ncircumflexbelow a.b;
+sub ncommaaccent' @b_left by ncommaaccent a.b;
+sub ndotaccent' @b_left by ndotaccent a.b;
+sub ndotbelow' @b_left by ndotbelow a.b;
+sub ngrave' @b_left by ngrave a.b;
+sub nhookleft' @b_left by nhookleft a.b;
+sub nlinebelow' @b_left by nlinebelow a.b;
+sub ntilde' @b_left by ntilde a.b;
+
+sub u' @b_left by u a.b;
+sub uacute' @b_left by uacute a.b;
+sub ubar' @b_left by ubar a.b;
+sub ubreve' @b_left by ubreve a.b;
+sub ucaron' @b_left by ucaron a.b;
+sub ucircumflex' @b_left by ucircumflex a.b;
+sub ucircumflexbelow' @b_left by ucircumflexbelow a.b;
+sub udieresis' @b_left by u a.b;
+sub udieresisacute' @b_left by udieresisacute a.b;
+sub udieresisbelow' @b_left by udieresisbelow a.b;
+sub udieresiscaron' @b_left by udieresiscaron a.b;
+sub udieresisgrave' @b_left by udieresisgrave a.b;
+sub udieresismacron' @b_left by udieresismacron a.b;
+sub udotbelow' @b_left by udotbelow a.b;
+sub ugrave' @b_left by ugrave a.b;
+sub uhookabove' @b_left by uhookabove a.b;
+sub uhorn' @b_left by uhorn a.b;
+sub uhornacute' @b_left by uhornacute a.b;
+sub uhorndotbelow' @b_left by uhorndotbelow a.b;
+sub uhorngrave' @b_left by uhorngrave a.b;
+sub uhornhookabove' @b_left by uhornhookabove a.b;
+sub uhorntilde' @b_left by uhorntilde a.b;
+sub uhungarumlaut' @b_left by uhungarumlaut a.b;
+sub uinvertedbreve' @b_left by uinvertedbreve a.b;
+sub umacron' @b_left by umacron a.b;
+sub umacrondieresis' @b_left by umacrondieresis a.b;
+sub uogonek' @b_left by uogonek a.b;
+sub uring' @b_left by uring a.b;
+sub utilde' @b_left by utilde a.b;
+sub utildeacute' @b_left by utildeacute a.b;
+sub utildebelow' @b_left by utildebelow a.b;
 
 sub o' @b_left by o o.b;
 sub oacute' @b_left by oacute o.b;
@@ -785,6 +962,17 @@ sub etildebelow' @c_left by etildebelow e.b;
 sub f' @c_left by f f.c;
 sub fdotaccent' @c_left by fdotaccent f.c;
 
+sub t' @c_left by t f.c;
+sub tbar' @c_left by tbar f.c;
+sub tcaron' @c_left by tcaron f.c;
+sub tcedilla' @c_left by tcedilla f.c;
+sub tcircumflexbelow' @c_left by tcircumflexbelow f.c;
+sub tcommaaccent' @c_left by  tcommaaccent f.c;
+sub tdieresis' @c_left by tdieresis f.c;
+sub tdotaccent' @c_left by tdotaccent f.c;
+sub tdotbelow' @c_left by tdotbelow f.c;
+sub tlinebelow' @c_left by tlinebelow f.c;
+
 sub h' @c_left by h a.c;
 sub hbar' @c_left by hbar a.c;
 sub hbrevebelow' @c_left by hbrevebelow a.c;
@@ -796,12 +984,58 @@ sub hdotaccent' @c_left by hdotaccent a.c;
 sub hdotbelow' @c_left by hdotbelow a.c;
 sub hlinebelow' @c_left by hlinebelow a.c;
 
+sub i' @c_left by i a.c;
+sub idotless' @c_left by idotless a.c;
+sub iacute' @c_left by iacute a.c;
+sub ibreve' @c_left by ibreve a.c;
+sub icaron' @c_left by icaron a.c;
+sub icircumflex' @c_left by icircumflex a.c;
+sub idieresis' @c_left by idieresis a.c;
+sub idieresisacute' @c_left by idieresisacute a.c;
+sub idotaccent' @c_left by idotaccent a.c;
+sub idotbelow' @c_left by idotbelow a.c;
+sub igrave' @c_left by igrave a.c;
+sub ihookabove' @c_left by ihookabove a.c;
+sub iinvertedbreve' @c_left by iinvertedbreve a.c;
+sub imacron' @c_left by imacron a.c;
+sub iogonek' @c_left by iogonek a.c;
+sub iota-latin' @c_left by iota-latin a.c;
+sub istroke' @c_left by istroke a.c;
+sub itilde' @c_left by itilde a.c;
+sub itildebelow' @c_left by itildebelow a.c;
+
 sub k' @c_left by k k.c;
 sub kacute' @c_left by kacute k.c;
 sub kcaron' @c_left by kcaron k.c;
 sub kcommaaccent' @c_left by kcommaaccent k.c;
 sub kdotbelow' @c_left by kdotbelow k.c;
 sub klinebelow' @c_left by klinebelow k.c;
+
+sub l' @c_left by l a.c;
+sub lacute' @c_left by lacute a.c;
+sub lcaron' @c_left by lcaron a.c;
+sub lcircumflexbelow' @c_left by lcircumflexbelow a.c;
+sub lcommaaccent' @c_left by lcommaaccent a.c;
+sub ldot' @c_left by ldot a.c;
+sub ldotbelow' @c_left by ldotbelow a.c;
+sub lslash' @c_left by lslash a.c;
+
+sub m' @c_left by m a.c;
+sub macute' @c_left by macute a.c;
+sub mdotaccent' @c_left by mdotaccent a.c;
+sub mdotbelow' @c_left by mdotbelow a.c;
+
+sub n' @c_left by n a.c;
+sub nacute' @c_left by nacute a.c;
+sub ncaron' @c_left by ncaron a.c;
+sub ncircumflexbelow' @c_left by ncircumflexbelow a.c;
+sub ncommaaccent' @c_left by ncommaaccent a.c;
+sub ndotaccent' @c_left by ndotaccent a.c;
+sub ndotbelow' @c_left by ndotbelow a.c;
+sub ngrave' @c_left by ngrave a.c;
+sub nhookleft' @c_left by nhookleft a.c;
+sub nlinebelow' @c_left by nlinebelow a.c;
+sub ntilde' @c_left by ntilde a.c;
 
 sub o' @c_left by o o.c;
 sub oacute' @c_left by oacute o.c;
@@ -836,8 +1070,42 @@ sub oogonek' @c_left by oogonek o.c;
 sub otilde' @c_left by otilde o.c;
 sub otildeacute' @c_left by otildeacute o.c;
 
+sub u' @c_left by u a.c;
+sub uacute' @c_left by uacute a.c;
+sub ubar' @c_left by ubar a.c;
+sub ubreve' @c_left by ubreve a.c;
+sub ucaron' @c_left by ucaron a.c;
+sub ucircumflex' @c_left by ucircumflex a.c;
+sub ucircumflexbelow' @c_left by ucircumflexbelow a.c;
+sub udieresis' @c_left by u a.c;
+sub udieresisacute' @c_left by udieresisacute a.c;
+sub udieresisbelow' @c_left by udieresisbelow a.c;
+sub udieresiscaron' @c_left by udieresiscaron a.c;
+sub udieresisgrave' @c_left by udieresisgrave a.c;
+sub udieresismacron' @c_left by udieresismacron a.c;
+sub udotbelow' @c_left by udotbelow a.c;
+sub ugrave' @c_left by ugrave a.c;
+sub uhookabove' @c_left by uhookabove a.c;
+sub uhorn' @c_left by uhorn a.c;
+sub uhornacute' @c_left by uhornacute a.c;
+sub uhorndotbelow' @c_left by uhorndotbelow a.c;
+sub uhorngrave' @c_left by uhorngrave a.c;
+sub uhornhookabove' @c_left by uhornhookabove a.c;
+sub uhorntilde' @c_left by uhorntilde a.c;
+sub uhungarumlaut' @c_left by uhungarumlaut a.c;
+sub uinvertedbreve' @c_left by uinvertedbreve a.c;
+sub umacron' @c_left by umacron a.c;
+sub umacrondieresis' @c_left by umacrondieresis a.c;
+sub uogonek' @c_left by uogonek a.c;
+sub uring' @c_left by uring a.c;
+sub utilde' @c_left by utilde a.c;
+sub utildeacute' @c_left by utildeacute a.c;
+sub utildebelow' @c_left by utildebelow a.c;
+
+# check if duplicated
 sub f' @c_left by f f.c;
 sub fdotaccent' @c_left by fdotaccent f.c;
+#
 
 sub s' @c_left by s s.c;
 sub sacute' @c_left by sacute s.c;
@@ -910,6 +1178,20 @@ sub sdotbelowdotaccent' @i_left by sdotbelowdotaccent s.i;
 sub v' @i_left by v v.i;
 sub vtilde' @i_left by vtilde v.i;
 
+sub f' @f_left by f f.f;
+sub fdotaccent' @f_left by fdotaccent f.f;
+
+sub t' @f_left by t f.f;
+sub tbar' @f_left by tbar f.f;
+sub tcaron' @f_left by tcaron f.f;
+sub tcedilla' @f_left by tcedilla f.f;
+sub tcircumflexbelow' @f_left by tcircumflexbelow f.f;
+sub tcommaaccent' @f_left by  tcommaaccent f.f;
+sub tdieresis' @f_left by tdieresis f.f;
+sub tdotaccent' @f_left by tdotaccent f.f;
+sub tdotbelow' @f_left by tdotbelow f.f;
+sub tlinebelow' @f_left by tlinebelow f.f;
+
 sub a' @s_left by a a.s;
 sub aacute' @s_left by aacute a.s;
 sub abreve' @s_left by abreve a.s;
@@ -980,6 +1262,26 @@ sub etildebelow' @s_left by etildebelow e.s;
 
 sub f' @s_left by f f.s;
 sub fdotaccent' @s_left by fdotaccent f.s;
+
+sub i' @s_left by i a.s;
+sub idotless' @s_left by idotless a.s;
+sub iacute' @s_left by iacute a.s;
+sub ibreve' @s_left by ibreve a.s;
+sub icaron' @s_left by icaron a.s;
+sub icircumflex' @s_left by icircumflex a.s;
+sub idieresis' @s_left by idieresis a.s;
+sub idieresisacute' @s_left by idieresisacute a.s;
+sub idotaccent' @s_left by idotaccent a.s;
+sub idotbelow' @s_left by idotbelow a.s;
+sub igrave' @s_left by igrave a.s;
+sub ihookabove' @s_left by ihookabove a.s;
+sub iinvertedbreve' @s_left by iinvertedbreve a.s;
+sub imacron' @s_left by imacron a.s;
+sub iogonek' @s_left by iogonek a.s;
+sub iota-latin' @s_left by iota-latin a.s;
+sub istroke' @s_left by istroke a.s;
+sub itilde' @s_left by itilde a.s;
+sub itildebelow' @s_left by itildebelow a.s;
 
 sub k' @s_left by k k.s;
 sub kacute' @s_left by kacute k.s;
@@ -1107,6 +1409,52 @@ sub ddotaccent' @v_left by ddotaccent a.v;
 sub ddotbelow' @v_left by ddotbelow a.v;
 sub dlinebelow' @v_left by dlinebelow a.v;
 
+sub l' @v_left by l a.v;
+sub lacute' @v_left by lacute a.v;
+sub lcaron' @v_left by lcaron a.v;
+sub lcircumflexbelow' @v_left by lcircumflexbelow a.v;
+sub lcommaaccent' @v_left by lcommaaccent a.v;
+sub ldot' @v_left by ldot a.v;
+sub ldotbelow' @v_left by ldotbelow a.v;
+sub lslash' @v_left by lslash a.v;
+
+sub m' @v_left by m a.v;
+sub macute' @v_left by macute a.v;
+sub mdotaccent' @v_left by mdotaccent a.v;
+sub mdotbelow' @v_left by mdotbelow a.v;
+
+sub n' @v_left by n a.v;
+sub nacute' @v_left by nacute a.v;
+sub ncaron' @v_left by ncaron a.v;
+sub ncircumflexbelow' @v_left by ncircumflexbelow a.v;
+sub ncommaaccent' @v_left by ncommaaccent a.v;
+sub ndotaccent' @v_left by ndotaccent a.v;
+sub ndotbelow' @v_left by ndotbelow a.v;
+sub ngrave' @v_left by ngrave a.v;
+sub nhookleft' @v_left by nhookleft a.v;
+sub nlinebelow' @v_left by nlinebelow a.v;
+sub ntilde' @v_left by ntilde a.v;
+
+sub i' @c_left by i a.c;
+sub idotless' @c_left by idotless a.c;
+sub iacute' @c_left by iacute a.c;
+sub ibreve' @c_left by ibreve a.c;
+sub icaron' @c_left by icaron a.c;
+sub icircumflex' @c_left by icircumflex a.c;
+sub idieresis' @c_left by idieresis a.c;
+sub idieresisacute' @c_left by idieresisacute a.c;
+sub idotaccent' @c_left by idotaccent a.c;
+sub idotbelow' @c_left by idotbelow a.c;
+sub igrave' @c_left by igrave a.c;
+sub ihookabove' @c_left by ihookabove a.c;
+sub iinvertedbreve' @c_left by iinvertedbreve a.c;
+sub imacron' @c_left by imacron a.c;
+sub iogonek' @c_left by iogonek a.c;
+sub iota-latin' @c_left by iota-latin a.c;
+sub istroke' @c_left by istroke a.c;
+sub itilde' @c_left by itilde a.c;
+sub itildebelow' @c_left by itildebelow a.c;
+
 sub d' @a_left by d d.a;
 sub dcaron' @a_left by dcaron d.a;
 sub dcedilla' @a_left by dcedilla d.a;
@@ -1152,6 +1500,26 @@ sub emacron' @v_left by emacron e.v;
 sub eogonek' @v_left by eogonek e.v;
 sub etilde' @v_left by etilde e.v;
 sub etildebelow' @v_left by etildebelow e.v;
+
+sub i' @v_left by i a.v;
+sub idotless' @v_left by idotless a.v;
+sub iacute' @v_left by iacute a.v;
+sub ibreve' @v_left by ibreve a.v;
+sub icaron' @v_left by icaron a.v;
+sub icircumflex' @v_left by icircumflex a.v;
+sub idieresis' @v_left by idieresis a.v;
+sub idieresisacute' @v_left by idieresisacute a.v;
+sub idotaccent' @v_left by idotaccent a.v;
+sub idotbelow' @v_left by idotbelow a.v;
+sub igrave' @v_left by igrave a.v;
+sub ihookabove' @v_left by ihookabove a.v;
+sub iinvertedbreve' @v_left by iinvertedbreve a.v;
+sub imacron' @v_left by imacron a.v;
+sub iogonek' @v_left by iogonek a.v;
+sub iota-latin' @v_left by iota-latin a.v;
+sub istroke' @v_left by istroke a.v;
+sub itilde' @v_left by itilde a.v;
+sub itildebelow' @v_left by itildebelow a.v;
 
 sub k' @v_left by k k.v;
 sub kacute' @v_left by kacute k.v;
@@ -1267,9 +1635,33 @@ sub aringacute' @x_left by aringacute a.v;
 sub aringbelow' @x_left by aringbelow a.v;
 sub atilde' @x_left by atilde a.v;
 
+sub i' @x_left by i d.x;
+sub idotless' @x_left by idotless d.x;
+sub iacute' @x_left by iacute d.x;
+sub ibreve' @x_left by ibreve d.x;
+sub icaron' @x_left by icaron d.x;
+sub icircumflex' @x_left by icircumflex d.x;
+sub idieresis' @x_left by idieresis d.x;
+sub idieresisacute' @x_left by idieresisacute d.x;
+sub idotaccent' @x_left by idotaccent d.x;
+sub idotbelow' @x_left by idotbelow d.x;
+sub igrave' @x_left by igrave d.x;
+sub ihookabove' @x_left by ihookabove d.x;
+sub iinvertedbreve' @x_left by iinvertedbreve d.x;
+sub imacron' @x_left by imacron d.x;
+sub iogonek' @x_left by iogonek d.x;
+sub iota-latin' @x_left by iota-latin d.x;
+sub istroke' @x_left by istroke d.x;
+sub itilde' @x_left by itilde d.x;
+sub itildebelow' @x_left by itildebelow d.x;
+
 sub x' @x_left by x x.x;
 sub xdieresis' @x_left by xdieresis x.x;
 sub xdotaccent' @x_left by xdotaccent x.x;
+
+sub v' @x_left by v v.v;
+sub vtilde' @x_left by vtilde v.v;
+
 
 sub x' @spaces_right by x x.exit;
 sub xdieresis' @spaces_right by xdieresis x.exit;
@@ -1284,6 +1676,7 @@ sub l periodcentered' l by periodcentered.loclCAT;
 sub L periodcentered' L by periodcentered.loclCAT.case;
 sub ldot' l by l periodcentered.loclCAT;
 sub Ldot' L by L periodcentered.loclCAT.case;
+
 
 ";
 name = calt;
@@ -41710,6 +42103,52 @@ width = 0;
 }
 );
 note = x_exit;
+},
+{
+color = 8;
+glyphname = f.f;
+lastChange = "2022-10-02 17:21:21 +0000";
+layers = (
+{
+layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
+paths = (
+{
+closed = 1;
+nodes = (
+"65 453 LINE",
+"79 453 OFFCURVE",
+"90 499 OFFCURVE",
+"79 499 CURVE",
+"4 499 LINE SMOOTH",
+"-13 499 OFFCURVE",
+"-30 453 OFFCURVE",
+"-10 453 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+},
+{
+layerId = "63F4CE79-9D5F-46D3-B41C-385689F27F0A";
+paths = (
+{
+closed = 1;
+nodes = (
+"103 415 LINE",
+"127 415 OFFCURVE",
+"136 499 OFFCURVE",
+"122 499 CURVE",
+"-31 499 LINE SMOOTH",
+"-47 499 OFFCURVE",
+"-62 415 OFFCURVE",
+"-45 415 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+note = f.s;
 },
 {
 color = 1;
