@@ -50,8 +50,6 @@ Fontbakery version: 0.8.10
 
 	- IJ_acutecomb
 
-	- e.c
-
 	- r.c 
 
 	- And uni0328.alt
@@ -147,8 +145,6 @@ Use -F or --full-lists to disable shortening of long lists.
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
 	- IJ_acutecomb
-
-	- e.c
 
 	- r.c 
 
@@ -294,8 +290,6 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
-	- e.c
-
 	- r.c 
 
 	- And uni0328.alt
@@ -349,6 +343,8 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs have jaggy segments:
 
+	* aringacute (U+01FB): B<<433.0,760.0>-<429.0,760.0>-<426.0,762.0>>/B<<426.0,762.0>-<455.0,735.0>-<455.0,696.0>> = 9.264523985132971
+
 	* n (U+006E): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618
 
 	* nacute (U+0144): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618
@@ -365,11 +361,9 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	* uni0146 (U+0146): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618
 
-	* uni0157 (U+0157): B<<193.5,284.0>-<192.0,263.0>-<191.0,257.0>>/B<<191.0,257.0>-<224.0,355.0>-<258.0,413.5>> = 9.147842519801692
+	* uni0157 (U+0157): B<<193.5,284.0>-<192.0,263.0>-<191.0,257.0>>/B<<191.0,257.0>-<224.0,355.0>-<258.0,413.5>> = 9.147842519801692 
 
-	* uni01CC (U+01CC): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618 
-
-	* And 11 more.
+	* And 12 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
@@ -441,8 +435,6 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
 	- IJ_acutecomb
-
-	- e.c
 
 	- r.c 
 
@@ -577,8 +569,6 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
 	- IJ_acutecomb
-
-	- e.c
 
 	- r.c 
 
@@ -730,8 +720,6 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
-	- e.c
-
 	- r.c 
 
 	- And uni0328.alt
@@ -847,8 +835,6 @@ Use -F or --full-lists to disable shortening of long lists.
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
 	- IJ_acutecomb
-
-	- e.c
 
 	- r.c 
 
@@ -973,8 +959,6 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
 	- IJ_acutecomb
-
-	- e.c
 
 	- r.c 
 
