@@ -42289,6 +42289,7 @@ width = 684;
 leftKerningGroup = KO_y;
 rightKerningGroup = KO_y;
 unicode = 1EF5;
+changeCount = 1;
 },
 {
 color = 5;
