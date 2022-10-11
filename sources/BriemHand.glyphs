@@ -138,7 +138,7 @@ value = 1;
 );
 date = "2022-09-24 06:35:09 +0000";
 designer = "Gunnlaugur SE Briem, Eben Sorkin";
-familyName = BriemHand3;
+familyName = BriemHand;
 featurePrefixes = (
 {
 automatic = 1;
@@ -54721,15 +54721,15 @@ R = NoKerning;
 {
 color = 4;
 glyphname = nbspace;
-lastChange = "2022-10-10 17:56:07 +0000";
+lastChange = "2022-10-11 02:20:19 +0000";
 layers = (
 {
 layerId = "220B7CD1-1E4F-4884-BA06-A44A5DCE8B14";
-width = 275;
+width = 265;
 },
 {
 layerId = "63F4CE79-9D5F-46D3-B41C-385689F27F0A";
-width = 275;
+width = 265;
 }
 );
 note = uni00A0;
