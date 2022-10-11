@@ -2,36 +2,7 @@
 
 Fontbakery version: 0.8.10
 
-<details><summary><b>[7] BriemHand-Thin.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
-
-	- 0x207F (SUPERSCRIPT LATIN SMALL LETTER N)
- 
-
-	- And 0x1D3A (MODIFIER LETTER CAPITAL N)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_Latin_Minorities is almost fulfilled. Missing codepoints:
-
-	- 0x01B7 (LATIN CAPITAL LETTER EZH)
-
-
-	- 0x01EE (LATIN CAPITAL LETTER EZH WITH CARON)
-
-
-	- 0x01E4 (LATIN CAPITAL LETTER G WITH STROKE)
-
-
-	- 0x0292 (LATIN SMALL LETTER EZH)
-
-
-	- 0x01EF (LATIN SMALL LETTER EZH WITH CARON)
- 
-
-	- And 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
- [code: missing-codepoints]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+<details><summary><b>[7] BriemHand-Thin.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
 * ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
@@ -52,9 +23,7 @@ Fontbakery version: 0.8.10
 
 	- dotted
 
-	- ij_acutecomb
-
-	- uni03060303.case.001 
+	- ij_acutecomb 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -102,36 +71,13 @@ Use -F or --full-lists to disable shortening of long lists.
 	* uni0283 (U+0283): L<<110.0,40.0>--<105.0,499.0>> -> L<<105.0,499.0>--<105.0,504.0>> 
 
 	* And uni0283 (U+0283): L<<172.0,571.0>--<169.0,499.0>> -> L<<169.0,499.0>--<169.0,-28.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[9] BriemHand-Regular.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+</div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
 
 
-* ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
+* ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
 
-	- 0x207F (SUPERSCRIPT LATIN SMALL LETTER N)
- 
-
-	- And 0x1D3A (MODIFIER LETTER CAPITAL N)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_Latin_Minorities is almost fulfilled. Missing codepoints:
-
-	- 0x01B7 (LATIN CAPITAL LETTER EZH)
-
-
-	- 0x01EE (LATIN CAPITAL LETTER EZH WITH CARON)
-
-
-	- 0x01E4 (LATIN CAPITAL LETTER G WITH STROKE)
-
-
-	- 0x0292 (LATIN SMALL LETTER EZH)
-
-
-	- 0x01EF (LATIN SMALL LETTER EZH WITH CARON)
- 
-
-	- And 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
- [code: missing-codepoints]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+	* uni01E4 (U+01E4): L<<578.0,134.0>--<408.0,133.0>> [code: found-semi-vertical]
+</div></details><br></div></details><details><summary><b>[8] BriemHand-Regular.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
 * ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
@@ -152,9 +98,7 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- dotted
 
-	- ij_acutecomb
-
-	- uni03060303.case.001 
+	- ij_acutecomb 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -252,36 +196,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 	* uni0283 (U+0283): L<<202.0,499.0>--<200.0,-1.0>> 
 
 	* And uni1E1F (U+1E1F): L<<230.0,442.0>--<227.0,-1.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[9] BriemHand-Light.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
-
-	- 0x207F (SUPERSCRIPT LATIN SMALL LETTER N)
- 
-
-	- And 0x1D3A (MODIFIER LETTER CAPITAL N)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_Latin_Minorities is almost fulfilled. Missing codepoints:
-
-	- 0x01B7 (LATIN CAPITAL LETTER EZH)
-
-
-	- 0x01EE (LATIN CAPITAL LETTER EZH WITH CARON)
-
-
-	- 0x01E4 (LATIN CAPITAL LETTER G WITH STROKE)
-
-
-	- 0x0292 (LATIN SMALL LETTER EZH)
-
-
-	- 0x01EF (LATIN SMALL LETTER EZH WITH CARON)
- 
-
-	- And 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
- [code: missing-codepoints]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] BriemHand-Light.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
 * ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
@@ -302,9 +217,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- dotted
 
-	- ij_acutecomb
-
-	- uni03060303.case.001 
+	- ij_acutecomb 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -399,39 +312,12 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	* integral (U+222B): L<<216.0,510.0>--<214.0,4.0>>
 
+	* uni01E4 (U+01E4): L<<563.0,135.0>--<407.0,134.0>>
+
 	* uni0283 (U+0283): L<<188.0,499.0>--<186.0,-13.0>> 
 
 	* And uni1E1F (U+1E1F): L<<217.0,447.0>--<215.0,-13.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[9] BriemHand-Medium.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
-
-	- 0x207F (SUPERSCRIPT LATIN SMALL LETTER N)
- 
-
-	- And 0x1D3A (MODIFIER LETTER CAPITAL N)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_Latin_Minorities is almost fulfilled. Missing codepoints:
-
-	- 0x01B7 (LATIN CAPITAL LETTER EZH)
-
-
-	- 0x01EE (LATIN CAPITAL LETTER EZH WITH CARON)
-
-
-	- 0x01E4 (LATIN CAPITAL LETTER G WITH STROKE)
-
-
-	- 0x0292 (LATIN SMALL LETTER EZH)
-
-
-	- 0x01EF (LATIN SMALL LETTER EZH WITH CARON)
- 
-
-	- And 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
- [code: missing-codepoints]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] BriemHand-Medium.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
 * ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
@@ -452,9 +338,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- dotted
 
-	- ij_acutecomb
-
-	- uni03060303.case.001 
+	- ij_acutecomb 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -542,36 +426,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 	* product (U+220F): L<<443.0,561.0>--<266.0,562.0>> 
 
 	* And uni0283 (U+0283): L<<217.0,499.0>--<213.0,11.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[9] BriemHand-SemiBold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
-
-	- 0x207F (SUPERSCRIPT LATIN SMALL LETTER N)
- 
-
-	- And 0x1D3A (MODIFIER LETTER CAPITAL N)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_Latin_Minorities is almost fulfilled. Missing codepoints:
-
-	- 0x01B7 (LATIN CAPITAL LETTER EZH)
-
-
-	- 0x01EE (LATIN CAPITAL LETTER EZH WITH CARON)
-
-
-	- 0x01E4 (LATIN CAPITAL LETTER G WITH STROKE)
-
-
-	- 0x0292 (LATIN SMALL LETTER EZH)
-
-
-	- 0x01EF (LATIN SMALL LETTER EZH WITH CARON)
- 
-
-	- And 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
- [code: missing-codepoints]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] BriemHand-SemiBold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
 * ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
@@ -592,9 +447,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- dotted
 
-	- ij_acutecomb
-
-	- uni03060303.case.001 
+	- ij_acutecomb 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -687,7 +540,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-colinea
 
 	* nacute (U+0144): B<<233.0,273.0>-<230.0,239.0>-<229.0,223.0>>/B<<229.0,223.0>-<237.0,252.0>-<259.5,291.0>> = 11.845826943741303 
 
-	* And 36 more.
+	* And 37 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
@@ -696,36 +549,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 * ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
 
 	* product (U+220F): L<<450.0,543.0>--<300.0,544.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[8] BriemHand-ExtraLight.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
-
-	- 0x207F (SUPERSCRIPT LATIN SMALL LETTER N)
- 
-
-	- And 0x1D3A (MODIFIER LETTER CAPITAL N)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_Latin_Minorities is almost fulfilled. Missing codepoints:
-
-	- 0x01B7 (LATIN CAPITAL LETTER EZH)
-
-
-	- 0x01EE (LATIN CAPITAL LETTER EZH WITH CARON)
-
-
-	- 0x01E4 (LATIN CAPITAL LETTER G WITH STROKE)
-
-
-	- 0x0292 (LATIN SMALL LETTER EZH)
-
-
-	- 0x01EF (LATIN SMALL LETTER EZH WITH CARON)
- 
-
-	- And 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
- [code: missing-codepoints]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[7] BriemHand-ExtraLight.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
 * ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
@@ -746,9 +570,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- dotted
 
-	- ij_acutecomb
-
-	- uni03060303.case.001 
+	- ij_acutecomb 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -816,36 +638,7 @@ Use -F or --full-lists to disable shortening of long lists.
 	* uni0283 (U+0283): L<<178.0,499.0>--<177.0,-21.0>> 
 
 	* And uni1E1F (U+1E1F): L<<207.0,450.0>--<206.0,-21.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[8] BriemHand-Black.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
-
-	- 0x207F (SUPERSCRIPT LATIN SMALL LETTER N)
- 
-
-	- And 0x1D3A (MODIFIER LETTER CAPITAL N)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_Latin_Minorities is almost fulfilled. Missing codepoints:
-
-	- 0x01B7 (LATIN CAPITAL LETTER EZH)
-
-
-	- 0x01EE (LATIN CAPITAL LETTER EZH WITH CARON)
-
-
-	- 0x01E4 (LATIN CAPITAL LETTER G WITH STROKE)
-
-
-	- 0x0292 (LATIN SMALL LETTER EZH)
-
-
-	- 0x01EF (LATIN SMALL LETTER EZH WITH CARON)
- 
-
-	- And 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
- [code: missing-codepoints]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[7] BriemHand-Black.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
 * ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
@@ -866,9 +659,7 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- dotted
 
-	- ij_acutecomb
-
-	- uni03060303.case.001 
+	- ij_acutecomb 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -941,39 +732,10 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	* aring (U+00E5): B<<384.0,191.5>-<385.0,212.0>-<386.0,224.0>>/B<<386.0,224.0>-<381.0,205.0>-<363.0,175.5>> = 9.979921145744504 
 
-	* And 150 more.
+	* And 152 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[9] BriemHand-Bold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
-
-	- 0x207F (SUPERSCRIPT LATIN SMALL LETTER N)
- 
-
-	- And 0x1D3A (MODIFIER LETTER CAPITAL N)
- [code: missing-codepoints]
-* ⚠ **WARN** GF_Latin_Minorities is almost fulfilled. Missing codepoints:
-
-	- 0x01B7 (LATIN CAPITAL LETTER EZH)
-
-
-	- 0x01EE (LATIN CAPITAL LETTER EZH WITH CARON)
-
-
-	- 0x01E4 (LATIN CAPITAL LETTER G WITH STROKE)
-
-
-	- 0x0292 (LATIN SMALL LETTER EZH)
-
-
-	- 0x01EF (LATIN SMALL LETTER EZH WITH CARON)
- 
-
-	- And 0x01E5 (LATIN SMALL LETTER G WITH STROKE)
- [code: missing-codepoints]
-</div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] BriemHand-Bold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
 
 
 * ⚠ **WARN** GPOS table lacks kerning info for the following non-ligated sequences:
@@ -994,9 +756,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- dotted
 
-	- ij_acutecomb
-
-	- uni03060303.case.001 
+	- ij_acutecomb 
 
 	- And uni0328.alt
  [code: unreachable-glyphs]
@@ -1069,7 +829,7 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	* hbar (U+0127): B<<251.5,293.0>-<249.0,258.0>-<249.0,249.0>>/B<<249.0,249.0>-<254.0,273.0>-<274.0,308.0>> = 11.768288932020628 
 
-	* And 73 more.
+	* And 75 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
@@ -1083,7 +843,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 0 | 68 | 874 | 49 | 720 | 0 |
+| 0 | 0 | 61 | 874 | 49 | 727 | 0 |
 | 0% | 0% | 4% | 51% | 3% | 42% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
