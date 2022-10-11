@@ -2,12 +2,7 @@
 
 Fontbakery version: 0.8.10
 
-<details><summary><b>[8] BriemHand-Thin.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check glyphs do not have duplicate components which have the same x,y coordinates. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/glyf.html#com.google.fonts/check/glyf_non_transformed_duplicate_components">com.google.fonts/check/glyf_non_transformed_duplicate_components</a>)</summary><div>
-
-
-* 🔥 **FAIL** The following glyphs have duplicate components which have the same x,y coordinates:
-	* {'glyph': 'uni02BA', 'component': 'minute', 'x': 0, 'y': 0} [code: found-duplicates]
-</div></details><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+<details><summary><b>[7] BriemHand-Thin.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
@@ -107,12 +102,7 @@ Use -F or --full-lists to disable shortening of long lists.
 	* uni0283 (U+0283): L<<110.0,40.0>--<105.0,499.0>> -> L<<105.0,499.0>--<105.0,504.0>> 
 
 	* And uni0283 (U+0283): L<<172.0,571.0>--<169.0,499.0>> -> L<<169.0,499.0>--<169.0,-28.0>> [code: found-colinear-vectors]
-</div></details><br></div></details><details><summary><b>[10] BriemHand-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check glyphs do not have duplicate components which have the same x,y coordinates. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/glyf.html#com.google.fonts/check/glyf_non_transformed_duplicate_components">com.google.fonts/check/glyf_non_transformed_duplicate_components</a>)</summary><div>
-
-
-* 🔥 **FAIL** The following glyphs have duplicate components which have the same x,y coordinates:
-	* {'glyph': 'uni02BA', 'component': 'minute', 'x': 0, 'y': 0} [code: found-duplicates]
-</div></details><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] BriemHand-Regular.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
@@ -178,25 +168,25 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: onehalf	Contours detected: 2	Expected: 3
 
-	- Glyph name: Adieresis	Contours detected: 3	Expected: 4
-
-	- Glyph name: Edieresis	Contours detected: 2	Expected: 3
-
-	- Glyph name: Idieresis	Contours detected: 2	Expected: 3
-
-	- Glyph name: Odieresis	Contours detected: 3	Expected: 4
-
 	- Glyph name: multiply	Contours detected: 4	Expected: 1
 
-	- Glyph name: Udieresis	Contours detected: 2	Expected: 3
+	- Glyph name: lslash	Contours detected: 4	Expected: 1
 
-	- Glyph name: Ccaron	Contours detected: 3	Expected: 2
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: ccaron	Contours detected: 3	Expected: 2
+	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: Dcaron	Contours detected: 4	Expected: 3 
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
 
-	- And 163 more.
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni01EA	Contours detected: 3	Expected: 2
+
+	- Glyph name: uni0228	Contours detected: 2	Expected: 1 
+
+	- And 59 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -262,12 +252,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 	* uni0283 (U+0283): L<<202.0,499.0>--<200.0,-1.0>> 
 
 	* And uni1E1F (U+1E1F): L<<230.0,442.0>--<227.0,-1.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[10] BriemHand-Light.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check glyphs do not have duplicate components which have the same x,y coordinates. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/glyf.html#com.google.fonts/check/glyf_non_transformed_duplicate_components">com.google.fonts/check/glyf_non_transformed_duplicate_components</a>)</summary><div>
-
-
-* 🔥 **FAIL** The following glyphs have duplicate components which have the same x,y coordinates:
-	* {'glyph': 'uni02BA', 'component': 'minute', 'x': 0, 'y': 0} [code: found-duplicates]
-</div></details><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] BriemHand-Light.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
@@ -372,8 +357,6 @@ Use -F or --full-lists to disable shortening of long lists.
 
 * ⚠ **WARN** The following glyphs have jaggy segments:
 
-	* aringacute (U+01FB): B<<433.0,760.0>-<429.0,760.0>-<426.0,762.0>>/B<<426.0,762.0>-<455.0,735.0>-<455.0,696.0>> = 9.264523985132971
-
 	* m (U+006D): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618
 
 	* m (U+006D): B<<520.0,195.5>-<518.0,169.0>-<517.0,163.0>>/B<<517.0,163.0>-<533.0,203.0>-<561.5,251.0>> = 12.33908727832618
@@ -390,9 +373,11 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	* uni01CC (U+01CC): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618
 
-	* uni01F9 (U+01F9): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618 
+	* uni01F9 (U+01F9): B<<185.0,199.5>-<183.0,169.0>-<182.0,163.0>>/B<<182.0,163.0>-<198.0,203.0>-<226.5,251.0>> = 12.33908727832618
 
-	* And 12 more.
+	* uni026F (U+026F): B<<471.0,328.5>-<473.0,355.0>-<474.0,361.0>>/B<<474.0,361.0>-<458.0,321.0>-<429.5,273.0>> = 12.33908727832618 
+
+	* And 11 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
@@ -417,12 +402,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 	* uni0283 (U+0283): L<<188.0,499.0>--<186.0,-13.0>> 
 
 	* And uni1E1F (U+1E1F): L<<217.0,447.0>--<215.0,-13.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[10] BriemHand-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check glyphs do not have duplicate components which have the same x,y coordinates. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/glyf.html#com.google.fonts/check/glyf_non_transformed_duplicate_components">com.google.fonts/check/glyf_non_transformed_duplicate_components</a>)</summary><div>
-
-
-* 🔥 **FAIL** The following glyphs have duplicate components which have the same x,y coordinates:
-	* {'glyph': 'uni02BA', 'component': 'minute', 'x': 0, 'y': 0} [code: found-duplicates]
-</div></details><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] BriemHand-Medium.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
@@ -490,23 +470,23 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: onehalf	Contours detected: 2	Expected: 3
 
-	- Glyph name: Adieresis	Contours detected: 3	Expected: 4
-
-	- Glyph name: Edieresis	Contours detected: 2	Expected: 3
-
-	- Glyph name: Idieresis	Contours detected: 2	Expected: 3
-
-	- Glyph name: Odieresis	Contours detected: 3	Expected: 4
-
 	- Glyph name: multiply	Contours detected: 5	Expected: 1
 
-	- Glyph name: Udieresis	Contours detected: 2	Expected: 3
+	- Glyph name: lslash	Contours detected: 4	Expected: 1
 
-	- Glyph name: Ccaron	Contours detected: 3	Expected: 2
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: ccaron	Contours detected: 3	Expected: 2 
+	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- And 165 more.
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni01EA	Contours detected: 3	Expected: 2 
+
+	- And 59 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -547,7 +527,7 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	* racute (U+0155): B<<216.5,309.0>-<214.0,281.0>-<213.0,269.0>>/B<<213.0,269.0>-<257.0,403.0>-<305.5,463.5>> = 13.41437710769231 
 
-	* And 34 more.
+	* And 21 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do outlines contain any semi-vertical or semi-horizontal lines? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_semi_vertical">com.google.fonts/check/outline_semi_vertical</a>)</summary><div>
@@ -562,12 +542,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 	* product (U+220F): L<<443.0,561.0>--<266.0,562.0>> 
 
 	* And uni0283 (U+0283): L<<217.0,499.0>--<213.0,11.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[10] BriemHand-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check glyphs do not have duplicate components which have the same x,y coordinates. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/glyf.html#com.google.fonts/check/glyf_non_transformed_duplicate_components">com.google.fonts/check/glyf_non_transformed_duplicate_components</a>)</summary><div>
-
-
-* 🔥 **FAIL** The following glyphs have duplicate components which have the same x,y coordinates:
-	* {'glyph': 'uni02BA', 'component': 'minute', 'x': 0, 'y': 0} [code: found-duplicates]
-</div></details><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] BriemHand-SemiBold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
@@ -635,23 +610,23 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: onehalf	Contours detected: 2	Expected: 3
 
-	- Glyph name: Adieresis	Contours detected: 3	Expected: 4
-
-	- Glyph name: Edieresis	Contours detected: 2	Expected: 3
-
-	- Glyph name: Idieresis	Contours detected: 2	Expected: 3
-
-	- Glyph name: Odieresis	Contours detected: 3	Expected: 4
-
 	- Glyph name: multiply	Contours detected: 3	Expected: 1
 
-	- Glyph name: Udieresis	Contours detected: 2	Expected: 3
+	- Glyph name: lslash	Contours detected: 2	Expected: 1
 
-	- Glyph name: Ccaron	Contours detected: 3	Expected: 2
+	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: ccaron	Contours detected: 3	Expected: 2 
+	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- And 149 more.
+	- Glyph name: ohorn	Contours detected: 3	Expected: 2
+
+	- Glyph name: Uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uhorn	Contours detected: 2	Expected: 1
+
+	- Glyph name: uni01EA	Contours detected: 3	Expected: 2 
+
+	- And 57 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -721,12 +696,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 * ⚠ **WARN** The following glyphs have semi-vertical/semi-horizontal lines:
 
 	* product (U+220F): L<<450.0,543.0>--<300.0,544.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[9] BriemHand-ExtraLight.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check glyphs do not have duplicate components which have the same x,y coordinates. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/glyf.html#com.google.fonts/check/glyf_non_transformed_duplicate_components">com.google.fonts/check/glyf_non_transformed_duplicate_components</a>)</summary><div>
-
-
-* 🔥 **FAIL** The following glyphs have duplicate components which have the same x,y coordinates:
-	* {'glyph': 'uni02BA', 'component': 'minute', 'x': 0, 'y': 0} [code: found-duplicates]
-</div></details><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] BriemHand-ExtraLight.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
@@ -846,12 +816,7 @@ Use -F or --full-lists to disable shortening of long lists.
 	* uni0283 (U+0283): L<<178.0,499.0>--<177.0,-21.0>> 
 
 	* And uni1E1F (U+1E1F): L<<207.0,450.0>--<206.0,-21.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[9] BriemHand-Black.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check glyphs do not have duplicate components which have the same x,y coordinates. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/glyf.html#com.google.fonts/check/glyf_non_transformed_duplicate_components">com.google.fonts/check/glyf_non_transformed_duplicate_components</a>)</summary><div>
-
-
-* 🔥 **FAIL** The following glyphs have duplicate components which have the same x,y coordinates:
-	* {'glyph': 'uni02BA', 'component': 'minute', 'x': 0, 'y': 0} [code: found-duplicates]
-</div></details><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[8] BriemHand-Black.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
@@ -979,12 +944,7 @@ Use -F or --full-lists to disable shortening of long lists.
 	* And 150 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[10] BriemHand-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check glyphs do not have duplicate components which have the same x,y coordinates. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/glyf.html#com.google.fonts/check/glyf_non_transformed_duplicate_components">com.google.fonts/check/glyf_non_transformed_duplicate_components</a>)</summary><div>
-
-
-* 🔥 **FAIL** The following glyphs have duplicate components which have the same x,y coordinates:
-	* {'glyph': 'uni02BA', 'component': 'minute', 'x': 0, 'y': 0} [code: found-duplicates]
-</div></details><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[9] BriemHand-Bold.ttf</b></summary><div><details><summary>⚠ <b>WARN:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * ⚠ **WARN** GF_TransLatin_Pinyin is almost fulfilled. Missing codepoints:
@@ -1123,7 +1083,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 8 | 68 | 874 | 49 | 712 | 0 |
+| 0 | 0 | 68 | 874 | 49 | 720 | 0 |
 | 0% | 0% | 4% | 51% | 3% | 42% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
