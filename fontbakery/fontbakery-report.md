@@ -91,7 +91,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni024C	Contours detected: 2	Expected: 1 
 
-	- And 51 more.
+	- And 49 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -196,7 +196,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: Dcaron	Contours detected: 4	Expected: 3 
 
-	- And 165 more.
+	- And 163 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -251,7 +251,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	* fl (U+FB02): L<<230.0,442.0>--<227.0,-1.0>>
 
-	* florin (U+0192): L<<230.0,442.0>--<227.0,-1.0>>
+	* florin (U+0192): L<<204.0,442.0>--<201.0,-1.0>>
 
 	* germandbls (U+00DF): L<<197.0,549.0>--<194.0,0.0>>
 
@@ -351,7 +351,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni01EA	Contours detected: 3	Expected: 2 
 
-	- And 57 more.
+	- And 55 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -406,7 +406,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	* fl (U+FB02): L<<217.0,447.0>--<215.0,-13.0>>
 
-	* florin (U+0192): L<<217.0,447.0>--<215.0,-13.0>>
+	* florin (U+0192): L<<187.0,447.0>--<185.0,-13.0>>
 
 	* germandbls (U+00DF): L<<184.0,551.0>--<182.0,-12.0>>
 
@@ -506,7 +506,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: ccaron	Contours detected: 3	Expected: 2 
 
-	- And 167 more.
+	- And 165 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -651,7 +651,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: ccaron	Contours detected: 3	Expected: 2 
 
-	- And 151 more.
+	- And 149 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -810,7 +810,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni024C	Contours detected: 2	Expected: 1 
 
-	- And 51 more.
+	- And 49 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -837,7 +837,7 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	* fl (U+FB02): L<<207.0,450.0>--<206.0,-21.0>>
 
-	* florin (U+0192): L<<207.0,450.0>--<206.0,-21.0>>
+	* florin (U+0192): L<<174.0,450.0>--<173.0,-21.0>>
 
 	* germandbls (U+00DF): L<<174.0,553.0>--<173.0,-20.0>>
 
@@ -935,7 +935,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni024C	Contours detected: 2	Expected: 1 
 
-	- And 49 more.
+	- And 47 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -1068,7 +1068,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni01EA	Contours detected: 3	Expected: 2 
 
-	- And 57 more.
+	- And 55 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
