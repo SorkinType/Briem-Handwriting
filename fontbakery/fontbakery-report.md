@@ -55,27 +55,15 @@ Fontbakery version: 0.8.10
 
 	- IJ_acutecomb
 
+	- dotted
+
 	- ij_acutecomb
 
 	- r.c
 
-	- uni03020300.case
+	- uni03060303.case.001 
 
-	- uni03020301.case
-
-	- uni03020303.case
-
-	- uni03020309.case
-
-	- uni03060300.case
-
-	- uni03060301.case
-
-	- uni03060303.case 
-
-	- And 3 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- And uni0328.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -105,7 +93,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni1E08	Contours detected: 3	Expected: 2 
 
-	- And 48 more.
+	- And 50 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -174,27 +162,15 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- IJ_acutecomb
 
+	- dotted
+
 	- ij_acutecomb
 
 	- r.c
 
-	- uni03020300.case
+	- uni03060303.case.001 
 
-	- uni03020301.case
-
-	- uni03020303.case
-
-	- uni03020309.case
-
-	- uni03060300.case
-
-	- uni03060301.case
-
-	- uni03060303.case 
-
-	- And 3 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- And uni0328.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -224,7 +200,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: Dcaron	Contours detected: 4	Expected: 3 
 
-	- And 162 more.
+	- And 164 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -343,27 +319,15 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
+	- dotted
+
 	- ij_acutecomb
 
 	- r.c
 
-	- uni03020300.case
+	- uni03060303.case.001 
 
-	- uni03020301.case
-
-	- uni03020303.case
-
-	- uni03020309.case
-
-	- uni03060300.case
-
-	- uni03060301.case
-
-	- uni03060303.case 
-
-	- And 3 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- And uni0328.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -393,7 +357,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni01EA	Contours detected: 3	Expected: 2 
 
-	- And 54 more.
+	- And 56 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -512,27 +476,15 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
+	- dotted
+
 	- ij_acutecomb
 
 	- r.c
 
-	- uni03020300.case
+	- uni03060303.case.001 
 
-	- uni03020301.case
-
-	- uni03020303.case
-
-	- uni03020309.case
-
-	- uni03060300.case
-
-	- uni03060301.case
-
-	- uni03060303.case 
-
-	- And 3 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- And uni0328.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -562,7 +514,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: ccaron	Contours detected: 3	Expected: 2 
 
-	- And 164 more.
+	- And 166 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -671,27 +623,15 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
+	- dotted
+
 	- ij_acutecomb
 
 	- r.c
 
-	- uni03020300.case
+	- uni03060303.case.001 
 
-	- uni03020301.case
-
-	- uni03020303.case
-
-	- uni03020309.case
-
-	- uni03060300.case
-
-	- uni03060301.case
-
-	- uni03060303.case 
-
-	- And 3 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- And uni0328.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -721,7 +661,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: ccaron	Contours detected: 3	Expected: 2 
 
-	- And 148 more.
+	- And 150 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -844,27 +784,15 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
+	- dotted
+
 	- ij_acutecomb
 
 	- r.c
 
-	- uni03020300.case
+	- uni03060303.case.001 
 
-	- uni03020301.case
-
-	- uni03020303.case
-
-	- uni03020309.case
-
-	- uni03060300.case
-
-	- uni03060301.case
-
-	- uni03060303.case 
-
-	- And 3 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- And uni0328.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -894,7 +822,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni1E08	Contours detected: 3	Expected: 2 
 
-	- And 48 more.
+	- And 50 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -983,27 +911,15 @@ Use -F or --full-lists to disable shortening of long lists.
 
 	- IJ_acutecomb
 
+	- dotted
+
 	- ij_acutecomb
 
 	- r.c
 
-	- uni03020300.case
+	- uni03060303.case.001 
 
-	- uni03020301.case
-
-	- uni03020303.case
-
-	- uni03020309.case
-
-	- uni03060300.case
-
-	- uni03060301.case
-
-	- uni03060303.case 
-
-	- And 3 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- And uni0328.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1033,7 +949,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni1E08	Contours detected: 3	Expected: 2 
 
-	- And 46 more.
+	- And 48 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
@@ -1130,27 +1046,15 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
 
 	- IJ_acutecomb
 
+	- dotted
+
 	- ij_acutecomb
 
 	- r.c
 
-	- uni03020300.case
+	- uni03060303.case.001 
 
-	- uni03020301.case
-
-	- uni03020303.case
-
-	- uni03020309.case
-
-	- uni03060300.case
-
-	- uni03060301.case
-
-	- uni03060303.case 
-
-	- And 3 more.
-
-Use -F or --full-lists to disable shortening of long lists.
+	- And uni0328.alt
  [code: unreachable-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check if each glyph has the recommended amount of contours. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/contour_count">com.google.fonts/check/contour_count</a>)</summary><div>
 
@@ -1180,7 +1084,7 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uni01EA	Contours detected: 3	Expected: 2 
 
-	- And 54 more.
+	- And 56 more.
 
 Use -F or --full-lists to disable shortening of long lists.
  [code: contour-count]
